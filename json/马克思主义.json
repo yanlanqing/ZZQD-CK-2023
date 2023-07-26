@@ -1,0 +1,1762 @@
+[
+    {
+      "questionId": "64b34caa6ff6ab0d241ace25",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f7d",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "当代资本主义发生新变化的根本推动力量是( )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 1,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede2d",
+          "label": "A",
+          "description": "科学技术革命和生产力的发展"
+        },
+        {
+          "id": "62b0260ecff47e00010ede2e",
+          "label": "B",
+          "description": "工人阶级争取自身权利和利益的斗争"
+        },
+        {
+          "id": "62b0260ecff47e00010ede2f",
+          "label": "C",
+          "description": "社会主义制度初步显示的优越性的影响"
+        },
+        {
+          "id": "62b0260ecff47e00010ede30",
+          "label": "D",
+          "description": "改良主义政党的改革"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace24",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f7c",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "第二次世界大战后,资本主义生产资料所有制发展的新形式是( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 2,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede29",
+          "label": "A",
+          "description": "私人股份资本所有制"
+        },
+        {
+          "id": "62b0260ecff47e00010ede2a",
+          "label": "B",
+          "description": "法人资本所有制"
+        },
+        {
+          "id": "62b0260ecff47e00010ede2b",
+          "label": "C",
+          "description": "国家资本所有制"
+        },
+        {
+          "id": "62b0260ecff47e00010ede2c",
+          "label": "D",
+          "description": "国际垄断资本所有制"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace23",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f7b",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "垄断利润的实现主要是通过( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 3,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede25",
+          "label": "A",
+          "description": "平均利润"
+        },
+        {
+          "id": "62b0260ecff47e00010ede26",
+          "label": "B",
+          "description": "剩余价值"
+        },
+        {
+          "id": "62b0260ecff47e00010ede27",
+          "label": "C",
+          "description": "垄断价格"
+        },
+        {
+          "id": "62b0260ecff47e00010ede28",
+          "label": "D",
+          "description": "成本价格"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace22",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f7a",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "马克思指出:“一切商品对它们的所有者是非使用价值,对它们的非所有者是使用价值。”对这句话应该理解为( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 4,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede21",
+          "label": "A",
+          "description": "商品的使用价值和价值是统一的"
+        },
+        {
+          "id": "62b0260ecff47e00010ede22",
+          "label": "B",
+          "description": "有使用价值的物品不一定有价值"
+        },
+        {
+          "id": "62b0260ecff47e00010ede23",
+          "label": "C",
+          "description": "商品所有者可以同时占有使用价值和价值"
+        },
+        {
+          "id": "62b0260ecff47e00010ede24",
+          "label": "D",
+          "description": "商品所有者只有让渡使用价值,才能获得价值"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace21",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f79",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "马克思指出:“我们从小麦的滋味中根本无法判断它是封建农民生产的,还是资本主义制度下农业工人生产的。”这说明( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 5,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede1d",
+          "label": "A",
+          "description": "使用价值是历史范畴"
+        },
+        {
+          "id": "62b0260ecff47e00010ede1e",
+          "label": "B",
+          "description": "物品的使用价值都是劳动者生产出来的"
+        },
+        {
+          "id": "62b0260ecff47e00010ede1f",
+          "label": "C",
+          "description": "同一物品的使用价值随着生产关系的变化而变化"
+        },
+        {
+          "id": "62b0260ecff47e00010ede20",
+          "label": "D",
+          "description": "同一物品的使用价值并不反映生产关系的性质"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace20",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f78",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "商品的二因素是( )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 6,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede19",
+          "label": "A",
+          "description": "使用价值和价值"
+        },
+        {
+          "id": "62b0260ecff47e00010ede1a",
+          "label": "B",
+          "description": "价值和交换价值"
+        },
+        {
+          "id": "62b0260ecff47e00010ede1b",
+          "label": "C",
+          "description": "使用价值和交换价值"
+        },
+        {
+          "id": "62b0260ecff47e00010ede1c",
+          "label": "D",
+          "description": "价值和价值形式"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace1f",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f77",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "社会意识对社会存在的反作用的性质取决于( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 7,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede15",
+          "label": "A",
+          "description": "观念上层建筑和政治上层建筑的关系"
+        },
+        {
+          "id": "62b0260ecff47e00010ede16",
+          "label": "B",
+          "description": "社会的性质和人类解放的程度"
+        },
+        {
+          "id": "62b0260ecff47e00010ede17",
+          "label": "C",
+          "description": "剥削阶级与被剥削阶级斗争的状况"
+        },
+        {
+          "id": "62b0260ecff47e00010ede18",
+          "label": "D",
+          "description": "它为之服务的经济基础的性质和它所武装的阶级社会势力的性质"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace1e",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f76",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "在对待社会历史发展及其规律问题上,历来存在着两种根本对立的观点。这两种对立的观点是( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 8,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede09",
+          "label": "A",
+          "description": " 唯物主义与唯心主义"
+        },
+        {
+          "id": "62b0260ecff47e00010ede0a",
+          "label": "B",
+          "description": " 原始唯心主义与形而上学唯物主义"
+        },
+        {
+          "id": "62b0260ecff47e00010ede0b",
+          "label": "C",
+          "description": " 唯物史观与唯心史观"
+        },
+        {
+          "id": "62b0260ecff47e00010ede0c",
+          "label": "D",
+          "description": " 唯我论与不可知论"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace1d",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f75",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "社会历史观的基本问题是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 9,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede05",
+          "label": "A",
+          "description": " 存在与思维的关系问题"
+        },
+        {
+          "id": "62b0260ecff47e00010ede06",
+          "label": "B",
+          "description": " 社会存在与社会意识的关系问题"
+        },
+        {
+          "id": "62b0260ecff47e00010ede07",
+          "label": "C",
+          "description": " 物质与意识的关系问题"
+        },
+        {
+          "id": "62b0260ecff47e00010ede08",
+          "label": "D",
+          "description": " 生产力与生产关系的关系问题"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace1c",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f74",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "马克思指出,哲学家们只是用不同的方式解释世界,而问题在于改变世界的著作是( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 10,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede01",
+          "label": "A",
+          "description": "《自然辩证法》"
+        },
+        {
+          "id": "62b0260ecff47e00010ede02",
+          "label": "B",
+          "description": "《德意志意识形态》"
+        },
+        {
+          "id": "62b0260ecff47e00010ede03",
+          "label": "C",
+          "description": "《关于费尔巴哈的提纲》"
+        },
+        {
+          "id": "62b0260ecff47e00010ede04",
+          "label": "D",
+          "description": "《共产党宣言》"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace1b",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f73",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "真理与价值统一的基础是( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 11,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010eddfd",
+          "label": "A",
+          "description": "认识"
+        },
+        {
+          "id": "62b0260ecff47e00010eddfe",
+          "label": "B",
+          "description": "发明"
+        },
+        {
+          "id": "62b0260ecff47e00010eddff",
+          "label": "C",
+          "description": "创新"
+        },
+        {
+          "id": "62b0260ecff47e00010ede00",
+          "label": "D",
+          "description": "实践"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace1a",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f72",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "马克思主义认为,人类全部社会生活的本质是( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 12,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010eddf9",
+          "label": "A",
+          "description": "认识"
+        },
+        {
+          "id": "62b0260ecff47e00010eddfa",
+          "label": "B",
+          "description": "探索"
+        },
+        {
+          "id": "62b0260ecff47e00010eddfb",
+          "label": "C",
+          "description": "创造"
+        },
+        {
+          "id": "62b0260ecff47e00010eddfc",
+          "label": "D",
+          "description": "实践"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace19",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f71",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "有一则箴言:“在溪水和岩石的斗争中,胜利的总是溪水,不是因为力量,而是因为坚持。”“坚持就是胜利”的哲理在于( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "D",
+      "userScore": 0,
+      "sequence": 13,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010eddf5",
+          "label": "A",
+          "description": "必然性通过偶然性开辟道路"
+        },
+        {
+          "id": "62b0260ecff47e00010eddf6",
+          "label": "B",
+          "description": "肯定中包含着否定的因素"
+        },
+        {
+          "id": "62b0260ecff47e00010eddf7",
+          "label": "C",
+          "description": "量变必然引起质变"
+        },
+        {
+          "id": "62b0260ecff47e00010eddf8",
+          "label": "D",
+          "description": "有其因必有其果"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace18",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f70",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": " 马克思主义是科学,从根本上说在于它( ) 。",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 14,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010edde9",
+          "label": "A",
+          "description": "以世界的一般规律为研究对象"
+        },
+        {
+          "id": "62b0260ecff47e00010eddea",
+          "label": "B",
+          "description": "始终严格地以客观事实为根据"
+        },
+        {
+          "id": "62b0260ecff47e00010eddeb",
+          "label": "C",
+          "description": "提供了普遍适用的客观真理"
+        },
+        {
+          "id": "62b0260ecff47e00010eddec",
+          "label": "D",
+          "description": "形成了完整的理论体系"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace17",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f6f",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "马克思主义新世界观创立的关键在于马克思确立了( )。",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "D",
+      "userScore": 0,
+      "sequence": 15,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010edde5",
+          "label": "A",
+          "description": "剩余价值论"
+        },
+        {
+          "id": "62b0260ecff47e00010edde6",
+          "label": "B",
+          "description": "阶级斗争理论"
+        },
+        {
+          "id": "62b0260ecff47e00010edde7",
+          "label": "C",
+          "description": "无产阶级历史使命学说"
+        },
+        {
+          "id": "62b0260ecff47e00010edde8",
+          "label": "D",
+          "description": "科学的实践观"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace16",
+      "score": 2,
+      "sourceId": "62b122dffa69801f551b0f6e",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "马克思主义是关于( )的科学。",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 16,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010edde1",
+          "label": "A",
+          "description": "无产阶级和人类解放"
+        },
+        {
+          "id": "62b0260ecff47e00010edde2",
+          "label": "B",
+          "description": "无产阶级和资产阶级"
+        },
+        {
+          "id": "62b0260ecff47e00010edde3",
+          "label": "C",
+          "description": "哲学和社会科学"
+        },
+        {
+          "id": "62b0260ecff47e00010edde4",
+          "label": "D",
+          "description": "哲学和经济学"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace15",
+      "score": 2,
+      "sourceId": "617a61738672566d177c865c",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  社会关系是一个复杂的体系,其中最基础的关系是(   )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "B",
+      "userScore": 0,
+      "sequence": 17,
+      "comments": null,
+      "options": [
+        {
+          "id": "60e951814cedfd000110203d",
+          "label": "A",
+          "description": "政治关系"
+        },
+        {
+          "id": "60e951814cedfd000110203e",
+          "label": "B",
+          "description": "生产关系"
+        },
+        {
+          "id": "60e951814cedfd000110203f",
+          "label": "C",
+          "description": "阶级关系"
+        },
+        {
+          "id": "60e951814cedfd0001102040",
+          "label": "D",
+          "description": "思想关系"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace14",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e68",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  下列选项中,比喻新事物必然取代旧事物的是(   )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 18,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010cacc8",
+          "label": "A",
+          "description": "(A) 夕阳无限好,只是近黄昏"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacc9",
+          "label": "B",
+          "description": "(B) 欲穷千里目,更上一层楼"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacca",
+          "label": "C",
+          "description": "(C) 沉舟侧畔千帆过,病树前头万木春"
+        },
+        {
+          "id": "61750ebbc9e77c00010caccb",
+          "label": "D",
+          "description": "(D) 黄河之水天上来,奔流到海不复回"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace13",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e67",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  在自由和必然的关系问题上,马克思主义哲学认为自由就是(  )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 19,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010cacc4",
+          "label": "A",
+          "description": "(A) 对客观必然性的认识和对客观世界的改造"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacc5",
+          "label": "B",
+          "description": "(B) 人们的活动摆脱自然规律和社会规律的制约"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacc6",
+          "label": "C",
+          "description": "(C) 人们按照自己的意志完全自由地创造自己的历史"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacc7",
+          "label": "D",
+          "description": "(D) 人们按照共同拟定的计划和谐地改造客观世界"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace12",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e66",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  下列活动中,属于最基本实践活动的是(  )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 20,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010cacc0",
+          "label": "A",
+          "description": "(A) 农民插秧种稻"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacc1",
+          "label": "B",
+          "description": "(B) 医生诊病开药"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacc2",
+          "label": "C",
+          "description": "(C) 交警维持交通秩序"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacc3",
+          "label": "D",
+          "description": "(D) 科学家做物理实验"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace11",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e65",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  资本主义国家实现宏观经济管理和调控目标的经济调节机制主要是(  )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 21,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010cacbc",
+          "label": "A",
+          "description": "(A) 国家对企业的直接控制"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacbd",
+          "label": "B",
+          "description": "(B) 一定程度上实行国民经济计划化"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacbe",
+          "label": "C",
+          "description": "(C) 国家调节市场,市场引导企业"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacbf",
+          "label": "D",
+          "description": "(D) 国家指导企业,企业引导市场"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace10",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e64",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  在资本主义积累过程中,资本集中的直接后果是( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "B",
+      "userScore": 0,
+      "sequence": 22,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010cacb8",
+          "label": "A",
+          "description": "(A) 社会资本总量急剧增加"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacb9",
+          "label": "B",
+          "description": "(B) 个别资本规模迅速扩大"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacba",
+          "label": "C",
+          "description": "(C) 资本有机构成下降"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacbb",
+          "label": "D",
+          "description": "(D) 不变资本比重下降"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace0f",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e63",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  下列各项属于技术社会形态序列的是(   )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 23,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010cacb4",
+          "label": "A",
+          "description": "(A) 奴隶社会、封建社会、资本主义社会"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacb5",
+          "label": "B",
+          "description": "(B) 古代社会、近代社会、现代社会"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacb6",
+          "label": "C",
+          "description": "(C) 农业社会、工业社会、信息社会"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacb7",
+          "label": "D",
+          "description": "(D) 自然经济社会、商品经济社会、产品经济社会"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace0e",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e62",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  时间是指物质运动的(   )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 24,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010cacb0",
+          "label": "A",
+          "description": "(A) 广延性"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacb1",
+          "label": "B",
+          "description": "(B) 持续性"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacb2",
+          "label": "C",
+          "description": "(C) 绝对性"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacb3",
+          "label": "D",
+          "description": "(D) 规律性"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace0d",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e61",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  制约人口生产的根本因素是(   )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "D",
+      "userScore": 0,
+      "sequence": 25,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010cacac",
+          "label": "A",
+          "description": "(A) 地理环境"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacad",
+          "label": "B",
+          "description": "(B) 生活习惯"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacae",
+          "label": "C",
+          "description": "(C) 伦理道德"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacaf",
+          "label": "D",
+          "description": "(D) 物质生产"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace0c",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e60",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  资本主义部门之间的竞争使(  )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 26,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010caca8",
+          "label": "A",
+          "description": "(A) 商品的个别价值均衡为统一的社会价值"
+        },
+        {
+          "id": "61750ebbc9e77c00010caca9",
+          "label": "B",
+          "description": "(B) 商品的社会价值统一为市场价值"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacaa",
+          "label": "C",
+          "description": "(C) 不同部门的利润率转化为平均利润率"
+        },
+        {
+          "id": "61750ebbc9e77c00010cacab",
+          "label": "D",
+          "description": "(D) 同一部门内部的各企业都只能得到平均利润"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace0b",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e5f",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  在社会生产过程中的诸环节中,其决定作用的是( )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 27,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010caca4",
+          "label": "A",
+          "description": "(A) 生产"
+        },
+        {
+          "id": "61750ebbc9e77c00010caca5",
+          "label": "B",
+          "description": "(B) 分配"
+        },
+        {
+          "id": "61750ebbc9e77c00010caca6",
+          "label": "C",
+          "description": "(C) 交换"
+        },
+        {
+          "id": "61750ebbc9e77c00010caca7",
+          "label": "D",
+          "description": "(D) 消费"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace0a",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e5e",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  社会革命最深刻的根源在于(  )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 28,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010caca0",
+          "label": "A",
+          "description": "(A) 剥削阶级和被剥削阶级之间的矛盾"
+        },
+        {
+          "id": "61750ebbc9e77c00010caca1",
+          "label": "B",
+          "description": "(B) 生产力和生产关系之间的矛盾尖锐化"
+        },
+        {
+          "id": "61750ebbc9e77c00010caca2",
+          "label": "C",
+          "description": "(C) 产品分配不公、收入差距加大"
+        },
+        {
+          "id": "61750ebbc9e77c00010caca3",
+          "label": "D",
+          "description": "(D) 不同地区、不同部门之间经济发展不平衡"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace09",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e5d",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  下列各项正确反映物质和运动关系的是(   )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 29,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010cac98",
+          "label": "A",
+          "description": "(A) 运动是内容,物质是其形式"
+        },
+        {
+          "id": "61750ebbc9e77c00010cac99",
+          "label": "B",
+          "description": "(B) 运动是现象,物质是其本质"
+        },
+        {
+          "id": "61750ebbc9e77c00010cac9a",
+          "label": "C",
+          "description": "(C) 运动是暂时的,物质是永恒的"
+        },
+        {
+          "id": "61750ebbc9e77c00010cac9b",
+          "label": "D",
+          "description": "(D) 运动是物质的固有属性，物质是运动的主体"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace08",
+      "score": 2,
+      "sourceId": "6176632ba881b54970419e5c",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "  社会关系是一个复杂的体系,其中最基础的关系是(   )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 30,
+      "comments": null,
+      "options": [
+        {
+          "id": "61750ebbc9e77c00010cac94",
+          "label": "A",
+          "description": "(A) 政治关系"
+        },
+        {
+          "id": "61750ebbc9e77c00010cac95",
+          "label": "B",
+          "description": "(B) 生产关系"
+        },
+        {
+          "id": "61750ebbc9e77c00010cac96",
+          "label": "C",
+          "description": "(C) 阶级关系"
+        },
+        {
+          "id": "61750ebbc9e77c00010cac97",
+          "label": "D",
+          "description": "(D) 思想关系"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace2f",
+      "score": 4,
+      "sourceId": "62b122dffa69801f551b0f87",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "下面关于社会意识的理解中,正确的是( )",
+      "analysis": "",
+      "solution": "ABC",
+      "userAnswer": "ABCD",
+      "userScore": 0,
+      "sequence": 31,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede55",
+          "label": "A",
+          "description": " 社会意识是社会存在的反映"
+        },
+        {
+          "id": "62b0260ecff47e00010ede56",
+          "label": "B",
+          "description": " 社会意识包括政治法律思想、道德、宗教、哲学和艺术等方面"
+        },
+        {
+          "id": "62b0260ecff47e00010ede57",
+          "label": "C",
+          "description": " 社会意识是具体的、历史的"
+        },
+        {
+          "id": "62b0260ecff47e00010ede58",
+          "label": "D",
+          "description": " 在阶级社会中,社会意识形态是具有阶级性的"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace2e",
+      "score": 4,
+      "sourceId": "62b122dffa69801f551b0f86",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "下列说法中,关于“社会存在”的正确理解是( )",
+      "analysis": "",
+      "solution": "ABC",
+      "userAnswer": "ABD",
+      "userScore": 0,
+      "sequence": 32,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede51",
+          "label": "A",
+          "description": " 社会存在也就是指社会物质生活条件,或者说是社会生活的物质方面"
+        },
+        {
+          "id": "62b0260ecff47e00010ede52",
+          "label": "B",
+          "description": " 社会存在是指物质生活资料的生产及其生产方式"
+        },
+        {
+          "id": "62b0260ecff47e00010ede53",
+          "label": "C",
+          "description": " 社会存在是由社会意识所引导和决定的"
+        },
+        {
+          "id": "62b0260ecff47e00010ede54",
+          "label": "D",
+          "description": " 地理环境和人口因素也属于社会存在的范畴"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace2d",
+      "score": 4,
+      "sourceId": "62b122dffa69801f551b0f85",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "感性认识和理性认识密切相关,主要体现在( )",
+      "analysis": "",
+      "solution": "ABCD",
+      "userAnswer": "ABCD",
+      "userScore": 4,
+      "sequence": 33,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede4d",
+          "label": "A",
+          "description": "理性认识依赖于感性认识"
+        },
+        {
+          "id": "62b0260ecff47e00010ede4e",
+          "label": "B",
+          "description": "感性认识有待于深化和发展为理性认识"
+        },
+        {
+          "id": "62b0260ecff47e00010ede4f",
+          "label": "C",
+          "description": "感性认识和理性认识相互包含"
+        },
+        {
+          "id": "62b0260ecff47e00010ede50",
+          "label": "D",
+          "description": "感性认识和理性认识相互渗透"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace2c",
+      "score": 4,
+      "sourceId": "62b122dffa69801f551b0f84",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "从实践到认识的过程中,认识采取的方式有( )",
+      "analysis": "",
+      "solution": "AC",
+      "userAnswer": "AC",
+      "userScore": 4,
+      "sequence": 34,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede49",
+          "label": "A",
+          "description": "感性认识"
+        },
+        {
+          "id": "62b0260ecff47e00010ede4a",
+          "label": "B",
+          "description": "直观反映论"
+        },
+        {
+          "id": "62b0260ecff47e00010ede4b",
+          "label": "C",
+          "description": "理性认识"
+        },
+        {
+          "id": "62b0260ecff47e00010ede4c",
+          "label": "D",
+          "description": "能动反映论"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace2b",
+      "score": 4,
+      "sourceId": "62b122dffa69801f551b0f83",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "马克思主义认为,实践的主体和客体之间的关系,从根本上说是( )",
+      "analysis": "",
+      "solution": "AD",
+      "userAnswer": "AD",
+      "userScore": 4,
+      "sequence": 35,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede45",
+          "label": "A",
+          "description": "认识关系"
+        },
+        {
+          "id": "62b0260ecff47e00010ede46",
+          "label": "B",
+          "description": "依存关系"
+        },
+        {
+          "id": "62b0260ecff47e00010ede47",
+          "label": "C",
+          "description": "反映关系"
+        },
+        {
+          "id": "62b0260ecff47e00010ede48",
+          "label": "D",
+          "description": "实践关系"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace2a",
+      "score": 4,
+      "sourceId": "62b122dffa69801f551b0f82",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "以下各项,能够体现出重视矛盾特殊性的有( )",
+      "analysis": "",
+      "solution": "ABCD",
+      "userAnswer": "ABCD",
+      "userScore": 4,
+      "sequence": 36,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede41",
+          "label": "A",
+          "description": "对症下药,量体裁衣"
+        },
+        {
+          "id": "62b0260ecff47e00010ede42",
+          "label": "B",
+          "description": "因材施教,因人而异"
+        },
+        {
+          "id": "62b0260ecff47e00010ede43",
+          "label": "C",
+          "description": "因时制宜,因地制宜"
+        },
+        {
+          "id": "62b0260ecff47e00010ede44",
+          "label": "D",
+          "description": "具体问题,具体分析"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace29",
+      "score": 4,
+      "sourceId": "62b122dffa69801f551b0f81",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "实践的基本特征包括( )",
+      "analysis": "",
+      "solution": "ABC",
+      "userAnswer": "BC",
+      "userScore": 2.66,
+      "sequence": 37,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede3d",
+          "label": "A",
+          "description": "物质性"
+        },
+        {
+          "id": "62b0260ecff47e00010ede3e",
+          "label": "B",
+          "description": "自觉能动性"
+        },
+        {
+          "id": "62b0260ecff47e00010ede3f",
+          "label": "C",
+          "description": "社会历史性"
+        },
+        {
+          "id": "62b0260ecff47e00010ede40",
+          "label": "D",
+          "description": "直接现实性"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace28",
+      "score": 4,
+      "sourceId": "62b122dffa69801f551b0f80",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "哲学物质观经历的基本历史阶段是( )",
+      "analysis": "",
+      "solution": "ACD",
+      "userAnswer": "ACD",
+      "userScore": 4,
+      "sequence": 38,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede39",
+          "label": "A",
+          "description": "古代朴素唯物主义的物质观"
+        },
+        {
+          "id": "62b0260ecff47e00010ede3a",
+          "label": "B",
+          "description": "庸俗唯物主义的物质观"
+        },
+        {
+          "id": "62b0260ecff47e00010ede3b",
+          "label": "C",
+          "description": "近代形而上学唯物主义的物质观"
+        },
+        {
+          "id": "62b0260ecff47e00010ede3c",
+          "label": "D",
+          "description": "辩证唯物主义的物质观"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace27",
+      "score": 4,
+      "sourceId": "62b122dffa69801f551b0f7f",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "马克思主义的理论渊源主要有( )。",
+      "analysis": "",
+      "solution": "ABD",
+      "userAnswer": "ABD",
+      "userScore": 4,
+      "sequence": 39,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede35",
+          "label": "A",
+          "description": "德国古典哲学"
+        },
+        {
+          "id": "62b0260ecff47e00010ede36",
+          "label": "B",
+          "description": "英国古典政治经济学"
+        },
+        {
+          "id": "62b0260ecff47e00010ede37",
+          "label": "C",
+          "description": "中国传统文化"
+        },
+        {
+          "id": "62b0260ecff47e00010ede38",
+          "label": "D",
+          "description": "法国英国的空想社会主义"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b34caa6ff6ab0d241ace26",
+      "score": 4,
+      "sourceId": "62b122dffa69801f551b0f7e",
+      "courseIds": [
+        703,
+        705
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "马克思主义理论不可分割的三个主要组成部分是指( )。",
+      "analysis": "",
+      "solution": "ABC",
+      "userAnswer": "ABC",
+      "userScore": 4,
+      "sequence": 40,
+      "comments": null,
+      "options": [
+        {
+          "id": "62b0260ecff47e00010ede31",
+          "label": "A",
+          "description": "马克思主义哲学"
+        },
+        {
+          "id": "62b0260ecff47e00010ede32",
+          "label": "B",
+          "description": "马克思主义政治经济学"
+        },
+        {
+          "id": "62b0260ecff47e00010ede33",
+          "label": "C",
+          "description": "科学社会主义"
+        },
+        {
+          "id": "62b0260ecff47e00010ede34",
+          "label": "D",
+          "description": "新自由主义"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    }
+  ]

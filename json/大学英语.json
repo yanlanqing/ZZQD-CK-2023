@@ -1,0 +1,2298 @@
+[
+    {
+      "questionId": "400000000021010000121352",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcdb4",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "What is the general idea of the text?",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 1,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539087",
+          "label": "A",
+          "description": "It' s safe to arrive late just when food is served."
+        },
+        {
+          "id": "400000000021020000539088",
+          "label": "B",
+          "description": "It' s wise to eat something before going to a party."
+        },
+        {
+          "id": "400000000021020000539089",
+          "label": "C",
+          "description": "It' s important to follow social rules of party-going."
+        },
+        {
+          "id": "400000000021020000539090",
+          "label": "D",
+          "description": "It' s necessary to read invitations carefully.<br>"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121351",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcdb3",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "According to the writer, people in their late thirties_______.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 2,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539083",
+          "label": "A",
+          "description": "are likely to arrive late for a party"
+        },
+        {
+          "id": "400000000021020000539084",
+          "label": "B",
+          "description": "care little about the party time"
+        },
+        {
+          "id": "400000000021020000539085",
+          "label": "C",
+          "description": "haven' t really grown up yet"
+        },
+        {
+          "id": "400000000021020000539086",
+          "label": "D",
+          "description": "like surprises at parties"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121350",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcdb2",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "For some young people, arriving on time for a students' party will probably be considered_______.",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 3,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539079",
+          "label": "A",
+          "description": "very difficult"
+        },
+        {
+          "id": "400000000021020000539080",
+          "label": "B",
+          "description": "particularly thoughtful"
+        },
+        {
+          "id": "400000000021020000539081",
+          "label": "C",
+          "description": "friendly and polite"
+        },
+        {
+          "id": "400000000021020000539082",
+          "label": "D",
+          "description": "socially unacceptable"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121349",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcdb1",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Jane and David' s story is used to show that______ .",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 4,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539075",
+          "label": "A",
+          "description": "party-goers usually get hungry at parties"
+        },
+        {
+          "id": "400000000021020000539076",
+          "label": "B",
+          "description": "party invitations can be confusing"
+        },
+        {
+          "id": "400000000021020000539077",
+          "label": "C",
+          "description": "people should ask for food at parties"
+        },
+        {
+          "id": "400000000021020000539078",
+          "label": "D",
+          "description": "birthday parties for middle-aged people are dull"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121347",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcdaf",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Which is true according to the passage?",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 5,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539067",
+          "label": "A",
+          "description": "Chinese Taibei recognizes diplomas earned on the Chinese mainland<br><br>"
+        },
+        {
+          "id": "400000000021020000539068",
+          "label": "B",
+          "description": "<span style=\"font-size: 16.8px; background-color: rgb(255, 255, 255);\">The number of Taiwanese students going to study on the mainland will surely be increasing in the next few years.</span>"
+        },
+        {
+          "id": "400000000021020000539069",
+          "label": "C",
+          "description": "<span style=\"font-size: 16.8px; background-color: rgb(255, 255, 255);\">Chinese Taibei doesn’t help with any inquiries about Taiwanese studying in the mainland</span>"
+        },
+        {
+          "id": "400000000021020000539070",
+          "label": "D",
+          "description": "<span style=\"font-size: 16.8px; background-color: rgb(255, 255, 255);\">Education of Taiwan is far behind the mainland.</span>"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121346",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcdae",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "The author wrote the article to tell us ______________.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 6,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539063",
+          "label": "A",
+          "description": "more Taiwanese students are studying on the mainland."
+        },
+        {
+          "id": "400000000021020000539064",
+          "label": "B",
+          "description": "the number of Taiwanese students going to universities on the mainland had been increasing year after year<br><br>"
+        },
+        {
+          "id": "400000000021020000539065",
+          "label": "C",
+          "description": "<span style=\"font-size: 16.8px;\">education on the mainland is more attractive compared with that of Taiwan</span>"
+        },
+        {
+          "id": "400000000021020000539066",
+          "label": "D",
+          "description": "Taiwan and the mainland should cooperate with each other in every field."
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121345",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcdad",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "The underlined word “it” in the third paragraph refers to __________.",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 7,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539059",
+          "label": "A",
+          "description": "Netbig. Com"
+        },
+        {
+          "id": "400000000021020000539060",
+          "label": "B",
+          "description": "a Chinese education on the mainland"
+        },
+        {
+          "id": "400000000021020000539061",
+          "label": "C",
+          "description": "the Chinese job market"
+        },
+        {
+          "id": "400000000021020000539062",
+          "label": "D",
+          "description": "the university"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121344",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcdac",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Some business executives were sending their children to study in the Chinese mainland so that their children ___________.",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 8,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539055",
+          "label": "A",
+          "description": "could receive better education"
+        },
+        {
+          "id": "400000000021020000539056",
+          "label": "B",
+          "description": "could learn more about the policy there"
+        },
+        {
+          "id": "400000000021020000539057",
+          "label": "C",
+          "description": "could do well in the business operations"
+        },
+        {
+          "id": "400000000021020000539058",
+          "label": "D",
+          "description": "could make more friends there"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121337",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcda5",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "The teacher was much kinder to those who work harder than to the others, ___ of course, made the others envy them.",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 9,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539027",
+          "label": "A",
+          "description": "who"
+        },
+        {
+          "id": "400000000021020000539028",
+          "label": "B",
+          "description": "that"
+        },
+        {
+          "id": "400000000021020000539029",
+          "label": "C",
+          "description": "what"
+        },
+        {
+          "id": "400000000021020000539030",
+          "label": "D",
+          "description": "which"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121336",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcda4",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Do you remember the place ___ we visited last year?",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 10,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539023",
+          "label": "A",
+          "description": "that"
+        },
+        {
+          "id": "400000000021020000539024",
+          "label": "B",
+          "description": "where"
+        },
+        {
+          "id": "400000000021020000539025",
+          "label": "C",
+          "description": "when"
+        },
+        {
+          "id": "400000000021020000539026",
+          "label": "D",
+          "description": "in which"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121335",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcda3",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "What surprised me was not what he said but ___ he said it.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 11,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539019",
+          "label": "A",
+          "description": "the way"
+        },
+        {
+          "id": "400000000021020000539020",
+          "label": "B",
+          "description": "in the way that"
+        },
+        {
+          "id": "400000000021020000539021",
+          "label": "C",
+          "description": "in the way"
+        },
+        {
+          "id": "400000000021020000539022",
+          "label": "D",
+          "description": "the way which"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121334",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcda2",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Patience, without ___ you can’t do the work well, is a kind of quality.",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 12,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539015",
+          "label": "A",
+          "description": "that"
+        },
+        {
+          "id": "400000000021020000539016",
+          "label": "B",
+          "description": "it"
+        },
+        {
+          "id": "400000000021020000539017",
+          "label": "C",
+          "description": "which"
+        },
+        {
+          "id": "400000000021020000539018",
+          "label": "D",
+          "description": "what"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121333",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcda1",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Most of the soldiers who ___ the second world war have now died.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 13,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539011",
+          "label": "A",
+          "description": "survived"
+        },
+        {
+          "id": "400000000021020000539012",
+          "label": "B",
+          "description": "survival"
+        },
+        {
+          "id": "400000000021020000539013",
+          "label": "C",
+          "description": "were survived"
+        },
+        {
+          "id": "400000000021020000539014",
+          "label": "D",
+          "description": "survived from"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121332",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcda0",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "___, his idea was accepted by all the people at the meeting.",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 14,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539007",
+          "label": "A",
+          "description": "Strange as might it sound"
+        },
+        {
+          "id": "400000000021020000539008",
+          "label": "B",
+          "description": "As it might sound strange"
+        },
+        {
+          "id": "400000000021020000539009",
+          "label": "C",
+          "description": "Strange is might sound"
+        },
+        {
+          "id": "400000000021020000539010",
+          "label": "D",
+          "description": "Strange as it might sound"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121331",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd9f",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "It is known to all that ____ you exercise regularly, you won’t keep good health.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 15,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000539003",
+          "label": "A",
+          "description": "unless"
+        },
+        {
+          "id": "400000000021020000539004",
+          "label": "B",
+          "description": "whenever"
+        },
+        {
+          "id": "400000000021020000539005",
+          "label": "C",
+          "description": "although"
+        },
+        {
+          "id": "400000000021020000539006",
+          "label": "D",
+          "description": "if"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121330",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd9e",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Could I speak to ___ is in charge of International Sales, please?",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 16,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538999",
+          "label": "A",
+          "description": "anyone"
+        },
+        {
+          "id": "400000000021020000539000",
+          "label": "B",
+          "description": "some one"
+        },
+        {
+          "id": "400000000021020000539001",
+          "label": "C",
+          "description": "whoever"
+        },
+        {
+          "id": "400000000021020000539002",
+          "label": "D",
+          "description": "no matter who"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121329",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd9d",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "---Hey, look where you are going!<br>   ---Oh, I’m terribly sorry. ___.",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 17,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538995",
+          "label": "A",
+          "description": "I’m not noticing"
+        },
+        {
+          "id": "400000000021020000538996",
+          "label": "B",
+          "description": "I wasn’t noticing"
+        },
+        {
+          "id": "400000000021020000538997",
+          "label": "C",
+          "description": "I didn’t notice"
+        },
+        {
+          "id": "400000000021020000538998",
+          "label": "D",
+          "description": "I don’t notice"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121328",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd9c",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "If it were not for the fact that she ___ sing, I would invite her to the party.",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 18,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538991",
+          "label": "A",
+          "description": "couldn’t"
+        },
+        {
+          "id": "400000000021020000538992",
+          "label": "B",
+          "description": "shouldn’t"
+        },
+        {
+          "id": "400000000021020000538993",
+          "label": "C",
+          "description": "can’t"
+        },
+        {
+          "id": "400000000021020000538994",
+          "label": "D",
+          "description": "might not"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121327",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd9b",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Don't you know _____, my dear friend, it is you that she loves?",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 19,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538987",
+          "label": "A",
+          "description": "who"
+        },
+        {
+          "id": "400000000021020000538988",
+          "label": "B",
+          "description": "which"
+        },
+        {
+          "id": "400000000021020000538989",
+          "label": "C",
+          "description": "that"
+        },
+        {
+          "id": "400000000021020000538990",
+          "label": "D",
+          "description": "what"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121326",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd9a",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "I agree with most of what you said, but I don't agree with _____.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 20,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538983",
+          "label": "A",
+          "description": "everything"
+        },
+        {
+          "id": "400000000021020000538984",
+          "label": "B",
+          "description": "anything"
+        },
+        {
+          "id": "400000000021020000538985",
+          "label": "C",
+          "description": "something"
+        },
+        {
+          "id": "400000000021020000538986",
+          "label": "D",
+          "description": "nothing"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121325",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd99",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Because the shop____, all the T-shirts are sold out at half price.",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 21,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538979",
+          "label": "A",
+          "description": "has closed down"
+        },
+        {
+          "id": "400000000021020000538980",
+          "label": "B",
+          "description": "closed down"
+        },
+        {
+          "id": "400000000021020000538981",
+          "label": "C",
+          "description": "is closing down"
+        },
+        {
+          "id": "400000000021020000538982",
+          "label": "D",
+          "description": "had closed down."
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121324",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd98",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "I have won a holiday for two weeks to Florida, I ___ my mum.",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 22,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538975",
+          "label": "A",
+          "description": "have taken"
+        },
+        {
+          "id": "400000000021020000538976",
+          "label": "B",
+          "description": "am taking"
+        },
+        {
+          "id": "400000000021020000538977",
+          "label": "C",
+          "description": "take"
+        },
+        {
+          "id": "400000000021020000538978",
+          "label": "D",
+          "description": "will have been"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121323",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd97",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Jasmine was holidaying with her family in a wildlife park ___ she was bitten on the leg by a lion.",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 23,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538971",
+          "label": "A",
+          "description": "since"
+        },
+        {
+          "id": "400000000021020000538972",
+          "label": "B",
+          "description": "once"
+        },
+        {
+          "id": "400000000021020000538973",
+          "label": "C",
+          "description": "while"
+        },
+        {
+          "id": "400000000021020000538974",
+          "label": "D",
+          "description": "when"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121322",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd96",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "In the years ___, she still worked harder and was determined to be successful.",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 24,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538967",
+          "label": "A",
+          "description": "followed"
+        },
+        {
+          "id": "400000000021020000538968",
+          "label": "B",
+          "description": "following"
+        },
+        {
+          "id": "400000000021020000538969",
+          "label": "C",
+          "description": "that followed"
+        },
+        {
+          "id": "400000000021020000538970",
+          "label": "D",
+          "description": "to follow"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121321",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd95",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "___ in thought, he didn’t notice me.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 25,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538963",
+          "label": "A",
+          "description": "Lost"
+        },
+        {
+          "id": "400000000021020000538964",
+          "label": "B",
+          "description": "Losing"
+        },
+        {
+          "id": "400000000021020000538965",
+          "label": "C",
+          "description": "Missing"
+        },
+        {
+          "id": "400000000021020000538966",
+          "label": "D",
+          "description": "Missed"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121320",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd94",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "I don’t mind her criticizing me, but ___ is how she does it that I object to.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 26,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538959",
+          "label": "A",
+          "description": "it"
+        },
+        {
+          "id": "400000000021020000538960",
+          "label": "B",
+          "description": "that"
+        },
+        {
+          "id": "400000000021020000538961",
+          "label": "C",
+          "description": "this"
+        },
+        {
+          "id": "400000000021020000538962",
+          "label": "D",
+          "description": "which"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121319",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd93",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Daddy didn’t mind what we were doing as long as we were together ___ fun.",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 27,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538955",
+          "label": "A",
+          "description": "had"
+        },
+        {
+          "id": "400000000021020000538956",
+          "label": "B",
+          "description": "have"
+        },
+        {
+          "id": "400000000021020000538957",
+          "label": "C",
+          "description": "to have"
+        },
+        {
+          "id": "400000000021020000538958",
+          "label": "D",
+          "description": "having"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121318",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd92",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "___ that he was in great danger, Eric walked deeper into the forest.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 28,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538951",
+          "label": "A",
+          "description": "Not realizing"
+        },
+        {
+          "id": "400000000021020000538952",
+          "label": "B",
+          "description": "Not to realize"
+        },
+        {
+          "id": "400000000021020000538953",
+          "label": "C",
+          "description": "Not realized"
+        },
+        {
+          "id": "400000000021020000538954",
+          "label": "D",
+          "description": "Not to have realized"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121296",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd67",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "It appears that the writer tends to think highly of the person who sleeps on one side because ________________.",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 29,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538907",
+          "label": "A",
+          "description": "he or she always shows sympathy for people"
+        },
+        {
+          "id": "400000000021020000538908",
+          "label": "B",
+          "description": "he or she is confident,but not stubborn"
+        },
+        {
+          "id": "400000000021020000538909",
+          "label": "C",
+          "description": "he or she has more strengths than weaknesses"
+        },
+        {
+          "id": "400000000021020000538910",
+          "label": "D",
+          "description": "he or she often considers annoying people  <br><br>"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121295",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd66",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Maybe you don’t want to make friends with a person who sleeps curled up.Why?",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 30,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538903",
+          "label": "A",
+          "description": "He or she would rather be alone than communicate with you."
+        },
+        {
+          "id": "400000000021020000538904",
+          "label": "B",
+          "description": "He or she is rarely ready to help you."
+        },
+        {
+          "id": "400000000021020000538905",
+          "label": "C",
+          "description": "He or she prefers staying at home to going out."
+        },
+        {
+          "id": "400000000021020000538906",
+          "label": "D",
+          "description": "He or she wouldn’t like to get help from you."
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121294",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd65",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Point out which sentence is used to show the personality of a person who is used to sleeping <br>on his or her stomach?",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 31,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538899",
+          "label": "A",
+          "description": "He or she is careful not to offend others."
+        },
+        {
+          "id": "400000000021020000538900",
+          "label": "B",
+          "description": "He or she doesn’t want to stick to his or her opinion."
+        },
+        {
+          "id": "400000000021020000538901",
+          "label": "C",
+          "description": "He or she can't be successful in any business."
+        },
+        {
+          "id": "400000000021020000538902",
+          "label": "D",
+          "description": "He or she likes to bring others happiness."
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121293",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd64",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Which is NOT mentioned in the second paragraph about a person's personality?",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 32,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538895",
+          "label": "A",
+          "description": "He or she is always open with others."
+        },
+        {
+          "id": "400000000021020000538896",
+          "label": "B",
+          "description": "He or she always likes new ideas earlier than others."
+        },
+        {
+          "id": "400000000021020000538897",
+          "label": "C",
+          "description": "He or she is always easily upset."
+        },
+        {
+          "id": "400000000021020000538898",
+          "label": "D",
+          "description": "He or she tends to believe in others."
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121280",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd57",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "As far as pollution is concerned, people’s behavior _______environment itself is to blame.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 33,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538843",
+          "label": "A",
+          "description": "rather than"
+        },
+        {
+          "id": "400000000021020000538844",
+          "label": "B",
+          "description": "or else"
+        },
+        {
+          "id": "400000000021020000538845",
+          "label": "C",
+          "description": "otherwise"
+        },
+        {
+          "id": "400000000021020000538846",
+          "label": "D",
+          "description": "instead"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121279",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd56",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "The medical team is _____five doctors and ten nurses. That is to say, five doctors and ten nurses______ the medical team.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 34,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538839",
+          "label": "A",
+          "description": "made up of; made up"
+        },
+        {
+          "id": "400000000021020000538840",
+          "label": "B",
+          "description": "made up of; make up of"
+        },
+        {
+          "id": "400000000021020000538841",
+          "label": "C",
+          "description": "made up by; make up"
+        },
+        {
+          "id": "400000000021020000538842",
+          "label": "D",
+          "description": "made up by; make up of"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121278",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd55",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "_____we have finished the course, we shall start doing more revision work.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 35,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538835",
+          "label": "A",
+          "description": "Now that"
+        },
+        {
+          "id": "400000000021020000538836",
+          "label": "B",
+          "description": "Ever since"
+        },
+        {
+          "id": "400000000021020000538837",
+          "label": "C",
+          "description": "By now"
+        },
+        {
+          "id": "400000000021020000538838",
+          "label": "D",
+          "description": "<span style=\"font-size: 16.8px;\">For</span>"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121277",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd54",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "He left Beijing for Shanghai______ getting a better paid job.",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 36,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538831",
+          "label": "A",
+          "description": "in praise of"
+        },
+        {
+          "id": "400000000021020000538832",
+          "label": "B",
+          "description": "in honor of"
+        },
+        {
+          "id": "400000000021020000538833",
+          "label": "C",
+          "description": "in hope of"
+        },
+        {
+          "id": "400000000021020000538834",
+          "label": "D",
+          "description": "in spite of"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121256",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd3f",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Can you tell me the way you think of ___ the problem?",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 37,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538747",
+          "label": "A",
+          "description": "solving"
+        },
+        {
+          "id": "400000000021020000538748",
+          "label": "B",
+          "description": "to solve"
+        },
+        {
+          "id": "400000000021020000538749",
+          "label": "C",
+          "description": "solve"
+        },
+        {
+          "id": "400000000021020000538750",
+          "label": "D",
+          "description": "solved"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121255",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd3e",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Much___ he has a good taste, he can’t avoid being influenced by ads.",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 38,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538743",
+          "label": "A",
+          "description": "that he claims"
+        },
+        {
+          "id": "400000000021020000538744",
+          "label": "B",
+          "description": "does he claim"
+        },
+        {
+          "id": "400000000021020000538745",
+          "label": "C",
+          "description": "as he claims"
+        },
+        {
+          "id": "400000000021020000538746",
+          "label": "D",
+          "description": "is it that he claims"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121254",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd3d",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Not until you finish your work ___ go home.",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 39,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538739",
+          "label": "A",
+          "description": "can you"
+        },
+        {
+          "id": "400000000021020000538740",
+          "label": "B",
+          "description": "you can"
+        },
+        {
+          "id": "400000000021020000538741",
+          "label": "C",
+          "description": "can’t you"
+        },
+        {
+          "id": "400000000021020000538742",
+          "label": "D",
+          "description": "you can’t"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121253",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd3c",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "___ his accent, he must be from Sichuan.",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 40,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538735",
+          "label": "A",
+          "description": "Judged by"
+        },
+        {
+          "id": "400000000021020000538736",
+          "label": "B",
+          "description": "Judging by"
+        },
+        {
+          "id": "400000000021020000538737",
+          "label": "C",
+          "description": "Judging through"
+        },
+        {
+          "id": "400000000021020000538738",
+          "label": "D",
+          "description": "Judged from"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121252",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd3b",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "He ___ himself in his scientific research since his divorce.",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 41,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538731",
+          "label": "A",
+          "description": "has devoted"
+        },
+        {
+          "id": "400000000021020000538732",
+          "label": "B",
+          "description": "has buried"
+        },
+        {
+          "id": "400000000021020000538733",
+          "label": "C",
+          "description": "was buried"
+        },
+        {
+          "id": "400000000021020000538734",
+          "label": "D",
+          "description": "has been buried"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121251",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd3a",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "___ wants to stay in a hotel has to pay their own way.",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 42,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538727",
+          "label": "A",
+          "description": "Anyone"
+        },
+        {
+          "id": "400000000021020000538728",
+          "label": "B",
+          "description": "The one"
+        },
+        {
+          "id": "400000000021020000538729",
+          "label": "C",
+          "description": "Whoever"
+        },
+        {
+          "id": "400000000021020000538730",
+          "label": "D",
+          "description": "Who"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121250",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd39",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "---May I have a talk with one of your sports reporters?<br>  ---Sorry, but all of them are out to ___ the main events of the day.",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 43,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538723",
+          "label": "A",
+          "description": "get"
+        },
+        {
+          "id": "400000000021020000538724",
+          "label": "B",
+          "description": "find"
+        },
+        {
+          "id": "400000000021020000538725",
+          "label": "C",
+          "description": "cover"
+        },
+        {
+          "id": "400000000021020000538726",
+          "label": "D",
+          "description": "search"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121249",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd38",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "---Peter, why didn’t you go to the flower show?<br>  ---I think it was something ___ pleasant.",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 44,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538719",
+          "label": "A",
+          "description": "far more"
+        },
+        {
+          "id": "400000000021020000538720",
+          "label": "B",
+          "description": "far less"
+        },
+        {
+          "id": "400000000021020000538721",
+          "label": "C",
+          "description": "too much"
+        },
+        {
+          "id": "400000000021020000538722",
+          "label": "D",
+          "description": "much too"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121248",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd37",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "___, he is still as curious as a child.",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 45,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538715",
+          "label": "A",
+          "description": "An old man as he is"
+        },
+        {
+          "id": "400000000021020000538716",
+          "label": "B",
+          "description": "An old man as is he"
+        },
+        {
+          "id": "400000000021020000538717",
+          "label": "C",
+          "description": "Old man as he is"
+        },
+        {
+          "id": "400000000021020000538718",
+          "label": "D",
+          "description": "old man as is he"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121247",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2accebcd36",
+      "courseIds": [
+        180,
+        603,
+        183,
+        655
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "You can’t take more. Please one___.",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 46,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538711",
+          "label": "A",
+          "description": "at one time"
+        },
+        {
+          "id": "400000000021020000538712",
+          "label": "B",
+          "description": "at a time"
+        },
+        {
+          "id": "400000000021020000538713",
+          "label": "C",
+          "description": "at times"
+        },
+        {
+          "id": "400000000021020000538714",
+          "label": "D",
+          "description": "all the time"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121245",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2acceb2f33",
+      "courseIds": [
+        180,
+        603,
+        183
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "What will you possibly want to know from a washer advertisement?",
+      "analysis": null,
+      "solution": "D",
+      "userAnswer": "D",
+      "userScore": 2,
+      "sequence": 47,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538703",
+          "label": "A",
+          "description": "some details."
+        },
+        {
+          "id": "400000000021020000538704",
+          "label": "B",
+          "description": "how much it will cost."
+        },
+        {
+          "id": "400000000021020000538705",
+          "label": "C",
+          "description": "its functions."
+        },
+        {
+          "id": "400000000021020000538706",
+          "label": "D",
+          "description": "all of the above."
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121246",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2acceb2f34",
+      "courseIds": [
+        180,
+        603,
+        183
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "– I won’t be able to keep my 9:00 appointment, but I can come at 10:00. – __________________",
+      "analysis": null,
+      "solution": "C",
+      "userAnswer": "C",
+      "userScore": 2,
+      "sequence": 48,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538707",
+          "label": "A",
+          "description": "You should tell me earlier."
+        },
+        {
+          "id": "400000000021020000538708",
+          "label": "B",
+          "description": "I don’t mind."
+        },
+        {
+          "id": "400000000021020000538709",
+          "label": "C",
+          "description": "That’s all right."
+        },
+        {
+          "id": "400000000021020000538710",
+          "label": "D",
+          "description": "Why?"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121244",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2acceb2f32",
+      "courseIds": [
+        180,
+        603,
+        183
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "Her high voice really _______ Maria.",
+      "analysis": null,
+      "solution": "A",
+      "userAnswer": "A",
+      "userScore": 2,
+      "sequence": 49,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538699",
+          "label": "A",
+          "description": "irritated"
+        },
+        {
+          "id": "400000000021020000538700",
+          "label": "B",
+          "description": "angry"
+        },
+        {
+          "id": "400000000021020000538701",
+          "label": "C",
+          "description": "irritating"
+        },
+        {
+          "id": "400000000021020000538702",
+          "label": "D",
+          "description": "anger"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "400000000021010000121243",
+      "score": 2,
+      "sourceId": "5cb8215cc2018e2acceb2f31",
+      "courseIds": [
+        180,
+        603,
+        183
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "According to your understanding, why did tears appear in the husband’s eyes?",
+      "analysis": null,
+      "solution": "B",
+      "userAnswer": "B",
+      "userScore": 2,
+      "sequence": 50,
+      "comments": null,
+      "options": [
+        {
+          "id": "400000000021020000538695",
+          "label": "A",
+          "description": "Because his wife was too perfect."
+        },
+        {
+          "id": "400000000021020000538696",
+          "label": "B",
+          "description": "Because he accepted her as a whole, but she didn’t."
+        },
+        {
+          "id": "400000000021020000538697",
+          "label": "C",
+          "description": "Because he loved her more than she loved him. -"
+        },
+        {
+          "id": "400000000021020000538698",
+          "label": "D",
+          "description": "Because his wife was too rude 粗鲁的."
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    }
+  ]

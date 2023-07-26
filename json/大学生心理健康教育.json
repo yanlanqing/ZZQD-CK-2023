@@ -1,0 +1,2207 @@
+[
+    {
+      "questionId": "64b3491d6ff6ab0d241acc35",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f987",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "“学而时习之,不亦说乎”对这一经典解读正确的是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 0,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547db0",
+          "label": "A",
+          "description": "学习是重要的"
+        },
+        {
+          "id": "64a66e7dcff47e0001547db1",
+          "label": "B",
+          "description": "学以致用"
+        },
+        {
+          "id": "64a66e7dcff47e0001547db2",
+          "label": "C",
+          "description": "学习是辛苦的"
+        },
+        {
+          "id": "64a66e7dcff47e0001547db3",
+          "label": "D",
+          "description": "表达是重要的"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc34",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f986",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "根据认知过程是否合理,可以将其分为( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 1,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547dac",
+          "label": "A",
+          "description": "显性认知和非显性认知"
+        },
+        {
+          "id": "64a66e7dcff47e0001547dad",
+          "label": "B",
+          "description": "显性认知和理性认知"
+        },
+        {
+          "id": "64a66e7dcff47e0001547dae",
+          "label": "C",
+          "description": "理性认知和非显性认知"
+        },
+        {
+          "id": "64a66e7dcff47e0001547daf",
+          "label": "D",
+          "description": "理性认知和非理性认知"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc33",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f985",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "心理咨询的主要对象是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 2,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547da8",
+          "label": "A",
+          "description": "精神正常,遇到现实问题的客体"
+        },
+        {
+          "id": "64a66e7dcff47e0001547da9",
+          "label": "B",
+          "description": "精神正常,存在心理问题的客体"
+        },
+        {
+          "id": "64a66e7dcff47e0001547daa",
+          "label": "C",
+          "description": "临床未愈的精神病患者"
+        },
+        {
+          "id": "64a66e7dcff47e0001547dab",
+          "label": "D",
+          "description": "精神不正常,但主动求助的人群"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc32",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f984",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "心理咨询的目标是( )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 3,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547da4",
+          "label": "A",
+          "description": "助人自助"
+        },
+        {
+          "id": "64a66e7dcff47e0001547da5",
+          "label": "B",
+          "description": "帮人消灾"
+        },
+        {
+          "id": "64a66e7dcff47e0001547da6",
+          "label": "C",
+          "description": "助人事业有成"
+        },
+        {
+          "id": "64a66e7dcff47e0001547da7",
+          "label": "D",
+          "description": "给来访者有效的方法"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc31",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f983",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "来访者说:“同学们都瞧不起我!”,咨询师反馈:“你能说的更具体点吗?”采用的谈话技术是( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 4,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547da0",
+          "label": "A",
+          "description": "封闭式提问技术"
+        },
+        {
+          "id": "64a66e7dcff47e0001547da1",
+          "label": "B",
+          "description": "情感反应技术"
+        },
+        {
+          "id": "64a66e7dcff47e0001547da2",
+          "label": "C",
+          "description": "具体化技术"
+        },
+        {
+          "id": "64a66e7dcff47e0001547da3",
+          "label": "D",
+          "description": "内容反映技术"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc30",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f982",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "通常使用“如何”、“为什么”、“能不能”等词来发问的提问技术属于( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 5,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d9c",
+          "label": "A",
+          "description": "封闭性提问技术"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d9d",
+          "label": "B",
+          "description": "一般性提问技术"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d9e",
+          "label": "C",
+          "description": "开放性提问技术"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d9f",
+          "label": "D",
+          "description": "内容反映技术"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc2f",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f981",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "个体把内心的欲望和冲动夸张地以相反的方式表现出来的防御机制是( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 6,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d98",
+          "label": "A",
+          "description": "否认"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d99",
+          "label": "B",
+          "description": "隔离"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d9a",
+          "label": "C",
+          "description": "反向形成"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d9b",
+          "label": "D",
+          "description": "退化"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc2e",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f980",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "一个成年女性在与丈夫吵架后跑回娘家和母亲哭诉,她使用的防御机制是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 7,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d94",
+          "label": "A",
+          "description": "压抑"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d95",
+          "label": "B",
+          "description": "退行"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d96",
+          "label": "C",
+          "description": "否认"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d97",
+          "label": "D",
+          "description": "投射"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc2d",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f97f",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "斯滕伯格的爱情三角理论认为,能看到爱情完整的样子,包含激情、亲密和承诺三种成分的爱情是( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 8,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d90",
+          "label": "A",
+          "description": "喜欢式的爱情"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d91",
+          "label": "B",
+          "description": "伴侣式的爱情"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d92",
+          "label": "C",
+          "description": "完美式的爱情"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d93",
+          "label": "D",
+          "description": "浪漫式的爱情"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc2c",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f97e",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "( )是恋爱最为积极的目的和结果。",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 9,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d8c",
+          "label": "A",
+          "description": "爱情"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d8d",
+          "label": "B",
+          "description": "婚姻"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d8e",
+          "label": "C",
+          "description": "性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d8f",
+          "label": "D",
+          "description": "情感"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc2b",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f97d",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "强烈的情绪主要是通过( )途径来表现。",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 10,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d88",
+          "label": "A",
+          "description": "吼叫"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d89",
+          "label": "B",
+          "description": "哭泣"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d8a",
+          "label": "C",
+          "description": "面部表情"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d8b",
+          "label": "D",
+          "description": "愤怒"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc2a",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f97c",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "每次考试小张都感到很紧张,有的时候紧张的手发抖,平时会做的题此时也没了思路,所以成绩一直不理想。这说明( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 11,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d84",
+          "label": "A",
+          "description": "人不能有任何情绪"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d85",
+          "label": "B",
+          "description": "情绪是消极的"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d86",
+          "label": "C",
+          "description": "情绪是无法调控的"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d87",
+          "label": "D",
+          "description": "不良情绪会影响人的正常水平的发挥。"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc29",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f97b",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "情绪的特点的叙述中哪项是错的?( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 12,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d80",
+          "label": "A",
+          "description": "具有两极性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d81",
+          "label": "B",
+          "description": "具有比情感更强的强度"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d82",
+          "label": "C",
+          "description": "具有不稳定性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d83",
+          "label": "D",
+          "description": "具有明显的外部表现"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc28",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f97a",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "关于情绪的叙述,不正确的是( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 13,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d7c",
+          "label": "A",
+          "description": "人类的情绪都可后天习得"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d7d",
+          "label": "B",
+          "description": "情绪具有两极性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d7e",
+          "label": "C",
+          "description": "体验是情绪的基本特点"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d7f",
+          "label": "D",
+          "description": "情绪和认知没有任何关系"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc27",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f979",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "“知之者不如好之者,好之者不如乐之者。”反映了哪一项非智力因素对学习的影响?( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 14,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d78",
+          "label": "A",
+          "description": "学习动机"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d79",
+          "label": "B",
+          "description": "学习方法"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d7a",
+          "label": "C",
+          "description": "学习兴趣"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d7b",
+          "label": "D",
+          "description": "意志力"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc26",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f978",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "“横看成岭侧成峰,远近高低各不同”反映了认知的( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 15,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d74",
+          "label": "A",
+          "description": "认知的联想性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d75",
+          "label": "B",
+          "description": "认知的发展性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d76",
+          "label": "C",
+          "description": "认知的多维性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d77",
+          "label": "D",
+          "description": "认知的相对性"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc25",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f977",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "“塞翁失马,焉知非福”反映了认知的哪个特点?( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 16,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d70",
+          "label": "A",
+          "description": "认知的多维性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d71",
+          "label": "B",
+          "description": "认知的相对性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d72",
+          "label": "C",
+          "description": "认知的联想性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d73",
+          "label": "D",
+          "description": "认知的发展性"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc24",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f976",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "个体在实践中形成的,对人、对己、对客观现实的稳定态度和习惯化的行为模式是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 17,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d6c",
+          "label": "A",
+          "description": "意志"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d6d",
+          "label": "B",
+          "description": "性格"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d6e",
+          "label": "C",
+          "description": "气质"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d6f",
+          "label": "D",
+          "description": "能力"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc23",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f975",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "“世界上没有完全相同的两片树叶”是指人格的哪一特征?( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 18,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d68",
+          "label": "A",
+          "description": "整体性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d69",
+          "label": "B",
+          "description": "社会性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d6a",
+          "label": "C",
+          "description": "稳定性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d6b",
+          "label": "D",
+          "description": "独特性"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc22",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f974",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "反映人的心理面貌总和的是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 19,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d64",
+          "label": "A",
+          "description": "气质"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d65",
+          "label": "B",
+          "description": "人格"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d66",
+          "label": "C",
+          "description": "情感"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d67",
+          "label": "D",
+          "description": "性格"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc21",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f973",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "乔韩窗口理论认为“当局者迷旁观者清”反映了( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 20,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d60",
+          "label": "A",
+          "description": "公开的我"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d61",
+          "label": "B",
+          "description": "秘密的我"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d62",
+          "label": "C",
+          "description": "未知的我"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d63",
+          "label": "D",
+          "description": "盲目的我"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc20",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f972",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "过高地、不切实际地评估自己的能力,以致失去自知,这种心理认知偏差属于( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 21,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d5c",
+          "label": "A",
+          "description": "自卑"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d5d",
+          "label": "B",
+          "description": "任性"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d5e",
+          "label": "C",
+          "description": "自负"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d5f",
+          "label": "D",
+          "description": "虚荣"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc1f",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f971",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "小王同学通过竞选当上了班长,变得更加自爱和自信,与同学的关系也非常融洽,体现了自我意识的哪一部分?( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 22,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d58",
+          "label": "A",
+          "description": "生理自我"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d59",
+          "label": "B",
+          "description": "社会自我"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d5a",
+          "label": "C",
+          "description": "理想自我"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d5b",
+          "label": "D",
+          "description": "心理自我"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc1e",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f970",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "“心理灰色区”是指( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 23,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d54",
+          "label": "A",
+          "description": "心理的健康与不健康之间有明显界限"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d55",
+          "label": "B",
+          "description": "心理健康与心理不健康是一个从量变到质变的发展过程"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d56",
+          "label": "C",
+          "description": "心理健康与不健康间存在缓冲区域"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d57",
+          "label": "D",
+          "description": "是指精神病人的覆盖范围"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc1d",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f96f",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "应激本身是一种( )反应,但反应过度却会损害肌体自身,甚至可能导致与应激相关的精神障碍。",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 24,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d50",
+          "label": "A",
+          "description": "警觉"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d51",
+          "label": "B",
+          "description": "抵抗"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d52",
+          "label": "C",
+          "description": "衰竭"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d53",
+          "label": "D",
+          "description": "防御"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc1c",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f96e",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "在( )反应期,肌体的免疫系统功能降低,使得肌体对疾病的易感性增加。",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 25,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d4c",
+          "label": "A",
+          "description": "警觉"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d4d",
+          "label": "B",
+          "description": "抵抗"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d4e",
+          "label": "C",
+          "description": "衰竭"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d4f",
+          "label": "D",
+          "description": "警戒"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc1b",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f96d",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "( )反应期是指个体内部防御力量与紧张刺激进行对抗,努力使生理心理恢复平衡。",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 26,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d48",
+          "label": "A",
+          "description": "警觉"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d49",
+          "label": "B",
+          "description": "抵抗"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d4a",
+          "label": "C",
+          "description": "衰竭"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d4b",
+          "label": "D",
+          "description": "警戒"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc1a",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f96c",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "适应性障碍可以分为( )抑郁反应、中期抑郁反应、长期抑郁反应。",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 27,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d44",
+          "label": "A",
+          "description": "个人"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d45",
+          "label": "B",
+          "description": "生活"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d46",
+          "label": "C",
+          "description": "短期"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d47",
+          "label": "D",
+          "description": "应激"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc19",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f96b",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "适应性障碍通常有( )以及出国、移民或社会地位的改变等明显的生活事件为诱因。",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 28,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d40",
+          "label": "A",
+          "description": "家庭改变"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d41",
+          "label": "B",
+          "description": "环境改变"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d42",
+          "label": "C",
+          "description": "习惯改变"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d43",
+          "label": "D",
+          "description": "学习改变"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acc18",
+      "score": 1.5,
+      "sourceId": "64af77aebe5a772a7a75f96a",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "parentId": null,
+      "description": "( )其实就是“躯体对所施加的任何需求所做出的非特异性反应”。",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 29,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66e7dcff47e0001547d3c",
+          "label": "A",
+          "description": "衰竭"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d3d",
+          "label": "B",
+          "description": "抵抗"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d3e",
+          "label": "C",
+          "description": "适应"
+        },
+        {
+          "id": "64a66e7dcff47e0001547d3f",
+          "label": "D",
+          "description": "应激"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb9e",
+      "score": 3,
+      "sourceId": "5cb82164c2018e2accf2a4e3",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "大学生考试作弊的心理防治有( )",
+      "analysis": "",
+      "solution": "ABD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 30,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adfeac1f630d6037faee",
+          "label": "A",
+          "description": "营造不愿作弊的学风"
+        },
+        {
+          "id": "5fa5adfeac1f630d6037faef",
+          "label": "B",
+          "description": "培育不敢作弊的校风"
+        },
+        {
+          "id": "5fa5adfeac1f630d6037faf0",
+          "label": "C",
+          "description": "传承老一代的教育观念"
+        },
+        {
+          "id": "5fa5adfeac1f630d6037faf1",
+          "label": "D",
+          "description": "强化内在的学习动机"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb9d",
+      "score": 3,
+      "sourceId": "5cb82164c2018e2accf2a4e1",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "大学生活适应问题类型包括( )",
+      "analysis": "",
+      "solution": "ABCD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 31,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adfeac1f630d6037fae6",
+          "label": "A",
+          "description": "独立生活困扰"
+        },
+        {
+          "id": "5fa5adfeac1f630d6037fae7",
+          "label": "B",
+          "description": "资源利用困扰"
+        },
+        {
+          "id": "5fa5adfeac1f630d6037fae8",
+          "label": "C",
+          "description": "人际关系困扰"
+        },
+        {
+          "id": "5fa5adfeac1f630d6037fae9",
+          "label": "D",
+          "description": "学习能力困扰"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb9c",
+      "score": 3,
+      "sourceId": "5cb82164c2018e2accf2a4e0",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "一个心理健康的人应具备哪些特征( )",
+      "analysis": "",
+      "solution": "ABC",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 32,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adfeac1f630d6037fae2",
+          "label": "A",
+          "description": "能正确认识和了解自己,悦纳自己"
+        },
+        {
+          "id": "5fa5adfeac1f630d6037fae3",
+          "label": "B",
+          "description": "情绪基本稳定,无长期的焦虑,较少有心理冲突"
+        },
+        {
+          "id": "5fa5adfeac1f630d6037fae4",
+          "label": "C",
+          "description": "能与他人建立和谐的关系,乐于与他人交往"
+        },
+        {
+          "id": "5fa5adfeac1f630d6037fae5",
+          "label": "D",
+          "description": "学习成绩优异"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb9b",
+      "score": 3,
+      "sourceId": "64af775dbe5a772a7a75f909",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "健康的概念是指哪种状态?()",
+      "analysis": "无",
+      "solution": "CD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 33,
+      "comments": null,
+      "options": [
+        {
+          "id": "649812dbcff47e00016a9707",
+          "label": "A",
+          "description": "身体健康"
+        },
+        {
+          "id": "649812dbcff47e00016a9708",
+          "label": "B",
+          "description": "生理无残疾"
+        },
+        {
+          "id": "649812dbcff47e00016a9709",
+          "label": "C",
+          "description": "心理健康"
+        },
+        {
+          "id": "649812dbcff47e00016a970a",
+          "label": "D",
+          "description": "身心健康"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb8b",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e19",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "为保证心理咨询效果,来访者在咨询中需要做的配合工作有( )",
+      "analysis": "",
+      "solution": "ABCD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 34,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d342c",
+          "label": "A",
+          "description": "要有自助意识"
+        },
+        {
+          "id": "64a66f8b59080100017d342d",
+          "label": "B",
+          "description": "要有耐心"
+        },
+        {
+          "id": "64a66f8b59080100017d342e",
+          "label": "C",
+          "description": "真诚坦率的交流"
+        },
+        {
+          "id": "64a66f8b59080100017d342f",
+          "label": "D",
+          "description": "认真完成咨询作业"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb8a",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e18",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "心理学的特点有哪些?( )",
+      "analysis": "",
+      "solution": "ABD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 35,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d3428",
+          "label": "A",
+          "description": "规律性"
+        },
+        {
+          "id": "64a66f8b59080100017d3429",
+          "label": "B",
+          "description": "历史性"
+        },
+        {
+          "id": "64a66f8b59080100017d342a",
+          "label": "C",
+          "description": "哲学性"
+        },
+        {
+          "id": "64a66f8b59080100017d342b",
+          "label": "D",
+          "description": "交叉性"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb89",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e17",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "下列对于促进心理健康的意义的描述正确的有哪些?( )",
+      "analysis": "",
+      "solution": "BCD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 36,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d3424",
+          "label": "A",
+          "description": "有助于提高自我防范意识"
+        },
+        {
+          "id": "64a66f8b59080100017d3425",
+          "label": "B",
+          "description": "有助于心理疾病的防治"
+        },
+        {
+          "id": "64a66f8b59080100017d3426",
+          "label": "C",
+          "description": "有助于个人的心理健康"
+        },
+        {
+          "id": "64a66f8b59080100017d3427",
+          "label": "D",
+          "description": "有助于推动家庭和社会的精神文明建设"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb88",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e16",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "下列哪些行为属于抑郁症的八条标准?( )",
+      "analysis": "",
+      "solution": "ACD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 37,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d3420",
+          "label": "A",
+          "description": "自觉疲乏"
+        },
+        {
+          "id": "64a66f8b59080100017d3421",
+          "label": "B",
+          "description": "暴饮暴食"
+        },
+        {
+          "id": "64a66f8b59080100017d3422",
+          "label": "C",
+          "description": "有轻生观念"
+        },
+        {
+          "id": "64a66f8b59080100017d3423",
+          "label": "D",
+          "description": "不愿与人交往"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb87",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e15",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "根据萨提亚的人际沟通理论,以下哪种处理方式不属于有效沟通?( )",
+      "analysis": "",
+      "solution": "ACD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 38,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d341c",
+          "label": "A",
+          "description": "一致性沟通"
+        },
+        {
+          "id": "64a66f8b59080100017d341d",
+          "label": "B",
+          "description": "打岔型沟通"
+        },
+        {
+          "id": "64a66f8b59080100017d341e",
+          "label": "C",
+          "description": "指责型沟通"
+        },
+        {
+          "id": "64a66f8b59080100017d341f",
+          "label": "D",
+          "description": "讨好型沟通"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb86",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e14",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "以下哪些是应对压力的有效资源( )",
+      "analysis": "",
+      "solution": "ABCD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 39,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d3418",
+          "label": "A",
+          "description": "健康和锻炼"
+        },
+        {
+          "id": "64a66f8b59080100017d3419",
+          "label": "B",
+          "description": "社会性技能"
+        },
+        {
+          "id": "64a66f8b59080100017d341a",
+          "label": "C",
+          "description": "社会支持"
+        },
+        {
+          "id": "64a66f8b59080100017d341b",
+          "label": "D",
+          "description": "积极的信念"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb85",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e13",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "以下关于学习的说法,错误的是( )",
+      "analysis": "",
+      "solution": "BD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 40,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d3414",
+          "label": "A",
+          "description": "学习是动物和人共有的心理现象"
+        },
+        {
+          "id": "64a66f8b59080100017d3415",
+          "label": "B",
+          "description": "学习是本能的活动,不是后天习得的"
+        },
+        {
+          "id": "64a66f8b59080100017d3416",
+          "label": "C",
+          "description": "任何水平的学习都将引起适应性的行为变化"
+        },
+        {
+          "id": "64a66f8b59080100017d3417",
+          "label": "D",
+          "description": "个体的一切变化都是学习的结果"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb84",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e12",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "成年前期的年龄特征包括:( )",
+      "analysis": "",
+      "solution": "ABCD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 41,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d3410",
+          "label": "A",
+          "description": "智力发展到人生的全盛时期"
+        },
+        {
+          "id": "64a66f8b59080100017d3411",
+          "label": "B",
+          "description": "进入到恋爱、结婚、为人父母的阶段"
+        },
+        {
+          "id": "64a66f8b59080100017d3412",
+          "label": "C",
+          "description": "成长到成熟的阶段"
+        },
+        {
+          "id": "64a66f8b59080100017d3413",
+          "label": "D",
+          "description": "进入自主学习阶段"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb83",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e11",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "动机的冲突表现形式主要有( )",
+      "analysis": "",
+      "solution": "ABCD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 42,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d340c",
+          "label": "A",
+          "description": "双趋冲突"
+        },
+        {
+          "id": "64a66f8b59080100017d340d",
+          "label": "B",
+          "description": "双避冲突"
+        },
+        {
+          "id": "64a66f8b59080100017d340e",
+          "label": "C",
+          "description": "趋避冲突"
+        },
+        {
+          "id": "64a66f8b59080100017d340f",
+          "label": "D",
+          "description": "双重趋避冲突"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb82",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e10",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "心理学是怎样一门学问?:( )",
+      "analysis": "",
+      "solution": "ABCD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 43,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d3408",
+          "label": "A",
+          "description": "探明心理结构"
+        },
+        {
+          "id": "64a66f8b59080100017d3409",
+          "label": "B",
+          "description": "阐述人的心理现象"
+        },
+        {
+          "id": "64a66f8b59080100017d340a",
+          "label": "C",
+          "description": "描述每个个体的心理事件"
+        },
+        {
+          "id": "64a66f8b59080100017d340b",
+          "label": "D",
+          "description": "揭示心理的规律"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb81",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e0f",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "以下哪几位不是“积极心理运动之父”( )",
+      "analysis": "",
+      "solution": "ABC",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 44,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d3404",
+          "label": "A",
+          "description": "巴普洛夫"
+        },
+        {
+          "id": "64a66f8b59080100017d3405",
+          "label": "B",
+          "description": "荣格"
+        },
+        {
+          "id": "64a66f8b59080100017d3406",
+          "label": "C",
+          "description": "弗洛伊德"
+        },
+        {
+          "id": "64a66f8b59080100017d3407",
+          "label": "D",
+          "description": "塞利格曼"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb80",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e0e",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "职业生涯规划的内容主要包括( )",
+      "analysis": "",
+      "solution": "ABCD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 45,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d3400",
+          "label": "A",
+          "description": "自我价值的实现"
+        },
+        {
+          "id": "64a66f8b59080100017d3401",
+          "label": "B",
+          "description": "对个人环境进行分析"
+        },
+        {
+          "id": "64a66f8b59080100017d3402",
+          "label": "C",
+          "description": "制定出符合自己兴趣与特长的生涯路线"
+        },
+        {
+          "id": "64a66f8b59080100017d3403",
+          "label": "D",
+          "description": "选择自己适合发展的职业"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb7f",
+      "score": 3,
+      "sourceId": "64af77541b5b6f25d4947e0d",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "家庭沟通中常见的几种类型:( )",
+      "analysis": "",
+      "solution": "ABCD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 46,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d33fc",
+          "label": "A",
+          "description": "打岔型"
+        },
+        {
+          "id": "64a66f8b59080100017d33fd",
+          "label": "B",
+          "description": "理智型"
+        },
+        {
+          "id": "64a66f8b59080100017d33fe",
+          "label": "C",
+          "description": "讨好型"
+        },
+        {
+          "id": "64a66f8b59080100017d33ff",
+          "label": "D",
+          "description": "指责型"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb7e",
+      "score": 2,
+      "sourceId": "64af77541b5b6f25d4947e0c",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "面对身边朋友的心理危机,以下做法正确的是:( )",
+      "analysis": "",
+      "solution": "ACD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 47,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d33f8",
+          "label": "A",
+          "description": "转介给更有经验的老师及专业的心理咨询师"
+        },
+        {
+          "id": "64a66f8b59080100017d33f9",
+          "label": "B",
+          "description": "帮助其隐瞒真实情况"
+        },
+        {
+          "id": "64a66f8b59080100017d33fa",
+          "label": "C",
+          "description": "耐心的陪伴与倾听"
+        },
+        {
+          "id": "64a66f8b59080100017d33fb",
+          "label": "D",
+          "description": "帮助其寻找解决问题的资源与途径"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "64b3491d6ff6ab0d241acb7d",
+      "score": 2,
+      "sourceId": "64af77541b5b6f25d4947e0b",
+      "courseIds": [
+        704,
+        701,
+        707
+      ],
+      "typeId": 2,
+      "typeDesc": "多选题",
+      "parentId": null,
+      "description": "心理过程是指心理活动发生、发展的过程,包括:( )",
+      "analysis": "",
+      "solution": "BCD",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 48,
+      "comments": null,
+      "options": [
+        {
+          "id": "64a66f8b59080100017d33f4",
+          "label": "A",
+          "description": "思维过程"
+        },
+        {
+          "id": "64a66f8b59080100017d33f5",
+          "label": "B",
+          "description": "认知过程"
+        },
+        {
+          "id": "64a66f8b59080100017d33f6",
+          "label": "C",
+          "description": "情感过程"
+        },
+        {
+          "id": "64a66f8b59080100017d33f7",
+          "label": "D",
+          "description": "意志过程"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    }
+  ]
