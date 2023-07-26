@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body,html{
+            width: 100%;
+            height: 100vh;
+        }
+        main{
+            height: 100%;
+            padding-bottom: 50px;
+        }
+        #taskIframe{
+            width: 100%;
+            height: 100%;
+        }
+        #task{
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            overflow: auto;
+            display: flex;
+            justify-content: space-evenly;
+            width: 100%;
+            padding: 10px 0;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+        }
+        #task-list-but{
+            position: fixed;
+            bottom: 5%;
+            right: 5%;
+            overflow: auto;
+            border-radius: 50%;
+            background-color: #000;
+            width: 38px;
+            height: 38px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 id="title">任务列表</h1>
+    </header>
+    <main>
+        <iframe id="taskIframe" src="" frameborder="0"></iframe>
+    </main>
+    <footer>
+        <!-- <div id="task-list-but"></div> -->
+        <div id="task"></div>
+    </footer>
+    <script>
+        let tasks = [
+            {
+                name: '高等数学1',
+                url: './高等数学1.html'
+            },
+            {
+                name: '大学生心理健康教育',
+                url: './大学生心理健康教育.html'
+            },
+            {
+                name: '马克思主义',
+                url: './马克思主义.html'
+            }, 
+            {
+                name: '大学英语',
+                url: './大学英语.html'
+            },
+        ]
+        window.onload =()=>{
+            //iframe 默认显示第一条
+            let defaultNum = Math.floor(Math.random()*tasks.length)
+            document.querySelector('#taskIframe').src = `${tasks[defaultNum].url}`
+            document.querySelector('#title').innerHTML = `${tasks[defaultNum].name}`
+
+
+            let html = ''
+            tasks.forEach(item=>{
+                html += `<div class="item" data-url=${item.url} data-name=${item.name}>${item.name}</div>`
+            })
+            document.querySelector('#task').innerHTML = html
+            document.querySelectorAll('#task .item').forEach(e=>{
+                e.addEventListener("click",(res)=>{
+                    document.querySelector('#taskIframe').src = `${res.target.dataset.url}`
+                    document.querySelector('#title').innerHTML = `${res.target.dataset.name}`
+
+                })
+            })
+        }
+    </script>
+</body>
+</html>
