@@ -1,0 +1,1915 @@
+[
+    {
+      "questionId": "60471a722d07e31643854c32",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20a27",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设A为m×n矩阵,且m&lt;n,则齐次方程AX=0必( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 0,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d60366986",
+          "label": "A",
+          "description": "无解"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366987",
+          "label": "B",
+          "description": "只有唯一解"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366988",
+          "label": "C",
+          "description": "有无穷解"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366989",
+          "label": "D",
+          "description": "不能确定"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c33",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20a28",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "齐次线性方程组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517469584315fc537b613c04424987f0bf2984df562f.png\" alt=\"上传图片\">的基础解系所含解向量的个数为( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 1,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d6036698a",
+          "label": "A",
+          "description": "1"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036698b",
+          "label": "B",
+          "description": "2"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036698c",
+          "label": "C",
+          "description": "3"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036698d",
+          "label": "D",
+          "description": "4"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c34",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20a29",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设4阶矩阵A的秩为3,<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517469510407df3224c1411446258ef078df18cea4dfimage2.png\">为非齐次线性方程组Ax=b的两个不同的解,c为任意常数,则该方程组的通解为( )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 2,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d6036698e",
+          "label": "A",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15174695105574be887ddeb9a44b2b38a4666b3b11c73image3.png\">"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036698f",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/151746951065958a733faebf340b095b06770770e43a6image4.png\">"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366990",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/151746951077232d5a067b383476ca4f672db2aa4f76dimage5.png\">"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366991",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517469511351eca07c3553694dc99961dbdf1e90fa8cimage6.png\">"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c35",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20a2a",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "若A为正交矩阵,则下列矩阵中不是正交阵的是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 3,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d60366992",
+          "label": "A",
+          "description": "A<sup>-1</sup>"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366993",
+          "label": "B",
+          "description": "2A"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366994",
+          "label": "C",
+          "description": "A<sup>2</sup>"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366995",
+          "label": "D",
+          "description": "A<sup>T</sup>"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c36",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20a2b",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设三阶矩阵A有特征值0、1、2,其对应特征向量分别为<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/151746951144272303ff552134c0cab4a72a2c85e77e8image7.png\"><sub>1</sub>、<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/151746951154683ad0b263f514b1497be4cab9e821f84image7.png\"><sub>2</sub>、<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517469511685d0a0abee426543f09ffdeefcc5201adeimage7.png\"><sub>3</sub>,令P=[<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15174695118305633db34e44a4487b5cbd68e925634f0image7.png\"><sub>3</sub>,<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517469511946e505cf25516641b780c7dccea36ffca8image7.png\"><sub>1</sub>, <img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15174695120577069f4d481314344827f601c5a27e5f9image7.png\"><sub>2</sub>],则P<sup>-1</sup>AP=( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 4,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d60366996",
+          "label": "A",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/151746961394591e64c10504e471f8f3a965f64d18d9f.png\" alt=\"上传图片\"><br>"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366997",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15174696243428e6293c6824b4a8987690da8cd49105b.png\" alt=\"上传图片\"><br>"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366998",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15174706508128fdfba20c9124e0da6792b0b9454445a.png\" alt=\"上传图片\">"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366999",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/151747066119058bf6d93a95a458da9d55d7ff64881c0.png\" alt=\"上传图片\"><br>"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c37",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20a2c",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设A、B为同阶方阵,且秩(A)=秩(B),则( )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 5,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d6036699a",
+          "label": "A",
+          "description": "A与B等阶"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036699b",
+          "label": "B",
+          "description": "A与B合同"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036699c",
+          "label": "C",
+          "description": "|A|=|B|"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036699d",
+          "label": "D",
+          "description": "A与B相似"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c38",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20a2d",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "若矩阵A与对角矩阵<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517470810774a688bcffb7c245db94614d1d0d54fe2d.png\" alt=\"上传图片\">相似,则A<sup>3</sup>=( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 6,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d6036699e",
+          "label": "A",
+          "description": "E"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036699f",
+          "label": "B",
+          "description": "D"
+        },
+        {
+          "id": "5fa5adcaac1f630d603669a0",
+          "label": "C",
+          "description": "-E"
+        },
+        {
+          "id": "5fa5adcaac1f630d603669a1",
+          "label": "D",
+          "description": "A"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c39",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20a2e",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设A是n阶方阵,且|5A+3E|=0,则A必有一个特征值为( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 7,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d603669a2",
+          "label": "A",
+          "description": "-<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15174695127806ef0b0d05bd3479f94705009fa9652bbimage13.png\">"
+        },
+        {
+          "id": "5fa5adcaac1f630d603669a3",
+          "label": "B",
+          "description": "-<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517469512896dfc42763f4ff4e05aadb29e4e3b3beecimage14.png\">"
+        },
+        {
+          "id": "5fa5adcaac1f630d603669a4",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517469512989c0d091ca3b3e452b86b2807d16436706image15.png\">"
+        },
+        {
+          "id": "5fa5adcaac1f630d603669a5",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517469513102af6bfb7570e548389caf7296e6f0e342image16.png\">"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c3a",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20a2f",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "二次型<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517469513254a628b90567084dd6a445dd986d5eedafimage17.png\">的矩阵是( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 8,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d603669a6",
+          "label": "A",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517470850198333c4b67b0ca40929c9b2f405c6cf46a.png\" alt=\"上传图片\"><br>"
+        },
+        {
+          "id": "5fa5adcaac1f630d603669a7",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15174708598146d6fd4a28ac440a78c6939cce1b050da.png\" alt=\"上传图片\"><br>"
+        },
+        {
+          "id": "5fa5adcaac1f630d603669a8",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517470870061055b13b3e6ff43648c7d7e030c28974c.png\" alt=\"上传图片\"><br>"
+        },
+        {
+          "id": "5fa5adcaac1f630d603669a9",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517470881274e61f61591d5945a4813dbba01a3b7b26.png\" alt=\"上传图片\"><br>"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c3b",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20a30",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "实二次型<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517469513795df3727658a1c4aa786799bf8a6908439image22.png\">则f是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 9,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d603669aa",
+          "label": "A",
+          "description": "负定"
+        },
+        {
+          "id": "5fa5adcaac1f630d603669ab",
+          "label": "B",
+          "description": "正定"
+        },
+        {
+          "id": "5fa5adcaac1f630d603669ac",
+          "label": "C",
+          "description": "半正定"
+        },
+        {
+          "id": "5fa5adcaac1f630d603669ad",
+          "label": "D",
+          "description": "不定"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c17",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf2096a",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设矩阵<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517468092948b558adfcd6454a2391e3f391d1a19918.png\" alt=\"上传图片\">,则A*中位于第1行第2列的元素是( )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 10,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d6036681e",
+          "label": "A",
+          "description": "-6"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036681f",
+          "label": "B",
+          "description": "-3"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366820",
+          "label": "C",
+          "description": "3"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366821",
+          "label": "D",
+          "description": "6"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c18",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf2096b",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设行列式<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/151746800685084414a41cf9f4f04a1caf690c0ef2df6image2.png\">=2,则<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/151746800697507962f5f7bf44bd8a385673fd63bf2fdimage3.png\">=( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 11,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d60366822",
+          "label": "A",
+          "description": "-12"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366823",
+          "label": "B",
+          "description": "-6"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366824",
+          "label": "C",
+          "description": "6"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366825",
+          "label": "D",
+          "description": "12"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c19",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf2096c",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设A为3阶矩阵,且|A|=3,则|(-A)<sup>-1</sup>|=( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 12,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d60366826",
+          "label": "A",
+          "description": "-3"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366827",
+          "label": "B",
+          "description": "-<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517468007119a37df0f243684362823a9402e58fccaaimage4.png\">"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366828",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15174680072329427636480c44431930004b128bd7472image5.png\">"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366829",
+          "label": "D",
+          "description": "3"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c1a",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf2096d",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设A为3阶矩阵<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517468163369cd58e108c57f49dd87c59d701212216d.png\" alt=\"上传图片\">,则用P左乘A,相当于将A( )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 13,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d6036682a",
+          "label": "A",
+          "description": "第1行的2倍加到第2行"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036682b",
+          "label": "B",
+          "description": "第1列的2倍加到第2列"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036682c",
+          "label": "C",
+          "description": "第2行的2倍加到第1行"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036682d",
+          "label": "D",
+          "description": "第2列的2倍加到第1列"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c1b",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf2096f",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517468196742edad5823fbc64f7783351f08985f187e.png\" alt=\"上传图片\">,则|A|=( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 14,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d6036682e",
+          "label": "A",
+          "description": "-12"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036682f",
+          "label": "B",
+          "description": "0"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366830",
+          "label": "C",
+          "description": "12"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366831",
+          "label": "D",
+          "description": "21"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c1c",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20970",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517468223987a240a662f7224d7491ec2472ee513bfa.png\" alt=\"上传图片\">其中<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517468007657e5da5a16f46f4635b627e09674229736image9.png\">是三维列向量,若|A|=1,则<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/151746824454824bba65eadc4495faccdf419fc1ac42f.png\" alt=\"上传图片\">=( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 15,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d60366832",
+          "label": "A",
+          "description": "-24"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366833",
+          "label": "B",
+          "description": "-12"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366834",
+          "label": "C",
+          "description": "12"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366835",
+          "label": "D",
+          "description": "24"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c1d",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20971",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设A、B均为方阵,则下列结论中正确的是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 16,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d60366836",
+          "label": "A",
+          "description": "若|AB|=0,则A=0或B=0"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366837",
+          "label": "B",
+          "description": "若|AB|=0,则|A|=0或|B|=0"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366838",
+          "label": "C",
+          "description": "若AB=0,则A=0或B=0"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366839",
+          "label": "D",
+          "description": "若AB≠0,则|A|≠0或|B|≠0"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c1e",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20972",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设A、B为n阶可逆阵,则下列等式成立的是( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 17,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d6036683a",
+          "label": "A",
+          "description": "(AB)<sup>-1</sup>=A<sup>-1</sup>B<sup>-1</sup>"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036683b",
+          "label": "B",
+          "description": "(A+B)<sup>-1</sup>=A<sup>-1</sup>+B<sup>-1</sup>"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036683c",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517468008102cba3c4ed092a477bb2cf3e6ea7482f65image11.png\">"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036683d",
+          "label": "D",
+          "description": "|(A+B)<sup>-1</sup>|=|A<sup>-1</sup>|+|B<sup>-1</sup>|"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c1f",
+      "score": 1.5,
+      "sourceId": "5cb82164c2018e2accf20973",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15174682829206f044a424dfd4f16a0efe4ffff5904ce.png\" alt=\"上传图片\">,则秩(A)=( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 18,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5adcaac1f630d6036683e",
+          "label": "A",
+          "description": "1"
+        },
+        {
+          "id": "5fa5adcaac1f630d6036683f",
+          "label": "B",
+          "description": "2"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366840",
+          "label": "C",
+          "description": "3"
+        },
+        {
+          "id": "5fa5adcaac1f630d60366841",
+          "label": "D",
+          "description": "4"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854be7",
+      "score": 1.5,
+      "sourceId": "5cb82174c2018e2acc03aa2b",
+      "courseIds": [
+        660,
+        661,
+        162,
+        464,
+        163,
+        719
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "4个结点的非同构的无向树的数目是( )。",
+      "analysis": "无.",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 19,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b327ac1f635eb814cc1c",
+          "label": "A",
+          "description": "5"
+        },
+        {
+          "id": "5fa5b327ac1f635eb814cc1d",
+          "label": "B",
+          "description": "4"
+        },
+        {
+          "id": "5fa5b327ac1f635eb814cc1e",
+          "label": "C",
+          "description": "3"
+        },
+        {
+          "id": "5fa5b327ac1f635eb814cc1f",
+          "label": "D",
+          "description": "2"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854be8",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076140",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634132264f956c6008a4696bf0863e8bb3eae44image1.png\" style=\"width:37px;height:25px;\">为实矩阵,则线性方程组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976341377ccdde4fba9c648f9a5fcf31784f62a90image2.png\" style=\"width:48px;height:19px;\">只有零解是矩阵<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763414346342d57521404361ba76da8f553eed96image3.png\" style=\"width:45px;height:24px;\">为正定矩阵的( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 20,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9ef3",
+          "label": "A",
+          "description": "充分条件;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9ef4",
+          "label": "B",
+          "description": "必要条件;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9ef5",
+          "label": "C",
+          "description": "充要条件;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9ef6",
+          "label": "D",
+          "description": "无关条件。"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854be9",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076141",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "已知<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976341474d786170b28ec446b96c80070a3e08539image4.png\"style=\"width:117px;height:24px;\"/>为四维列向量组,且行列式 <img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976341516f519520dbea6431fb3da8f6f6f2a4a34image5.png\"style=\"width:176px;height:27px;\"/>,<br/><img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634156687b14f84aa1d484c99c623b187612e7cimage6.png\"style=\"width:178px;height:27px;\"/>,则行列式 <img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976341604f46d7750838743fd864b0583ac6b40d7image7.png\"style=\"width:65px;height:27px;\"/>( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 21,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9ef7",
+          "label": "A",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976341653fbf67979975e48d29bd9d49c7c7a58cbimage8.png\"style=\"width:21px;height:19px;\"/>;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9ef8",
+          "label": "B",
+          "description": "B.<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763417072c247a4c90a347b793d5930933598b34image9.png\"style=\"width:31px;height:19px;\"/>;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9ef9",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976341758dfb7a73ed8c54058b7e1510425dbb603image10.png\"style=\"width:24px;height:19px;\"/>;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9efa",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976341838ab2b156ffaef41bf86cf8f9556ac548aimage11.png\"style=\"width:33px;height:19px;\"/>。"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bea",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076142",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设向量组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976341877f9f157415d1f4f57824df71c2a9c06a8image12.png\" style=\"width:100px;height:24px;\"><img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976341961dd683f0172a545c3b8a46ba1f792c2d9image13.png\" style=\"width:55px;height:21px;\">线性无关,且可由向量组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634202254227043581246e4b21614552678480fimage14.png\" style=\"width:100px;height:24px;\">线<br/>性表示,则以下结论中不能成立的是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 22,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9efb",
+          "label": "A",
+          "description": "向量组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976342069752dc47251a64243bc3bddf3cecfee60image15.png\" style=\"width:100px;height:24px;\">线性无关;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9efc",
+          "label": "B",
+          "description": "对任一个<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976342114ac8186c818384c8eaace143fd9f93276image16.png\" style=\"width:21px;height:25px;\">,向量组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763421529a339b30a6cc414cbfdf441aa29e9759image17.png\" style=\"width:102px;height:25px;\">线性相关;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9efd",
+          "label": "C",
+          "description": "存在一个<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634220661127466ce514af297fb16c698b0fa2eimage16.png\" style=\"width:21px;height:25px;\">,向量组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976342266fec16480736b463f9a96ec9561587615image18.png\" style=\"width:102px;height:25px;\">线性无关;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9efe",
+          "label": "D",
+          "description": "向量组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976342324040c2fab14b145a3ab9d73cc54405935image19.png\" style=\"width:100px;height:24px;\">与向量组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763423657960c8b5590c402493cbaf458005b121image20.png\" style=\"width:100px;height:24px;\">等价。"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854beb",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076143",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "对于<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763424006c607ae05e0a4415a03d297afad6df0aimage21.png\" style=\"width:13px;height:14px;\">元齐次线性方程组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763424542f495dd1d21440ed95a6e1a37805cdeeimage22.png\" style=\"width:48px;height:18px;\">,以下命题中,正确的是( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 23,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9eff",
+          "label": "A",
+          "description": "若<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763424936da6f71a14f44bce91f1567759eb104fimage23.png\" style=\"width:16px;height:17px;\">的列向量组线性无关,则<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976342548270f09c4bae340958265c447ef74bdd7image24.png\" style=\"width:48px;height:18px;\">有非零解;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f00",
+          "label": "B",
+          "description": "若<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763425873121e521b3044a188d727218582322bcimage23.png\" style=\"width:16px;height:17px;\">的行向量组线性无关,则<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976342644f2ecdf84809242058e9266770272788dimage25.png\" style=\"width:48px;height:19px;\">有非零解;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f01",
+          "label": "C",
+          "description": "若<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763426885ae3597230f0466e869874acdcca3028image23.png\" style=\"width:16px;height:17px;\">的列向量组线性相关,则<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634273550d57597718943ff9817ccf54d16714cimage25.png\" style=\"width:48px;height:19px;\">有非零解;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f02",
+          "label": "D",
+          "description": "若<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763427755477d5b8589d49e19f67ace14bf9bb91image23.png\" style=\"width:16px;height:17px;\">的行向量组线性相关,则<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763428309658cbbcceaa420a92a605bab5feea35image25.png\" style=\"width:48px;height:19px;\">有非零解。"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bec",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076144",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634287495971046cac04046af3525d866d0a785image23.png\"style=\"width:16px;height:17px;\"/>为<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634293138243d31006d49d3804624b1214c301fimage21.png\"style=\"width:13px;height:15px;\"/>阶非奇异矩阵<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976342965962fed74abda412cab9178df8775c864image26.png\"style=\"width:49px;height:21px;\"/>,<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763430161b786b1883744ed9ad0ed23fd6c44b18image27.png\"style=\"width:21px;height:20px;\"/>为<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634310421442cf197e6453bb95c69ea99590c4cimage23.png\"style=\"width:16px;height:17px;\"/>的伴随矩阵,则( )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 24,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f03",
+          "label": "A",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763431468ef5872aafb14f748d610e1f9435344dimage28.png\"style=\"width:109px;height:24px;\"/>;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f04",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634320087d758e9aa6045f99ce7d46cb2f955ccimage29.png\"style=\"width:97px;height:24px;\"/>;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f05",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976343248684b0163b85048dbac50054804312363image30.png\"style=\"width:120px;height:24px;\"/>;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f06",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763432836363fb76c30e42649bbfe56f9ccec371image31.png\"style=\"width:106px;height:24px;\"/>。"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bed",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076145",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763433326f85b3e8ebfe4471b0049393a73751ebimage32.png\" style=\"width:81px;height:25px;\">的特征值为1,2,3,<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634336944e24d8d45004c81a1386763ee6de4f9image33.png\" style=\"width:25px;height:25px;\">是行列式 <img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634340704b01c52468f46d299a842226bab889cimage34.png\" style=\"width:27px;height:21px;\"> 中元素<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976343439ff02a6578dff4003aade2e8162192850image35.png\" style=\"width:24px;height:25px;\">的代数余子式,<br/>则<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976343474e5d2b8885f144b5fa8e47409f1411da5image36.png\" style=\"width:150px;height:24px;\">=                                                 ( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 25,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f07",
+          "label": "A",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763435263b2dd96edd474d3db5ad726dda441a7bimage37.png\" style=\"width:22px;height:41px;\">;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f08",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976343561215099f634d4489abd59a498cefa54c3image38.png\" style=\"width:20px;height:41px;\">;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f09",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976343596f1615f2ead334b70ae8f3065393946d4image39.png\" style=\"width:20px;height:41px;\">;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f0a",
+          "label": "D",
+          "description": "6。"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bee",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076146",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "已知<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763436317cd61711ca254e078828840525d7be97image40.png\" style=\"width:349px;height:74px;\">,则以下选项中正确的是 ( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 26,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f0b",
+          "label": "A",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976343667b4e002cad5c549b7bea7a99909921193image41.png\" style=\"width:85px;height:21px;\">;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f0c",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976343697ee608f4a47cc4303a32114f7bd06d03bimage42.png\" style=\"width:85px;height:21px;\">;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f0d",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763437306de179e0e41842d39c4ef0a632e7c414image43.png\" style=\"width:85px;height:21px;\">;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f0e",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976343770265b197404cc45f68cb1c47b0aeaed06image44.png\" style=\"width:86px;height:21px;\">。"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bef",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076147",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "n维向量<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763438083e11c4db914e42129a79ff92fcfca1b9image45.png\" style=\"width:160px;height:24px;\">线性无关的充要条件是                          ( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 27,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f0f",
+          "label": "A",
+          "description": "存在不全为零的数<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763438717332727bbd01400daffdd56b1484cc3eimage46.png\" style=\"width:77px;height:24px;\">,使<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976343926ea034e9c6b7d41faaa7a3902c1540490image47.png\" style=\"width:180px;height:24px;\">;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f10",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763439648c0ea0975e054f6c811bf4291b0b61ebimage48.png\" style=\"width:95px;height:24px;\">中任意两个向量都线性无关;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f11",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976344001a3051ce4c87544b7a6f30990a1c07474image49.png\" style=\"width:95px;height:24px;\">中任意一个向量都不能用其余向量线性表示;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f12",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763442443b8aa201c70541c8ba2e64e8a427720fimage49.png\" style=\"width:95px;height:24px;\">中存在一个向量,它不能用其余向量线性表示。"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bf0",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076148",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763442863841f42aa7e543dc8edc0c4cf5ebe5e5image50.png\"style=\"width:37px;height:21px;\"/>是正定矩阵,则以下矩阵中,一定是正定矩阵为(其中<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976344320665fd11f69554bdda81921b285c597e3image51.png\"style=\"width:38px;height:22px;\"/>为任意常数)   ( )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 28,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f13",
+          "label": "A",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763443539232723f930949de9873885c90d6c89cimage52.png\"style=\"width:52px;height:21px;\"/>;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f14",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763443846c167374d07d44cdbcb0424a5fea7bbfimage53.png\"style=\"width:54px;height:19px;\"/>;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f15",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976344418db0323f771934a5e879cde19d17bea44image54.png\"style=\"width:38px;height:19px;\"/>;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f16",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763444542ae551bb2c48404f82a9959b5050e3d3image55.png\"style=\"width:78px;height:23px;\"/>。"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bf1",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076149",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "已知矩阵<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976344491d49da89387784153af121d98936649faimage56.png\" style=\"width:106px;height:74px;\">,伴随矩阵<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976344564a0d8520304fc4b92911e5500d1168ac9image57.png\" style=\"width:48px;height:21px;\">,且<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634462978a450d283b24515a6b8b4e2869b41dbimage58.png\" style=\"width:55px;height:21px;\">有非零解,则            ( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 29,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f17",
+          "label": "A",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763446635c2629391ed940fb8b2610d390c44839image59.png\" style=\"width:39px;height:18px;\">;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f18",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976344718823c38e2c3b54fa683a1f3cc9daeba9eimage60.png\" style=\"width:39px;height:18px;\">或<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976344755aabe4d2d0bae43fdb066072d3e87584fimage61.png\" style=\"width:46px;height:18px;\">;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f19",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976344795b4c769cb14ac473fbf07e898e0329253image62.png\" style=\"width:47px;height:18px;\">;"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f1a",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634482613512ab433e94ff89151d23d5cb72841image63.png\" style=\"width:39px;height:18px;\">且<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976344864df41b76fe6fb43d096a54ea29cff50cbimage64.png\" style=\"width:48px;height:18px;\">。"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bf2",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc07614a",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设行列式<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763449098148ea54236b48ba8b1a7bbc6b646b50image65.png\"style=\"width:58px;height:42px;\"/>=m,<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763449466ee1126ea24440a596be98b97252fc37image66.png\"style=\"width:58px;height:42px;\"/>=n,则行列式<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976344980013550b7a95943a58dd5a8491380e009image67.png\"style=\"width:89px;height:42px;\"/>等于( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 30,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f1b",
+          "label": "A",
+          "description": "m+n"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f1c",
+          "label": "B",
+          "description": "-(m+n)"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f1d",
+          "label": "C",
+          "description": "n-m"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f1e",
+          "label": "D",
+          "description": "m-n"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bf3",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc07614b",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设矩阵A=<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976345013a4ecf627891040eb8043219d4d5f232bimage68.png\" style=\"width:61px;height:62px;\">,则A<sup>-</sup><sup>1</sup>等于( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 31,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f1f",
+          "label": "A",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976345092c66eff47cc584a2aa397acb6d11c4f5cimage69.png\" style=\"width:66px;height:102px;\">"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f20",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763451435cf24167a2234694852105092daf023cimage70.png\" style=\"width:66px;height:100px;\">"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f21",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976345179141189d2e9af4400a7798fc3b6ac3da7image71.png\" style=\"width:79px;height:92px;\">"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f22",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763452134b09802daba44e2a86efcee5fd5c3efcimage72.png\" style=\"width:66px;height:102px;\">"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bf4",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc07614c",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设矩阵A=<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763452465f030c9168f648508ef970929cb179abimage73.png\" style=\"width:82px;height:62px;\">,A<sup>*</sup>是A的伴随矩阵,则A<sup> *</sup>中位于(1,2)的元素是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 32,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f23",
+          "label": "A",
+          "description": "–6"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f24",
+          "label": "B",
+          "description": "6"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f25",
+          "label": "C",
+          "description": "2"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f26",
+          "label": "D",
+          "description": "–2"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bf5",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc07614d",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设A是方阵,如有矩阵关系式AB=AC,则必有( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 33,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f27",
+          "label": "A",
+          "description": "A =0"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f28",
+          "label": "B",
+          "description": "B<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976345303967e871b048849198135864a5d191bb2image74.png\"style=\"width:13px;height:14px;\"/>C时A=0"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f29",
+          "label": "C",
+          "description": "A<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976345339da4cc0961722408f8a516a81489fe9b8image74.png\"style=\"width:13px;height:14px;\"/>0时B=C"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f2a",
+          "label": "D",
+          "description": "|A|<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763454325a1f92a8bae54867b6d72cf4f77ad469image74.png\"style=\"width:13px;height:14px;\"/>0时B=C"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bf6",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc07614f",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设两个向量组α<sub>1</sub>,α<sub>2</sub>,…,α<sub>s</sub>和β<sub>1</sub>,β<sub>2</sub>,…,β<sub>s</sub>均线性相关,则( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 34,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f2b",
+          "label": "A",
+          "description": "有不全为0的数λ<sub>1</sub>,λ<sub>2</sub>,…,λ<sub>s</sub>使λ<sub>1</sub>α<sub>1</sub>+λ<sub>2</sub>α<sub>2</sub>+…+λ<sub>s</sub>α<sub>s</sub>=0和λ<sub>1</sub>β<sub>1</sub>+λ<sub>2</sub>β<sub>2</sub>+…λ<sub>s</sub>β<sub>s</sub>=0"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f2c",
+          "label": "B",
+          "description": "有不全为0的数λ<sub>1</sub>,λ<sub>2</sub>,…,λ<sub>s</sub>使λ<sub>1</sub>(α<sub>1</sub>+β<sub>1</sub>)+λ<sub>2</sub>(α<sub>2</sub>+β<sub>2</sub>)+…+λ<sub>s</sub>(α<sub>s</sub>+β<sub>s</sub>)=0"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f2d",
+          "label": "C",
+          "description": "有不全为0的数λ<sub>1</sub>,λ<sub>2</sub>,…,λ<sub>s</sub>使λ<sub>1</sub>(α<sub>1</sub>-β<sub>1</sub>)+λ<sub>2</sub>(α<sub>2</sub>-β<sub>2</sub>)+…+λ<sub>s</sub>(α<sub>s</sub>-β<sub>s</sub>)=0"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f2e",
+          "label": "D",
+          "description": "有不全为0的数λ<sub>1</sub>,λ<sub>2</sub>,…,λ<sub>s</sub>和不全为0的数μ<sub>1</sub>,μ<sub>2</sub>,…,μ<sub>s</sub>使λ<sub>1</sub>α<sub>1</sub>+λ<sub>2</sub>α<sub>2</sub>+…+λ<sub>s</sub>α<sub>s</sub>=0和μ<sub>1</sub>β<sub>1</sub>+μ<sub>2</sub>β<sub>2</sub>+…+μ<sub>s</sub>β<sub>s</sub>=0"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bf7",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076151",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设Ax=b是一非齐次线性方程组,η<sub>1</sub>,η<sub>2</sub>是其任意2个解,则下列结论错误的是( )",
+      "analysis": "",
+      "solution": "A",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 35,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f2f",
+          "label": "A",
+          "description": "η<sub>1</sub>+η<sub>2</sub>是Ax=0的一个解"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f30",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976345469ccb61eaacc99418dae3a4e7a5c31b393image75.png\"style=\"width:14px;height:34px;\"/>η<sub>1</sub>+<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/155297634551263f718d0c7ea40549900b68114d72551image75.png\"style=\"width:14px;height:34px;\"/>η<sub>2</sub>是Ax=b的一个解"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f31",
+          "label": "C",
+          "description": "η<sub>1</sub>-η<sub>2</sub>是Ax=0的一个解"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f32",
+          "label": "D",
+          "description": "2η<sub>1</sub>-η<sub>2</sub>是Ax=b的一个解"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bf8",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076153",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设A是一个n(≥3)阶方阵,下列陈述中正确的是( )",
+      "analysis": "",
+      "solution": "B",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 36,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f33",
+          "label": "A",
+          "description": "如存在数λ和向量α使Aα=λα,则α是A的属于特征值λ的特征向量"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f34",
+          "label": "B",
+          "description": "如存在数λ和非零向量α,使(λE-A)α=0,则λ是A的特征值"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f35",
+          "label": "C",
+          "description": "A的2个不同的特征值可以有同一个特征向量"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f36",
+          "label": "D",
+          "description": "如λ<sub>1</sub>,λ<sub>2</sub>,λ<sub>3</sub>是A的3个互不相同的特征值,α<sub>1</sub>,α<sub>2</sub>,α<sub>3</sub>依次是A的属于λ<sub>1</sub>,λ<sub>2</sub>,λ<sub>3</sub>的特征向量,则α<sub>1</sub>,α<sub>2</sub>,α<sub>3</sub>有可能线性相关"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bf9",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076156",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "设A是实对称矩阵,C是实可逆矩阵,B=C<sup>T</sup>AC.则( )",
+      "analysis": "",
+      "solution": "D",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 37,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f37",
+          "label": "A",
+          "description": "A与B相似"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f38",
+          "label": "B",
+          "description": "A与B不等价"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f39",
+          "label": "C",
+          "description": "A与B有相同的特征值"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f3a",
+          "label": "D",
+          "description": "A与B合同"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bfa",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076157",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "下列矩阵中是正定矩阵的为( )",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 38,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f3b",
+          "label": "A",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15529763455537ce6bb7e2b794842bda6f3b82571c4aeimage76.png\"style=\"width:44px;height:42px;\"/>"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f3c",
+          "label": "B",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976345616ad51c9cafbab478299f1930d80b60633image77.png\"style=\"width:44px;height:42px;\"/>"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f3d",
+          "label": "C",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976345651f1f326d913d04b519f1d480bfa9047cdimage78.png\"style=\"width:76px;height:62px;\"/>"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f3e",
+          "label": "D",
+          "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976345715396186a6106c4bd593a793435e5c2271image79.png\"style=\"width:61px;height:62px;\"/>"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a322d07e31643854bfb",
+      "score": 1.5,
+      "sourceId": "5cb82177c2018e2acc076158",
+      "courseIds": [
+        660,
+        661,
+        162,
+        163
+      ],
+      "typeId": 1,
+      "typeDesc": "单选题",
+      "typeAlias": "单选题",
+      "parentId": null,
+      "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1552976345750bb2debd975b04eeea8566b3516279dfdimage80.png\"style=\"width:77px;height:62px;\"/>( ).",
+      "analysis": "",
+      "solution": "C",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 39,
+      "comments": null,
+      "options": [
+        {
+          "id": "5fa5b403ac1f635eb81b9f3f",
+          "label": "A",
+          "description": "3"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f40",
+          "label": "B",
+          "description": "5"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f41",
+          "label": "C",
+          "description": "6"
+        },
+        {
+          "id": "5fa5b403ac1f635eb81b9f42",
+          "label": "D",
+          "description": "8"
+        }
+      ],
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c46",
+      "score": 20,
+      "sourceId": "5cb82164c2018e2accf20a3b",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 3,
+      "typeDesc": "问答题",
+      "typeAlias": "问答题",
+      "parentId": null,
+      "description": "求线性方程组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15174710509588564d9ad00144e41b985f85e89e73c90.png\" alt=\"上传图片\">的通解.(要求用它的一个特解和导出组的基础解系表示)",
+      "analysis": "",
+      "solution": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/15174710725930558ef545d68429e8c0e63a43ef4e8b3.png\" alt=\"上传图片\"><br>",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 40,
+      "comments": null,
+      "options": null,
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    },
+    {
+      "questionId": "60471a722d07e31643854c47",
+      "score": 20,
+      "sourceId": "5cb82164c2018e2accf20a3c",
+      "courseIds": [
+        661,
+        162,
+        163
+      ],
+      "typeId": 3,
+      "typeDesc": "问答题",
+      "typeAlias": "问答题",
+      "parentId": null,
+      "description": "设3元线性方程组<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517471113967518efaedc2aa4fb1b321bdf2beb6317e.png\" alt=\"上传图片\">,确定当λ取何值时,方程组有惟一解、无解、有无穷多解?",
+      "analysis": "",
+      "solution": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1517471147772de1cfc37283c4c9c89192b85e37e6808.png\" alt=\"上传图片\">",
+      "userAnswer": null,
+      "userScore": null,
+      "sequence": 41,
+      "comments": null,
+      "options": null,
+      "subQuestions": null,
+      "scorePoints": [],
+      "required": false
+    }
+  ]

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="../js/jquery-1.10.2.min.js"></script>
+    <script>
+        fetch(`./json/英语4(专升本).json`).then(res=>res.json()).then(res=>{
+            let data = res
+            let html = ''
+            let count = 0
+            data.forEach(item=>{
+                if(item.sequence == 0){
+                    count = 1
+                }
+                let userAnswerDescription = ''
+                item?.options?.forEach((option,index)=>{
+                    if(option.label == item.solution){
+                        userAnswerDescription = "."+option.description
+                    }
+                })
+                // style="${item.userAnswer==null?"":item.userAnswer != item.solution?"color:red":""}
+                html += `<div class="item">
+                    <div class="title">${count==1?item.sequence+1:item.sequence}. ${item.description}</div>
+                    <div class="content">${item.userAnswer==null?"":item.userAnswer}</div>
+                    <div class="answer" style="${item.userAnswer != item.solution?"color:red":""}">${item.solution}${userAnswerDescription}</div>
+                    
+                </div>`
+            })
+            document.body.innerHTML = html
+        })
+    </script>
+</body>
+</html>

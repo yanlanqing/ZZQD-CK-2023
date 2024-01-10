@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .main{
+            display: flex;
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="left"></div>
+        <div class="right"></div>
+    </div>
+    <script src="../js/jquery-1.10.2.min.js"></script>
+    <script>
+        fetch(`./json/大学生心理健康教育考试.json`).then(res=>res.json()).then(res=>{
+            let data = res
+            let html = ''
+            let count = 0
+            data.forEach(item=>{
+                if(item.sequence == 0){
+                    count = 1
+                }
+                html += `<div class="item">
+                    <div class="title" style="${item.userAnswer==null?"":item.userAnswer != item.solution?"color:red":""}">${count==1?item.sequence+1:item.sequence}. ${item.description}</div>
+                    <div class="content">${item.userAnswer==null?"":item.userAnswer}</div>
+                   
+                    
+                </div>`
+                // <div class="answer" style="${item.userAnswer != item.solution?"color:red":""}">${item.solution}</div>
+                if(item.options!=null){
+                    item.options.forEach(option=>{
+                     html += `<div class="option" >${option.label}.${option.description}</div>`
+                    })
+                }
+                
+            })
+            document.querySelector('.left').innerHTML = html
+            fetch(`./json/大学生心理健康教育.json`).then(res=>res.json()).then(res=>{
+            let html = ''
+            let count = 0
+            res.forEach(item=>{
+                if(item.sequence == 0){
+                    count = 1
+                }
+                let f = data.filter(i=>i.description==item.description)
+                html += `<div class="item">
+                    <div class="title" style="${f.length>1?"color:red":""}">${count==1?item.sequence+1:item.sequence}. ${item.description}</div>
+                    <div class="content">${item.userAnswer==null?"":item.userAnswer}</div>
+                    <div class="answer" style="${item.userAnswer != item.solution?"color:red":""}">${item.solution}</div>
+                    
+                </div>`
+                if(item.options!=null){
+                    item.options.forEach(option=>{
+                        
+                    if(f[0]!=null){
+                        f[0].options.forEach(o=>{
+                            if(o.description==option.description){
+                                html += `<div class="option" style="color:red">${option.label}.${option.description}</div>`
+                            }
+                        }) 
+                    }else{
+                        html += `<div class="option" >${option.label}.${option.description}</div>`
+                       
+                    }
+                })
+                    
+                }
+            })
+            
+            document.querySelector('.right').innerHTML = html
+        })
+        })
+       
+    </script>
+</body>
+</html>
