@@ -1,0 +1,1953 @@
+[
+  {
+    "questionId": "400000000021010000216409",
+    "score": 2,
+    "sourceId": "5cb82157c2018e2acce616fa",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/34b0f8f1-ca17-4897-9590-a2f656bc3a7c.gif\" title=\"10932114811_13.gif\" alt=\"10932114811_13.gif\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 0,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000839407",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/a1cd68df-4eb5-40ed-b07c-c40d982b6948.gif\"title=\"10932114829_14.gif\" alt=\"10932114829_14.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839408",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/b7b7adc2-1f66-4ffc-b682-0b08e7672f42.gif\"title=\"10932114837_15.gif\" alt=\"10932114837_15.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839409",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/6220347f-6f80-4ace-abc9-c70281a8d1c3.gif\"title=\"10932114845_16.gif\" alt=\"10932114845_16.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839410",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/6bb5e70b-28a5-432b-82b5-67dff8553394.gif\"title=\"10932114852_17.gif\" alt=\"10932114852_17.gif\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000216408",
+    "score": 2,
+    "sourceId": "5cb82157c2018e2acce616f9",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/c79697a6-c64d-4d33-a9d3-58867cff2711.gif\" title=\"10935114059_1.gif\" alt=\"10935114059_1.gif\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 1,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000839403",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/dd2a9266-5138-4c82-99f7-415f2969b0cc.gif\"title=\"10935114110_2.gif\" alt=\"10935114110_2.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839404",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/7145872e-792f-4ba8-ba4b-24ca0159ac93.gif\"title=\"10935114122_3.gif\" alt=\"10935114122_3.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839405",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/a14c89f5-4fb1-487f-ad75-2a1103819947.gif\"title=\"10935114132_4.gif\" alt=\"10935114132_4.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839406",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/7a2ffcdf-4d9f-4850-8a63-bf2a66d8f70c.gif\"title=\"10935114140_5.gif\" alt=\"10935114140_5.gif\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000216406",
+    "score": 2,
+    "sourceId": "5cb82157c2018e2acce616f7",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/5ac1a9fb-0515-4286-a521-1f3c139458c7.gif\" title=\"10935121424_3.gif\" alt=\"10935121424_3.gif\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 2,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000839395",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/da5802f6-c445-4a01-8344-d89511d4d7f9.gif\"title=\"10935121454_4.gif\" alt=\"10935121454_4.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839396",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/91960a69-35c9-4675-a8c9-48629ac20304.gif\"title=\"1093512157_5.gif\" alt=\"1093512157_5.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839397",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/6c30b19f-8703-4d73-88aa-9d68cd290e5e.gif\"title=\"10935121522_6.gif\" alt=\"10935121522_6.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839398",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/f26f2319-bdfd-46f5-a7f6-e816a2f3d021.gif\"title=\"10935121532_7.gif\" alt=\"10935121532_7.gif\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000216405",
+    "score": 2,
+    "sourceId": "5cb82157c2018e2acce616f6",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/813d747b-f287-498c-90a4-52782ab7223c.gif\" title=\"109337146_83.gif\" alt=\"109337146_83.gif\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 3,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000839391",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/97af4c74-db97-4451-b757-a0a1078a0945.gif\"title=\"1093371420_84.gif\" alt=\"1093371420_84.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839392",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/b6940852-96e2-40e5-9380-5c348478eb1f.gif\"title=\"1093371429_85.gif\" alt=\"1093371429_85.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839393",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/7e254ed5-966e-46ee-bf7a-036347520101.gif\"title=\"1093371450_86.gif\" alt=\"1093371450_86.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839394",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/f628e421-084b-40b9-ae62-658c03a2d419.gif\"title=\"109337152_87.gif\" alt=\"109337152_87.gif\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000216404",
+    "score": 2,
+    "sourceId": "5cb82157c2018e2acce616f5",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/77824f0d-285d-4e50-a068-840e09187af2.gif\" title=\"10935114529_8.gif\" alt=\"10935114529_8.gif\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 4,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000839387",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/95f71b9f-1d36-4a4a-a7e6-35343d4d1b13.gif\"title=\"10935114541_9.gif\" alt=\"10935114541_9.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839388",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/af9fe6f8-b362-4dcc-ba8a-c8b756418e60.gif\"title=\"10935114549_10.gif\" alt=\"10935114549_10.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839389",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/db08703c-0c03-4cf4-b8ce-a70cd70363b0.gif\"title=\"10935114559_11.gif\" alt=\"10935114559_11.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839390",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/da733026-7f30-44c9-9eb6-fb7d947a97f0.gif\"title=\"1093511468_12.gif\" alt=\"1093511468_12.gif\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000216403",
+    "score": 2,
+    "sourceId": "5cb82157c2018e2acce616f4",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/807939c0-f7fe-4ec7-b9a6-c8f3f3b7456a.gif\" title=\"109358937_8.gif\" alt=\"109358937_8.gif\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 5,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000839383",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/854c8baf-ada4-4f0a-92c5-33c5a4a66b04.gif\"title=\"109358949_9.gif\" alt=\"109358949_9.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839384",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/fc7f8565-fe76-4b12-94b8-c46ac24f6786.gif\"title=\"109358958_10.gif\" alt=\"109358958_10.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839385",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/d28c4b20-2d4e-4416-8580-b1b50f26a6d6.gif\"title=\"109358106_11.gif\" alt=\"109358106_11.gif\"/>"
+      },
+      {
+        "id": "400000000021020000839386",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/894eb86f-385d-4b5c-8013-a6980313b8ce.gif\"title=\"1093581015_12.gif\" alt=\"1093581015_12.gif\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000216402",
+    "score": 2,
+    "sourceId": "5cb82157c2018e2acce616f3",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/a24f5b6e-e1c4-44dc-8cc3-760074a2b30d.gif\" title=\"1093291813_10.gif\" alt=\"1093291813_10.gif\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 6,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000839379",
+        "label": "A",
+        "description": "关于坐标原点对称"
+      },
+      {
+        "id": "400000000021020000839380",
+        "label": "B",
+        "description": "关于x轴对称"
+      },
+      {
+        "id": "400000000021020000839381",
+        "label": "C",
+        "description": "关于y轴对称"
+      },
+      {
+        "id": "400000000021020000839382",
+        "label": "D",
+        "description": "关于直线y = x对称"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000216401",
+    "score": 2,
+    "sourceId": "5cb82157c2018e2acce616f2",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/38872aac-55b0-4d8c-9297-4dd8348d915f.gif\" title=\"10931803_11.gif\" alt=\"10931803_11.gif\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 7,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000839375",
+        "label": "A",
+        "description": "可去间断点"
+      },
+      {
+        "id": "400000000021020000839376",
+        "label": "B",
+        "description": "跳跃间断点"
+      },
+      {
+        "id": "400000000021020000839377",
+        "label": "C",
+        "description": "无穷间断点"
+      },
+      {
+        "id": "400000000021020000839378",
+        "label": "D",
+        "description": "非无穷型的第二类间断点"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000216400",
+    "score": 2,
+    "sourceId": "5cb82157c2018e2acce616f1",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/1887732f-4b67-4faf-b1ac-57cd73181dc0.gif\" title=\"1093183051_6.gif\" alt=\"1093183051_6.gif\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 8,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000839371",
+        "label": "A",
+        "description": "40"
+      },
+      {
+        "id": "400000000021020000839372",
+        "label": "B",
+        "description": "300"
+      },
+      {
+        "id": "400000000021020000839373",
+        "label": "C",
+        "description": "30"
+      },
+      {
+        "id": "400000000021020000839374",
+        "label": "D",
+        "description": "100"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135747",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82ddb",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/3e0edd73-fb0c-45c7-831e-51700b0e5714.jpg\" title=\"ex_1363935112301_0.jpg\" alt=\"ex_1363935112301_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 9,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584981",
+        "label": "A",
+        "description": "x<2"
+      },
+      {
+        "id": "400000000021020000584982",
+        "label": "B",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/96e10f65-b947-4af9-851d-306bf1de2d56.jpg\"title=\"ex_1363935210989_0.jpg\" alt=\"ex_1363935210989_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584983",
+        "label": "C",
+        "description": "|x|<2"
+      },
+      {
+        "id": "400000000021020000584984",
+        "label": "D",
+        "description": "|x|>2"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135746",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82dda",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/8e2089a9-1b61-4502-b275-2c1417d9243a.jpg\" title=\"ex_1363933304809_0.jpg\" alt=\"ex_1363933304809_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 10,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584977",
+        "label": "A",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/65a42e4b-da45-47c8-8588-bedacc961717.jpg\"title=\"ex_1363933348763_0.jpg\" alt=\"ex_1363933348763_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584978",
+        "label": "B",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/52c04fca-7a5f-4cfd-832d-7e2cd7cbbf98.jpg\"title=\"ex_1363934559103_0.jpg\" alt=\"ex_1363934559103_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584979",
+        "label": "C",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/298a142d-fa02-452f-8b1f-c19fa3c3c319.jpg\"title=\"ex_1363934640305_0.jpg\" alt=\"ex_1363934640305_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584980",
+        "label": "D",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/1e5b23bb-1ae9-4710-8446-662a18c96675.jpg\"title=\"ex_1363934737345_0.jpg\" alt=\"ex_1363934737345_0.jpg\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135745",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82dd9",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/d42564f4-9cf6-4ab8-8bd1-b2bdcac0a5b8.jpg\" title=\"ex_1363933211466_0.jpg\" alt=\"ex_1363933211466_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 11,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584973",
+        "label": "A",
+        "description": "1/4"
+      },
+      {
+        "id": "400000000021020000584974",
+        "label": "B",
+        "description": "1/3"
+      },
+      {
+        "id": "400000000021020000584975",
+        "label": "C",
+        "description": "1"
+      },
+      {
+        "id": "400000000021020000584976",
+        "label": "D",
+        "description": "-1"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135744",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82dd8",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/59a81a11-6dfa-4c1d-bbd4-5e5ad35f76fa.jpg\" title=\"ex_1363933063827_0.jpg\" alt=\"ex_1363933063827_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 12,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584969",
+        "label": "A",
+        "description": "3/2"
+      },
+      {
+        "id": "400000000021020000584970",
+        "label": "B",
+        "description": "1/2"
+      },
+      {
+        "id": "400000000021020000584971",
+        "label": "C",
+        "description": "1"
+      },
+      {
+        "id": "400000000021020000584972",
+        "label": "D",
+        "description": "2"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135736",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82dcb",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "若 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/9fdcbe31-1dfa-4315-97e5-93163d25a09a.jpg\" title=\"ex_1363935239250_0.jpg\" alt=\"ex_1363935239250_0.jpg\">则 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/2ea2f700-c782-4899-a569-84f70f933e9d.jpg\" title=\"ex_1363935252710_0.jpg\" alt=\"ex_1363935252710_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 13,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584965",
+        "label": "A",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/b178f907-8a3d-4337-8d85-71a33699a57f.jpg\"title=\"ex_1363935295052_0.jpg\" alt=\"ex_1363935295052_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584966",
+        "label": "B",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/91a0924a-f6af-4e71-a402-1be60c31cd55.jpg\"title=\"ex_1363935306009_0.jpg\" alt=\"ex_1363935306009_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584967",
+        "label": "C",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/906d7718-dfb3-4f11-b7d6-0675ea57be66.jpg\"title=\"ex_1363935320392_0.jpg\" alt=\"ex_1363935320392_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584968",
+        "label": "D",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/c5aeef02-220a-4a99-bb4a-1066872ca2e3.jpg\"title=\"ex_1363935331925_0.jpg\" alt=\"ex_1363935331925_0.jpg\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135735",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82dc9",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "若 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/4e3affe8-c32e-4f8f-aa87-2cf14eff6300.jpg\" title=\"ex_1363935077591_0.jpg\" alt=\"ex_1363935077591_0.jpg\">则 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/1b21dae2-971e-4628-83ac-d212c28e7b8d.jpg\" title=\"ex_1363935088341_0.jpg\" alt=\"ex_1363935088341_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 14,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584961",
+        "label": "A",
+        "description": "0"
+      },
+      {
+        "id": "400000000021020000584962",
+        "label": "B",
+        "description": "1"
+      },
+      {
+        "id": "400000000021020000584963",
+        "label": "C",
+        "description": "2"
+      },
+      {
+        "id": "400000000021020000584964",
+        "label": "D",
+        "description": "3"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135734",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82dc7",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "若 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/c120da1e-decd-45d0-8db5-2755b677401a.jpg\" title=\"ex_1363934818589_0.jpg\" alt=\"ex_1363934818589_0.jpg\">，则 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/a3764ebd-7187-4eb3-836e-7899ee19d342.jpg\" title=\"ex_1363934835123_0.jpg\" alt=\"ex_1363934835123_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 15,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584957",
+        "label": "A",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/6e08685c-197d-47f4-b6d2-8fb102a58440.jpg\"title=\"ex_1363934857127_0.jpg\" alt=\"ex_1363934857127_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584958",
+        "label": "B",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/760d4354-c45f-42bf-a2d4-8d30ceb1a94f.jpg\"title=\"ex_1363934871053_0.jpg\" alt=\"ex_1363934871053_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584959",
+        "label": "C",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/fad65af7-7db5-4e30-a2fa-a166ec391649.jpg\"title=\"ex_1363934882875_0.jpg\" alt=\"ex_1363934882875_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584960",
+        "label": "D",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/22cda108-cb97-4484-a6f7-7d449a2b0dba.jpg\"title=\"ex_1363934920026_0.jpg\" alt=\"ex_1363934920026_0.jpg\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135733",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82dc5",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "设D是矩形区域 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/ae0e4480-f090-4506-b488-30e3de48c630.jpg\" title=\"ex_1363934583827_0.jpg\" alt=\"ex_1363934583827_0.jpg\">，则 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/8fd26b22-1a6f-4c26-84c9-3428e75bdd6d.jpg\" title=\"ex_1363934595403_0.jpg\" alt=\"ex_1363934595403_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 16,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584953",
+        "label": "A",
+        "description": "1/3"
+      },
+      {
+        "id": "400000000021020000584954",
+        "label": "B",
+        "description": "2/3"
+      },
+      {
+        "id": "400000000021020000584955",
+        "label": "C",
+        "description": "1/4"
+      },
+      {
+        "id": "400000000021020000584956",
+        "label": "D",
+        "description": "3/4"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135732",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82dc3",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "曲面 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/a35fabcf-5a2e-4320-80a6-263d73c4227e.jpg\" title=\"ex_1363934383152_0.jpg\" alt=\"ex_1363934383152_0.jpg\">在（2，1，2）点的法向量为（ ）",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 17,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584949",
+        "label": "A",
+        "description": "（1，4，-1）"
+      },
+      {
+        "id": "400000000021020000584950",
+        "label": "B",
+        "description": "（1，0，0）"
+      },
+      {
+        "id": "400000000021020000584951",
+        "label": "C",
+        "description": "（1，4，1）"
+      },
+      {
+        "id": "400000000021020000584952",
+        "label": "D",
+        "description": "（-1，2，0）"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135731",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82dc1",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "设D是矩形区域 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/4d4b0b67-c7bd-4bfa-a269-3f67b3b45e23.jpg\" title=\"ex_1363933222785_0.jpg\" alt=\"ex_1363933222785_0.jpg\">，则 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/716e71dc-bfc5-4d1c-a6ef-1729e9e74cfb.jpg\" title=\"ex_1363933242169_0.jpg\" alt=\"ex_1363933242169_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 18,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584945",
+        "label": "A",
+        "description": "1/2"
+      },
+      {
+        "id": "400000000021020000584946",
+        "label": "B",
+        "description": "2"
+      },
+      {
+        "id": "400000000021020000584947",
+        "label": "C",
+        "description": "1/4"
+      },
+      {
+        "id": "400000000021020000584948",
+        "label": "D",
+        "description": "4"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135723",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82dae",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/00667c19-9860-4103-9b13-92d9d2c88b2b.jpg\" title=\"ex_1363919049493_0.jpg\" alt=\"ex_1363919049493_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 19,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584941",
+        "label": "A",
+        "description": "1"
+      },
+      {
+        "id": "400000000021020000584942",
+        "label": "B",
+        "description": "2"
+      },
+      {
+        "id": "400000000021020000584943",
+        "label": "C",
+        "description": "3"
+      },
+      {
+        "id": "400000000021020000584944",
+        "label": "D",
+        "description": "4"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135722",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82dac",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "微分方程 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/7b7ec34f-7d08-4353-be7d-dd3bb8030993.jpg\" title=\"ex_1363918846988_0.jpg\" alt=\"ex_1363918846988_0.jpg\">的通解为（ ）",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 20,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584937",
+        "label": "A",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/d2947c6e-a8b7-42d1-8938-bd52a5b71c77.jpg\"title=\"ex_1363918880770_0.jpg\" alt=\"ex_1363918880770_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584938",
+        "label": "B",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/bc133cb1-bbb6-4cd0-95e3-9d0c80439849.jpg\"title=\"ex_1363918912584_0.jpg\" alt=\"ex_1363918912584_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584939",
+        "label": "C",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/98d061f9-88be-4813-8ab7-eec2d071c125.jpg\"title=\"ex_1363918944935_0.jpg\" alt=\"ex_1363918944935_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584940",
+        "label": "D",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/0ad1c637-e8e8-469f-a313-c0a4f293ba2c.jpg\"title=\"ex_1363918981931_0.jpg\" alt=\"ex_1363918981931_0.jpg\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135721",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82daa",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "微分方程 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/dd98a07b-cf12-43ae-8599-c976a5028994.jpg\" title=\"ex_1363918628737_0.jpg\" alt=\"ex_1363918628737_0.jpg\">&nbsp;&nbsp;的通解为（ ）",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 21,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584933",
+        "label": "A",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/ff7cd302-3ec1-42a1-9b50-731a2f0c10a4.jpg\"title=\"ex_1363918671187_0.jpg\" alt=\"ex_1363918671187_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584934",
+        "label": "B",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/8465652b-573e-4d4f-ac56-078f0c9b7eea.jpg\"title=\"ex_1363918705668_0.jpg\" alt=\"ex_1363918705668_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584935",
+        "label": "C",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/904448c9-8f49-424e-916c-aa84001cbae9.jpg\"title=\"ex_1363918739484_0.jpg\" alt=\"ex_1363918739484_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584936",
+        "label": "D",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/3a63325b-4868-4bbc-bd97-58f6d15cc17d.jpg\"title=\"ex_1363918771130_0.jpg\" alt=\"ex_1363918771130_0.jpg\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135720",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82da8",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/400b74a0-d285-4be8-bc55-14ab99f47b9a.jpg\" title=\"ex_1363918564337_0.jpg\" alt=\"ex_1363918564337_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 22,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584929",
+        "label": "A",
+        "description": "1"
+      },
+      {
+        "id": "400000000021020000584930",
+        "label": "B",
+        "description": "-1"
+      },
+      {
+        "id": "400000000021020000584931",
+        "label": "C",
+        "description": "0"
+      },
+      {
+        "id": "400000000021020000584932",
+        "label": "D",
+        "description": "-2"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135719",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82da6",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "微分方程 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/a94cab12-8603-48dc-855f-ff7611f40756.jpg\" title=\"ex_1363918380310_0.jpg\" alt=\"ex_1363918380310_0.jpg\">的通解为（ ）",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 23,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584925",
+        "label": "A",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/fd97b0e7-42a2-4a16-8a53-0619a2a738d9.jpg\"title=\"ex_1363918411092_0.jpg\" alt=\"ex_1363918411092_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584926",
+        "label": "B",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/0f6f8266-1f3f-425d-8974-e097f29c7ccc.jpg\"title=\"ex_1363918443010_0.jpg\" alt=\"ex_1363918443010_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584927",
+        "label": "C",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/b157b530-301a-4040-978f-7165bc0fd55d.jpg\"title=\"ex_1363918478348_0.jpg\" alt=\"ex_1363918478348_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584928",
+        "label": "D",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/08762b1c-1308-49d0-878e-a7b06708b651.jpg\"title=\"ex_1363918511117_0.jpg\" alt=\"ex_1363918511117_0.jpg\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135718",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82da4",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/5bdf2e13-223c-48c7-971e-c6ce35a9f3cf.jpg\" title=\"ex_1363918304866_0.jpg\" alt=\"ex_1363918304866_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 24,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584921",
+        "label": "A",
+        "description": "1"
+      },
+      {
+        "id": "400000000021020000584922",
+        "label": "B",
+        "description": "2"
+      },
+      {
+        "id": "400000000021020000584923",
+        "label": "C",
+        "description": "3"
+      },
+      {
+        "id": "400000000021020000584924",
+        "label": "D",
+        "description": "4"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135717",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82d9d",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "微分方程 \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/b51e1665-1993-49de-9d3e-e265a4010def.jpg\" title=\"ex_1363918072809_0.jpg\" alt=\"ex_1363918072809_0.jpg\">的通解是（ ）",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 25,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584917",
+        "label": "A",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/595b6a8a-6b24-4e9a-8452-ef694b08c92c.jpg\"title=\"ex_1363918127391_0.jpg\" alt=\"ex_1363918127391_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584918",
+        "label": "B",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/ef254564-53f2-4f60-a3b0-e850803fb976.jpg\"title=\"ex_1363918166543_0.jpg\" alt=\"ex_1363918166543_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584919",
+        "label": "C",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/244f995f-2ca9-4cfb-a427-6adaabf343ac.jpg\"title=\"ex_1363918207686_0.jpg\" alt=\"ex_1363918207686_0.jpg\"/>"
+      },
+      {
+        "id": "400000000021020000584920",
+        "label": "D",
+        "description": "<IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/9c7c815c-7904-41d9-851d-60e027a65c09.jpg\"title=\"ex_1363918252291_0.jpg\" alt=\"ex_1363918252291_0.jpg\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135716",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82d9b",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/ee461f9d-815c-4859-8c0a-d9af1ed611f8.jpg\" title=\"ex_1363917969772_0.jpg\" alt=\"ex_1363917969772_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 26,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584913",
+        "label": "A",
+        "description": "1"
+      },
+      {
+        "id": "400000000021020000584914",
+        "label": "B",
+        "description": "2"
+      },
+      {
+        "id": "400000000021020000584915",
+        "label": "C",
+        "description": "3"
+      },
+      {
+        "id": "400000000021020000584916",
+        "label": "D",
+        "description": "4"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135715",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82d99",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/411f72bd-e071-460d-957b-7e923bd5f3fb.jpg\" title=\"ex_1363917852386_0.jpg\" alt=\"ex_1363917852386_0.jpg\">在点（2，1，0）的法向量为（ ）",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 27,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584909",
+        "label": "A",
+        "description": "（1，1，0）"
+      },
+      {
+        "id": "400000000021020000584910",
+        "label": "B",
+        "description": "（1，2，0）"
+      },
+      {
+        "id": "400000000021020000584911",
+        "label": "C",
+        "description": "（0，1，2）"
+      },
+      {
+        "id": "400000000021020000584912",
+        "label": "D",
+        "description": "（1，1，1）"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135714",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82d97",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/d4834574-1253-4e82-a060-f468e80894a5.jpg\" title=\"ex_1363744672306_0.jpg\" alt=\"ex_1363744672306_0.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 28,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584905",
+        "label": "A",
+        "description": "1"
+      },
+      {
+        "id": "400000000021020000584906",
+        "label": "B",
+        "description": "0"
+      },
+      {
+        "id": "400000000021020000584907",
+        "label": "C",
+        "description": "2"
+      },
+      {
+        "id": "400000000021020000584908",
+        "label": "D",
+        "description": "3"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135713",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82d95",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "（&nbsp;&nbsp;） \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/f1ebfb5c-f2a6-4ffd-9da2-3ac968cad523.bmp\" title=\"109102134445_71.bmp\" alt=\"109102134445_71.bmp\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 29,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584901",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/1f86ae1d-80f7-4cf0-8b45-4f5a60ee66bb.bmp\"title=\"109102134510_72.bmp\" alt=\"109102134510_72.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584902",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/e8c48645-ad94-4e4d-b4d4-1558647b4d10.bmp\"title=\"109102134521_73.bmp\" alt=\"109102134521_73.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584903",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/2600dac1-b058-4e85-b1dd-5f3e46cb1a71.bmp\"title=\"109102134532_74.bmp\" alt=\"109102134532_74.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584904",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/97aee303-8276-49d0-9767-7bf738e4f307.jpg\"title=\"1105623840_127.4.jpg\" alt=\"1105623840_127.4.jpg\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135712",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82d93",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "（&nbsp;&nbsp;）. \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/fd38cd29-b12f-4240-833c-fa7ececdb769.bmp\" title=\"109102123830_101.bmp\" alt=\"109102123830_101.bmp\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 30,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584897",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/20a94909-14de-4268-a960-7ff7b577cca8.bmp\"title=\"109102123843_102.bmp\" alt=\"109102123843_102.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584898",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/8cc6769e-544c-4698-a37a-552f869b93af.bmp\"title=\"109102123851_103.bmp\" alt=\"109102123851_103.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584899",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/961b582c-329c-48bd-b589-02dbc9f3468a.bmp\"title=\"109102123859_104.bmp\" alt=\"109102123859_104.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584900",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/d94007d2-4ca5-4f2a-b222-5d73a8025a7e.bmp\"title=\"10910212399_105.bmp\" alt=\"10910212399_105.bmp\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135711",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82d91",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "面积为（&nbsp;&nbsp;） \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/92562392-87e6-459b-b7a3-0b84e92ab4eb.jpg\" title=\"11056223346_94.jpg\" alt=\"11056223346_94.jpg\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 31,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584893",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/64d7ab8a-eb02-46a3-81e9-10f0c3203130.bmp\"title=\"10910294011_143.bmp\" alt=\"10910294011_143.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584894",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/ff5704a8-1dee-4f31-aeed-65e46b18c93a.bmp\"title=\"10910294019_144.bmp\" alt=\"10910294019_144.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584895",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/89415215-5a41-49bd-b247-81162b5f9966.bmp\"title=\"10910294044_145.bmp\" alt=\"10910294044_145.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584896",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/688a71ce-24ed-4785-b3a1-21f38e10c906.jpg\"title=\"11056223139_94.4.jpg\" alt=\"11056223139_94.4.jpg\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135710",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82d8f",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "（&nbsp;&nbsp;） \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/31cbf8df-1a88-4aa3-87bd-af609e9d869c.bmp\" title=\"109101133014_31.bmp\" alt=\"109101133014_31.bmp\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 32,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584889",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/65250a40-f112-4b5b-b01f-746d7fbca65d.bmp\"title=\"109101133124_32.bmp\" alt=\"109101133124_32.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584890",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/b5920106-d902-4739-8135-db5a47062b64.bmp\"title=\"109101133214_33.bmp\" alt=\"109101133214_33.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584891",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/6b8b360c-9248-4eb4-81aa-9249b3f702aa.bmp\"title=\"109101133226_34.bmp\" alt=\"109101133226_34.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584892",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/0b8c63e2-013c-4d15-a3a8-43a4bb5be5ed.bmp\"title=\"109101133241_35.bmp\" alt=\"109101133241_35.bmp\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135709",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82d8d",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "（&nbsp;&nbsp;）. \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/d7c8c8ee-3c6b-4c86-be6c-e91c7f572e3d.bmp\" title=\"10910115312_171.bmp\" alt=\"10910115312_171.bmp\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 33,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584885",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/80a997a1-0ea3-4337-a8af-ded1fc704221.bmp\"title=\"109101153136_172.bmp\" alt=\"109101153136_172.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584886",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/f221fb7b-945f-4ed9-b897-ed312d2e00c9.bmp\"title=\"109101153143_173.bmp\" alt=\"109101153143_173.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584887",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/438a189e-a3b8-41b4-b2e4-ac349e898ea5.bmp\"title=\"109101153149_174.bmp\" alt=\"109101153149_174.bmp\"/>"
+      },
+      {
+        "id": "400000000021020000584888",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/4df3e382-d289-4e34-af26-a433464cb074.bmp\"title=\"109101153155_175.bmp\" alt=\"109101153155_175.bmp\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135708",
+    "score": 2,
+    "sourceId": "5cb82159c2018e2acce82d8b",
+    "courseIds": [
+      223,
+      698,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "设方程 确定了是的函数，则（&nbsp;&nbsp;） \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/1e0ca3d3-545b-4592-a599-153f1fef0607.gif\" title=\"10910110158_81.gif\" alt=\"10910110158_81.gif\"> \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/d119be9e-8e21-40a7-8b13-bbcb72642315.gif\" title=\"10910110350_8y.gif\" alt=\"10910110350_8y.gif\"> \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/3c3d8f83-4f93-4cc9-864e-4275a0552ce2.gif\" title=\"10910110358_8x.gif\" alt=\"10910110358_8x.gif\"> \n<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/752b65f7-1c9d-4583-a261-ef4a0b471ec6.gif\" title=\"10910110514_82.gif\" alt=\"10910110514_82.gif\">",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 34,
+    "comments": null,
+    "options": [
+      {
+        "id": "400000000021020000584881",
+        "label": "A",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/63218dd3-7300-4aa1-8911-5b6c6f8025e1.gif\"title=\"10910110543_83.gif\" alt=\"10910110543_83.gif\"/>"
+      },
+      {
+        "id": "400000000021020000584882",
+        "label": "B",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/d0abb88a-f05c-4d0f-ab93-7a10f4487dac.gif\"title=\"10910110552_84.gif\" alt=\"10910110552_84.gif\"/>"
+      },
+      {
+        "id": "400000000021020000584883",
+        "label": "C",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/a417c2da-9a95-4d95-9fa2-653379dc602b.gif\"title=\"10910110559_85.gif\" alt=\"10910110559_85.gif\"/>"
+      },
+      {
+        "id": "400000000021020000584884",
+        "label": "D",
+        "description": "<br/><IMG src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/b057825f-27be-4569-81a7-3bee0b63a03b.gif\"title=\"1091011067_86.gif\" alt=\"1091011067_86.gif\"/>"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63477eb6cff47e00018cabbe",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      221,
+      616,
+      223,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": " 下列结论不能得到反常积分<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/16656290714889b0f496f10534c00974bff1fbdebea0fimage102.png\" style=\"width:101px;height:34px;\">收敛的是()",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 35,
+    "comments": null,
+    "options": [
+      {
+        "id": "63477eb6cff47e00018cac1f",
+        "label": "A",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629696949_a3d0cfce12a34b55b9e7e06c12847a52.png\" class=\"mw-100\">有界,<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629748163_df889bbd5d2a4739aaa71df5f7908ffe.png\" style=\"font-size: 14px;\" class=\"mw-100\"><font face=\"宋体\"><span style=\"font-size: 16px;\">单调趋于0：</span></font>"
+      },
+      {
+        "id": "63477eb6cff47e00018cac20",
+        "label": "B",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629775737_635c1a8e6ad04745a9b2bb4fe79b4104.png\" class=\"mw-100\">收敛，<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629790734_606b066d0c374308b6c9b926d2c3ba01.png\" style=\"font-size: 14px;\" class=\"mw-100\"><span style=\"font-family: 宋体; font-size: 12pt;\">单调有界：</span>"
+      },
+      {
+        "id": "63477eb6cff47e00018cac21",
+        "label": "C",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629717588_385fec7f55284a2d8ed6b067dd203f2d.png\" class=\"mw-100\">有界,&nbsp;<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629816969_4e2149214bd74593a098d018088bd6bc.png\" style=\"font-size: 14px;\" class=\"mw-100\">单调有界；"
+      },
+      {
+        "id": "63477eb6cff47e00018cac22",
+        "label": "D",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629721193_671f46a29bcf4fc08c4c6e3f97b474c2.png\" class=\"mw-100\">和<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629832638_92d871931d194708a090cafa77cbeaa9.png\" style=\"font-size: 14px;\" class=\"mw-100\">都收敛。"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63477eb6cff47e00018cabbd",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      221,
+      616,
+      223,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "下列反常积分中，发散的是（）",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 36,
+    "comments": null,
+    "options": [
+      {
+        "id": "63477eb6cff47e00018cac1b",
+        "label": "A",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629664954_93fe5b9c2fb2425ebc2c3745dfe740c8.png\" class=\"mw-100\">"
+      },
+      {
+        "id": "63477eb6cff47e00018cac1c",
+        "label": "B",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629668443_5d64fcf99581426eba06d47056e6c1e5.png\" class=\"mw-100\">"
+      },
+      {
+        "id": "63477eb6cff47e00018cac1d",
+        "label": "C",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629671445_a087d8d6ab8341269cb051c2661c8d50.png\" class=\"mw-100\">"
+      },
+      {
+        "id": "63477eb6cff47e00018cac1e",
+        "label": "D",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629674036_c88612dab5c64f088099861fa65c2089.png\" class=\"mw-100\">"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63477eb6cff47e00018cabbc",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      221,
+      616,
+      223,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": " 下列级数中,收敛的是()",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 37,
+    "comments": null,
+    "options": [
+      {
+        "id": "63477eb6cff47e00018cac17",
+        "label": "A",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629629445_18a6b6200e124201b91e671ebd3b8fab.png\" class=\"mw-100\">"
+      },
+      {
+        "id": "63477eb6cff47e00018cac18",
+        "label": "B",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629632587_5916a56fafd44b59baa6f0fd3e4b6cb3.png\" class=\"mw-100\">"
+      },
+      {
+        "id": "63477eb6cff47e00018cac19",
+        "label": "C",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629635348_ca1feecbfa2c4f61b7a9d4245e20f67a.png\" class=\"mw-100\">"
+      },
+      {
+        "id": "63477eb6cff47e00018cac1a",
+        "label": "D",
+        "description": "<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629638437_d45ee74482ad41d1aaf4dd85a31267bc.png\" class=\"mw-100\">"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63477eb6cff47e00018cabbb",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      221,
+      616,
+      223,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": " 设曲线<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629070678cd3cf131dd8048a7b2952820f99523b0image88.png\" style=\"width:60px;height:21px;\" class=\"mw-100\">,从点<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/166562907078637b40e6d50c74418809bfde002da871eimage89.png\" style=\"width:50px;height:21px;\" class=\"mw-100\">到点<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629070858ad6f72baeb2e4dc4846788d5c436453dimage90.png\" style=\"width:43px;height:21px;\" class=\"mw-100\">,则积分<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629599772_4493d29bb1d94aafa41b7f36f5f48dde.png\" style=\"font-size: 14px;\" class=\"mw-100\">()",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 38,
+    "comments": null,
+    "options": [
+      {
+        "id": "63477eb6cff47e00018cac13",
+        "label": "A",
+        "description": "  0;"
+      },
+      {
+        "id": "63477eb6cff47e00018cac14",
+        "label": "B",
+        "description": "1"
+      },
+      {
+        "id": "63477eb6cff47e00018cac15",
+        "label": "C",
+        "description": " <img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629070947d6b4f074855a4833860b4c08e7391f5eimage92.png\"style=\"width:15px;height:41px;\"/>;"
+      },
+      {
+        "id": "63477eb6cff47e00018cac16",
+        "label": "D",
+        "description": " <img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629070995eb4ae7f3b94148e39719d356f0b58123image93.png\"style=\"width:16px;height:41px;\"/>."
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63477eb6cff47e00018cabba",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      221,
+      616,
+      223,
+      536,
+      226,
+      687
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": " 由抛物线<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/16656290704326a696e8574354761a9f56b28212d7f08image83.png\"style=\"width:43px;height:24px;\"/>及直线<img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/166562907051743bee459731e4c72805230ceb8a382beimage84.png\"style=\"width:49px;height:17px;\"/>所围成图形的面积为(  )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 39,
+    "comments": null,
+    "options": [
+      {
+        "id": "63477eb6cff47e00018cac0f",
+        "label": "A",
+        "description": " <img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629070558fe904599a6d848a08d9ee707dc9bf82dimage85.png\"style=\"width:15px;height:41px;\"/>;"
+      },
+      {
+        "id": "63477eb6cff47e00018cac10",
+        "label": "B",
+        "description": " <img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/1665629070591628f621d188f4d6abeb30af252a988edimage86.png\"style=\"width:16px;height:41px;\"/>;"
+      },
+      {
+        "id": "63477eb6cff47e00018cac11",
+        "label": "C",
+        "description": " <img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/examination/imgUplod/16656290706309943812da6d24d0c9e81c47de3a854a9image87.png\"style=\"width:16px;height:41px;\"/>;"
+      },
+      {
+        "id": "63477eb6cff47e00018cac12",
+        "label": "D",
+        "description": " 1."
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "400000000021010000135753",
+    "score": 20,
+    "sourceId": "5cb82159c2018e2acce82de4",
+    "courseIds": [
+      223,
+      536,
+      226,
+      687
+    ],
+    "typeId": 3,
+    "typeDesc": "问答题",
+    "typeAlias": "问答题",
+    "parentId": null,
+    "description": "判别下列级数是否收敛? 如果是收敛的, 是绝对收敛还是条件收敛? \n<p> <img src=\"https://s3.cn-north-1.amazonaws.com.cn/qingshuxuetang/staticQuestionImg/0292b8a5-5b1e-49f7-83ad-e911f3149ca9.jpg\" title=\"ex_1363939003077_0.jpg\" alt=\"ex_1363939003077_0.jpg\">&nbsp;&nbsp;</p>",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 40,
+    "comments": null,
+    "options": null,
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  }
+]

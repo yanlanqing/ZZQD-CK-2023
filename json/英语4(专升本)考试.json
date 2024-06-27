@@ -1,0 +1,1867 @@
+[
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8088",
+    "score": 2,
+    "sourceId": "5cb82174c2018e2acc03d5ce",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "Peter is eager ________ history.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "A",
+    "userScore": 2,
+    "sequence": 1,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5b327ac1f635eb81515ff",
+        "label": "A",
+        "description": "to learn"
+      },
+      {
+        "id": "5fa5b327ac1f635eb8151600",
+        "label": "B",
+        "description": "learning"
+      },
+      {
+        "id": "5fa5b327ac1f635eb8151601",
+        "label": "C",
+        "description": "learn"
+      },
+      {
+        "id": "5fa5b327ac1f635eb8151602",
+        "label": "D",
+        "description": "learned"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8087",
+    "score": 2,
+    "sourceId": "5cb82174c2018e2acc03d5cd",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "–What’s the time by your watch? –____________________.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 2,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5b327ac1f635eb81515fb",
+        "label": "A",
+        "description": "Sorry, my watch has stopped"
+      },
+      {
+        "id": "5fa5b327ac1f635eb81515fc",
+        "label": "B",
+        "description": "Yes, I can tell you"
+      },
+      {
+        "id": "5fa5b327ac1f635eb81515fd",
+        "label": "C",
+        "description": "It’s ten fifteen"
+      },
+      {
+        "id": "5fa5b327ac1f635eb81515fe",
+        "label": "D",
+        "description": "Both A and C"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8086",
+    "score": 2,
+    "sourceId": "5cb82174c2018e2acc03d5cb",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "You can spend the money ________.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 3,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5b327ac1f635eb81515f7",
+        "label": "A",
+        "description": "on will"
+      },
+      {
+        "id": "5fa5b327ac1f635eb81515f8",
+        "label": "B",
+        "description": "in will"
+      },
+      {
+        "id": "5fa5b327ac1f635eb81515f9",
+        "label": "C",
+        "description": "to will"
+      },
+      {
+        "id": "5fa5b327ac1f635eb81515fa",
+        "label": "D",
+        "description": "at will"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8085",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb6f",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "He has composed many pieces of music popular with young people, ________ this is an example.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 4,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d36",
+        "label": "A",
+        "description": "with which"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d37",
+        "label": "B",
+        "description": "for which"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d38",
+        "label": "C",
+        "description": "of which"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d39",
+        "label": "D",
+        "description": "of that"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8084",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb6e",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "-I need these four books. Could you tell me how to find them on the shelves?  - __________",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 5,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d32",
+        "label": "A",
+        "description": "Let me check the computer about them for you."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d33",
+        "label": "B",
+        "description": "Please go ahead."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d34",
+        "label": "C",
+        "description": "I don’t think so."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d35",
+        "label": "D",
+        "description": "Please try again."
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8083",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb32",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "Don’t talk so loudly. The baby ______",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 6,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d2e",
+        "label": "A",
+        "description": "sleeps"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d2f",
+        "label": "B",
+        "description": "is sleeping"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d30",
+        "label": "C",
+        "description": "have slept"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d31",
+        "label": "D",
+        "description": "will sleep"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8082",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb31",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "The children _______ many times not to go near the lake.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 7,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d2a",
+        "label": "A",
+        "description": "were being told"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d2b",
+        "label": "B",
+        "description": "have told"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d2c",
+        "label": "C",
+        "description": "have been told"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d2d",
+        "label": "D",
+        "description": "told"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8081",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb30",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "Nowadays, middle-aged men, ________ often suffer from heart attack.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 8,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d26",
+        "label": "A",
+        "description": "in order"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d27",
+        "label": "B",
+        "description": "in particular"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d28",
+        "label": "C",
+        "description": "in addition"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d29",
+        "label": "D",
+        "description": "in person"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8080",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb2f",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "Because I am allergic to alcohol, I always avoid ________ wine.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 9,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d22",
+        "label": "A",
+        "description": "to drink"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d23",
+        "label": "B",
+        "description": "drink"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d24",
+        "label": "C",
+        "description": "drinking"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d25",
+        "label": "D",
+        "description": "with drinking"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed807f",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb2e",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "Don’t ________ on general statements in a job interview.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 10,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d1e",
+        "label": "A",
+        "description": "talk"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d1f",
+        "label": "B",
+        "description": "rely"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d20",
+        "label": "C",
+        "description": "make"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d21",
+        "label": "D",
+        "description": "insist"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed807e",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb2d",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "Even though I made a great effort ________ for the interview, I failed nevertheless.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 11,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d1a",
+        "label": "A",
+        "description": "to prepare"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d1b",
+        "label": "B",
+        "description": "preparing"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d1c",
+        "label": "C",
+        "description": "have prepared"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d1d",
+        "label": "D",
+        "description": "having prepared for"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed807d",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb2c",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "Before ________ money in a new research, people should be aware of the prospective failures.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 12,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d16",
+        "label": "A",
+        "description": "use"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d17",
+        "label": "B",
+        "description": "using"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d18",
+        "label": "C",
+        "description": "invest"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d19",
+        "label": "D",
+        "description": "investing"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed807c",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb2b",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "________ he discovered in his experiment is very important to us.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 13,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d12",
+        "label": "A",
+        "description": "That"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d13",
+        "label": "B",
+        "description": "When"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d14",
+        "label": "C",
+        "description": "What"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d15",
+        "label": "D",
+        "description": "Where"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed807b",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb2a",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "Would you tell me ________?",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 14,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d0e",
+        "label": "A",
+        "description": "where is the post office"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d0f",
+        "label": "B",
+        "description": "where stands the post office"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d10",
+        "label": "C",
+        "description": "where the post office is"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d11",
+        "label": "D",
+        "description": "where stood the post office"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed807a",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cb29",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "He says he will tell ________ wants to know.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 15,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d0a",
+        "label": "A",
+        "description": "whatever"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d0b",
+        "label": "B",
+        "description": "whoever"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d0c",
+        "label": "C",
+        "description": "whichever"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d0d",
+        "label": "D",
+        "description": "who"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8079",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cad7",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "How you run the washing machine is ________ I want you to show me.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 16,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d06",
+        "label": "A",
+        "description": "that"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d07",
+        "label": "B",
+        "description": "what"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d08",
+        "label": "C",
+        "description": "all what"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d09",
+        "label": "D",
+        "description": "why"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8078",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cad6",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "We can not deny the fact ________ smoking is a danger to health.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 17,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1d02",
+        "label": "A",
+        "description": "which"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d03",
+        "label": "B",
+        "description": "that"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d04",
+        "label": "C",
+        "description": "what"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d05",
+        "label": "D",
+        "description": "whether"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8077",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cad5",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "One of the requirements is that the job candidates should be fluent ________ English and French.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 18,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1cfe",
+        "label": "A",
+        "description": "in"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cff",
+        "label": "B",
+        "description": "on"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d00",
+        "label": "C",
+        "description": "at"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1d01",
+        "label": "D",
+        "description": "with"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8076",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cad4",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "________ is what I am anxious to know.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 19,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1cfa",
+        "label": "A",
+        "description": "How do you get rid of mice"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cfb",
+        "label": "B",
+        "description": "How you get rid of mice"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cfc",
+        "label": "C",
+        "description": "How can you get rid of mice"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cfd",
+        "label": "D",
+        "description": "How could you get rid of mice"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8075",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cad3",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "It is fixed ________ at seven tomorrow morning.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 20,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1cf6",
+        "label": "A",
+        "description": "if we’ll start out"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cf7",
+        "label": "B",
+        "description": "that we’ll start out"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cf8",
+        "label": "C",
+        "description": "when we’ll start out"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cf9",
+        "label": "D",
+        "description": "are we going to start out"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8074",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cad2",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "He ________ to his customers and halved the price.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 21,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1cf2",
+        "label": "A",
+        "description": "leaked"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cf3",
+        "label": "B",
+        "description": "yielded"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cf4",
+        "label": "C",
+        "description": "drew"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cf5",
+        "label": "D",
+        "description": "quoted"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8073",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cad1",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "Every man in this country has the right to live where he wants to, ________ the color of his skin.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 22,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1cee",
+        "label": "A",
+        "description": "with the exception of"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cef",
+        "label": "B",
+        "description": "in the light of"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cf0",
+        "label": "C",
+        "description": "by virtue of"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cf1",
+        "label": "D",
+        "description": "regardless of"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8072",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cad0",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "What ________ me most was the friendship your people have for our people.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 23,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1cea",
+        "label": "A",
+        "description": "depressed"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1ceb",
+        "label": "B",
+        "description": "expressed"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cec",
+        "label": "C",
+        "description": "oppressed"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1ced",
+        "label": "D",
+        "description": "impressed"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8071",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cacf",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "The road accident ________ the death of two people.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 24,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1ce6",
+        "label": "A",
+        "description": "resulted in"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1ce7",
+        "label": "B",
+        "description": "resulted from"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1ce8",
+        "label": "C",
+        "description": "as a result"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1ce9",
+        "label": "D",
+        "description": "in result"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed8070",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cace",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "________ the football game will be played depends on the weather.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 25,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1ce2",
+        "label": "A",
+        "description": "If"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1ce3",
+        "label": "B",
+        "description": "That"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1ce4",
+        "label": "C",
+        "description": "Whether"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1ce5",
+        "label": "D",
+        "description": "Since"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed806f",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cacd",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "When he was a boy he ________ his talent for writing.",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 26,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1cde",
+        "label": "A",
+        "description": "demonstrated"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cdf",
+        "label": "B",
+        "description": "clarified"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1ce0",
+        "label": "C",
+        "description": "illustrated"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1ce1",
+        "label": "D",
+        "description": "approved"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed806e",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cacc",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "-Can I use the computer in the library to check some books? - __________",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 27,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1cda",
+        "label": "A",
+        "description": "Go ahead."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cdb",
+        "label": "B",
+        "description": "You will be fined."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cdc",
+        "label": "C",
+        "description": "Don’t think about it."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cdd",
+        "label": "D",
+        "description": "Please don’t say so."
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed806d",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cacb",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "-Can I take the book out of the library? - __________",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 28,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1cd6",
+        "label": "A",
+        "description": "You can only read that book here in the library."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cd7",
+        "label": "B",
+        "description": "You have to ask yourself first."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cd8",
+        "label": "C",
+        "description": "I cannot tell you."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cd9",
+        "label": "D",
+        "description": "You don’t know that."
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed806c",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3caca",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "-How much will I be fined if my books are overdue? - __________",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 29,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1cd2",
+        "label": "A",
+        "description": "It depends."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cd3",
+        "label": "B",
+        "description": "Ten cents for each book each day."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cd4",
+        "label": "C",
+        "description": "You must return the books in time."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cd5",
+        "label": "D",
+        "description": "No more than ten cents."
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f1b1b5b6f0ed8ed806b",
+    "score": 2,
+    "sourceId": "5cb82165c2018e2accf3cac9",
+    "courseIds": [
+      686,
+      532,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "-Excuse me. What do you mean you can reserve the book for me? - __________",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 30,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fa5ae33ac1f630d603a1cce",
+        "label": "A",
+        "description": "It means you can take the book home."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1ccf",
+        "label": "B",
+        "description": "It means you can have the book if you like"
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cd0",
+        "label": "C",
+        "description": "It means we won't lend them out to any other reader when they are returned."
+      },
+      {
+        "id": "5fa5ae33ac1f630d603a1cd1",
+        "label": "D",
+        "description": "It means we’ll take care of the books."
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5a9be5a772072b538e4",
+    "score": 2,
+    "sourceId": "64d4a8916ff6ab119a7f778a",
+    "courseIds": [
+      532,
+      686,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "  I will do my best to<u style=\"font-size: 0.85rem;\"><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></u><span style=\"font-size: 0.85rem;\">your expectation.( )</span>",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 31,
+    "comments": null,
+    "options": [
+      {
+        "id": "6492a2e646e0fb00016f80bf",
+        "label": "A",
+        "description": "  live up to"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80c0",
+        "label": "B",
+        "description": "  live with"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80c1",
+        "label": "C",
+        "description": "  live through"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80c2",
+        "label": "D",
+        "description": "  live by"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5a9be5a772072b538e3",
+    "score": 2,
+    "sourceId": "64d4a8916ff6ab119a7f7789",
+    "courseIds": [
+      532,
+      686,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": " Although he had looked through all the reference material on the subject, he still found it hard to understand this point and her explanation only<u style=\"font-size: 0.85rem;\"><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></u><span style=\"font-size: 0.85rem;\">to his confusion.( )</span>",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 32,
+    "comments": null,
+    "options": [
+      {
+        "id": "6492a2e646e0fb00016f80bb",
+        "label": "A",
+        "description": "  extended"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80bc",
+        "label": "B",
+        "description": "  amounted"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80bd",
+        "label": "C",
+        "description": "  added"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80be",
+        "label": "D",
+        "description": "  turned"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5a9be5a772072b538e2",
+    "score": 2,
+    "sourceId": "64d4a8916ff6ab119a7f7788",
+    "courseIds": [
+      532,
+      686,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": " If you happen to<u style=\"font-size: 0.85rem;\"><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></u><span style=\"font-size: 0.85rem;\">my lost papers while you’re looking for your book, please let me know at once by telephone.( )</span>",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 33,
+    "comments": null,
+    "options": [
+      {
+        "id": "6492a2e646e0fb00016f80b7",
+        "label": "A",
+        "description": "  come across"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80b8",
+        "label": "B",
+        "description": "  come to"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80b9",
+        "label": "C",
+        "description": "  come up"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80ba",
+        "label": "D",
+        "description": "  come over"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5a9be5a772072b538e1",
+    "score": 2,
+    "sourceId": "64d4a8916ff6ab119a7f7787",
+    "courseIds": [
+      532,
+      686,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "The manager needs an assistant that he can&nbsp;<u style=\"font-size: 20px;\"><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></u><span style=\"font-size: 0.85rem;\">to take care of problems in his absence.( )</span>",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 34,
+    "comments": null,
+    "options": [
+      {
+        "id": "6492a2e646e0fb00016f80b3",
+        "label": "A",
+        "description": "  count on"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80b4",
+        "label": "B",
+        "description": "  count in"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80b5",
+        "label": "C",
+        "description": "  count up"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80b6",
+        "label": "D",
+        "description": "  count out"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5a9be5a772072b538e0",
+    "score": 2,
+    "sourceId": "64d4a8916ff6ab119a7f7786",
+    "courseIds": [
+      532,
+      686,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "<span style=\"text-decoration:underline;\"></span><u style=\"font-size: 20px;\"><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></u>more careful, his ship would not have sunk. ( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 35,
+    "comments": null,
+    "options": [
+      {
+        "id": "6492a2e646e0fb00016f80af",
+        "label": "A",
+        "description": "  If the captain were"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80b0",
+        "label": "B",
+        "description": "  Had the captain been"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80b1",
+        "label": "C",
+        "description": "  Should the captain be"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80b2",
+        "label": "D",
+        "description": "  If the captain would have been"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5a9be5a772072b538df",
+    "score": 2,
+    "sourceId": "64d4a8916ff6ab119a7f7785",
+    "courseIds": [
+      532,
+      686,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": " —What courses are you going to do next term?( )<br/>—I don’t know. But it’s about time&nbsp;<u style=\"font-size: 20px;\"><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></u><span style=\"font-size: 0.85rem;\">on something.</span>",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 36,
+    "comments": null,
+    "options": [
+      {
+        "id": "6492a2e646e0fb00016f80ab",
+        "label": "A",
+        "description": "  I’d decide"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80ac",
+        "label": "B",
+        "description": "  I decided"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80ad",
+        "label": "C",
+        "description": "  I decide"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80ae",
+        "label": "D",
+        "description": "  I’m deciding"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5a9be5a772072b538de",
+    "score": 2,
+    "sourceId": "64d4a8916ff6ab119a7f7784",
+    "courseIds": [
+      532,
+      686,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": " Electricity, like other forms of<u style=\"font-size: 20px;\"><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></u><span style=\"font-size: 0.85rem;\">&nbsp; </span><span style=\"font-size: 0.85rem; text-decoration-line: underline;\"></span><span style=\"font-size: 0.85rem;\">, has greatly increased in price in recent years. ( )</span>",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 37,
+    "comments": null,
+    "options": [
+      {
+        "id": "6492a2e646e0fb00016f80a7",
+        "label": "A",
+        "description": "  pressure"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80a8",
+        "label": "B",
+        "description": "  force"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80a9",
+        "label": "C",
+        "description": "  strength"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80aa",
+        "label": "D",
+        "description": "  energy"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5a9be5a772072b538dd",
+    "score": 2,
+    "sourceId": "64d4a8916ff6ab119a7f7783",
+    "courseIds": [
+      532,
+      686,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "You’ve just missed your<u style=\"font-size: 0.85rem;\"><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></u><span style=\"font-size: 0.85rem;\">, and you will have to wait for the next rounD. ( )</span>",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 38,
+    "comments": null,
+    "options": [
+      {
+        "id": "6492a2e646e0fb00016f80a3",
+        "label": "A",
+        "description": "  chance"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80a4",
+        "label": "B",
+        "description": "  turn"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80a5",
+        "label": "C",
+        "description": "  time"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80a6",
+        "label": "D",
+        "description": "  part"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5a9be5a772072b538dc",
+    "score": 2,
+    "sourceId": "64d4a8916ff6ab119a7f7782",
+    "courseIds": [
+      532,
+      686,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "  Shelly had prepared carefully for her English examination so that she could be sure of passing it on her first<u style=\"font-size: 0.85rem;\"><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></u><span style=\"font-size: 0.85rem;\">. ( )</span>",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 39,
+    "comments": null,
+    "options": [
+      {
+        "id": "6492a2e646e0fb00016f809f",
+        "label": "A",
+        "description": "  intention"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80a0",
+        "label": "B",
+        "description": "  attempt"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80a1",
+        "label": "C",
+        "description": "  purpose"
+      },
+      {
+        "id": "6492a2e646e0fb00016f80a2",
+        "label": "D",
+        "description": "  desire"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5a9be5a772072b538db",
+    "score": 2,
+    "sourceId": "64d4a8916ff6ab119a7f7781",
+    "courseIds": [
+      532,
+      686,
+      722
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": " —Hi, this way, please.( )<br/>—OK.I sometimes have no sense of&nbsp;<u style=\"font-size: 20px;\"><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 12pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></u><span style=\"font-size: 0.85rem;\">when I arrive at the crossroaD.</span>",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 40,
+    "comments": null,
+    "options": [
+      {
+        "id": "6492a2e646e0fb00016f809b",
+        "label": "A",
+        "description": "  position"
+      },
+      {
+        "id": "6492a2e646e0fb00016f809c",
+        "label": "B",
+        "description": "  direction"
+      },
+      {
+        "id": "6492a2e646e0fb00016f809d",
+        "label": "C",
+        "description": "  situation"
+      },
+      {
+        "id": "6492a2e646e0fb00016f809e",
+        "label": "D",
+        "description": "  condition"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5a9be5a772072b536f5",
+    "score": 20,
+    "sourceId": "60b73b622f1761405425f078",
+    "courseIds": [
+      532,
+      686,
+      722
+    ],
+    "typeId": 13,
+    "typeDesc": "写作题",
+    "typeAlias": "写作题",
+    "parentId": null,
+    "description": "<p class=\"MsoNormal\"><b><span style=\"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';\nmso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';mso-ansi-font-weight:bold;\nmso-bidi-font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><font face=\"Times New Roman\">Directions: You are required to write an essay on the topic </font></span></b><b><span style=\"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;\nmso-ansi-font-weight:bold;mso-bidi-font-weight:normal;font-size:12.0000pt;\nmso-font-kerning:1.0000pt;\">“</span></b><b><i><u><span style=\"font-family: 宋体; font-size: 12pt;\"><font face=\"Times New Roman\">My Favorite Teacher</font></span></u></i></b><b><span style=\"mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;\nmso-ansi-font-weight:bold;mso-bidi-font-weight:normal;font-size:12.0000pt;\nmso-font-kerning:1.0000pt;\">”</span></b><b><span style=\"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';\nmso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';mso-ansi-font-weight:bold;\nmso-bidi-font-weight:normal;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><font face=\"Times New Roman\">. You should write no less than 80 words.</font></span></b></p>",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": "",
+    "userScore": 0,
+    "sequence": 41,
+    "comments": null,
+    "options": null,
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  }
+]

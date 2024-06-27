@@ -1,0 +1,1838 @@
+[
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8691",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fba",
+    "courseIds": [
+      684,
+      700,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "2022年国务院政府工作报告指出,( )是助企纾困直接有效的办法。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 0,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e0001251820",
+        "label": "A",
+        "description": "完善服务"
+      },
+      {
+        "id": "62b04188cff47e0001251821",
+        "label": "B",
+        "description": "减税降费"
+      },
+      {
+        "id": "62b04188cff47e0001251822",
+        "label": "C",
+        "description": "财政直达"
+      },
+      {
+        "id": "62b04188cff47e0001251823",
+        "label": "D",
+        "description": "政府扶持"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8690",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fb9",
+    "courseIds": [
+      684,
+      700,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "为推进“十四五”时期我国护理事业高质量发展,提高人民群众健康水平,国家卫生健康委制定了( )。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 1,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e000125181c",
+        "label": "A",
+        "description": "《全国护理事业发展规划(2021-2025年)》"
+      },
+      {
+        "id": "62b04188cff47e000125181d",
+        "label": "B",
+        "description": "《全国医护事业发展规划(2021-2025年)》"
+      },
+      {
+        "id": "62b04188cff47e000125181e",
+        "label": "C",
+        "description": "《全国护理事业发展规划(2022-2026年)》"
+      },
+      {
+        "id": "62b04188cff47e000125181f",
+        "label": "D",
+        "description": "《全国护理人才发展规划(2021-2025年)》"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed868f",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fb8",
+    "courseIds": [
+      684,
+      700,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "2022年5月10日1时56分,搭载天舟四号货运飞船的长征七号遥五运载火箭,在我国( )航天发射场点火发射,发射取得圆满成功。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 2,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e0001251818",
+        "label": "A",
+        "description": "西昌"
+      },
+      {
+        "id": "62b04188cff47e0001251819",
+        "label": "B",
+        "description": "许昌"
+      },
+      {
+        "id": "62b04188cff47e000125181a",
+        "label": "C",
+        "description": "太原"
+      },
+      {
+        "id": "62b04188cff47e000125181b",
+        "label": "D",
+        "description": "文昌"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed868e",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fb7",
+    "courseIds": [
+      684,
+      700,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "2022年5月31日,世界首座公路和高速铁路平层布置的桥梁——( )长江大桥顺利合龙。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 3,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e0001251814",
+        "label": "A",
+        "description": "四川宜宾临港"
+      },
+      {
+        "id": "62b04188cff47e0001251815",
+        "label": "B",
+        "description": "重庆宜宾临港"
+      },
+      {
+        "id": "62b04188cff47e0001251816",
+        "label": "C",
+        "description": "四川成都"
+      },
+      {
+        "id": "62b04188cff47e0001251817",
+        "label": "D",
+        "description": "湖北宜昌"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed868d",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fb6",
+    "courseIds": [
+      684,
+      700,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "( )导致一些地区洪涝、干旱、寒潮等极端气候事件频繁发生,而且强度增大。<br/>选项:",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 4,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e0001251810",
+        "label": "A",
+        "description": "酸雨蔓延"
+      },
+      {
+        "id": "62b04188cff47e0001251811",
+        "label": "B",
+        "description": "森林锐减"
+      },
+      {
+        "id": "62b04188cff47e0001251812",
+        "label": "C",
+        "description": " 全球变暖"
+      },
+      {
+        "id": "62b04188cff47e0001251813",
+        "label": "D",
+        "description": "大气污染"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed868c",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fb5",
+    "courseIds": [
+      684,
+      700,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "《“十四五”可再生能源发展规划》发布,规划提出,“十四五”期间,可再生能源占能源消费增量比重将( )。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 5,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e000125180c",
+        "label": "A",
+        "description": "超40%"
+      },
+      {
+        "id": "62b04188cff47e000125180d",
+        "label": "B",
+        "description": "超60%"
+      },
+      {
+        "id": "62b04188cff47e000125180e",
+        "label": "C",
+        "description": "超50%"
+      },
+      {
+        "id": "62b04188cff47e000125180f",
+        "label": "D",
+        "description": "超35%"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed868b",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fb4",
+    "courseIds": [
+      684,
+      700,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "党中央强调,中华优秀传统文化是中华民族的( ),是我们在世界文化激荡中站稳脚跟的根基,必须结合新的时代条件传承和弘扬好。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 6,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e0001251808",
+        "label": "A",
+        "description": "根本优势   "
+      },
+      {
+        "id": "62b04188cff47e0001251809",
+        "label": "B",
+        "description": "显著优势"
+      },
+      {
+        "id": "62b04188cff47e000125180a",
+        "label": "C",
+        "description": "独特优势"
+      },
+      {
+        "id": "62b04188cff47e000125180b",
+        "label": "D",
+        "description": "突出优势"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed868a",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fb3",
+    "courseIds": [
+      684,
+      700,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "党的十八大以来,我国社会建设全面加强,人民生活全方位改善,社会治理社会化、法治化、( )、专业化水平大幅度提升,发展了人民安居乐业、社会安定有序的良好局面,续写了社会长期稳定奇迹。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 7,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e0001251804",
+        "label": "A",
+        "description": "智慧化"
+      },
+      {
+        "id": "62b04188cff47e0001251805",
+        "label": "B",
+        "description": "智能化"
+      },
+      {
+        "id": "62b04188cff47e0001251806",
+        "label": "C",
+        "description": "信息化"
+      },
+      {
+        "id": "62b04188cff47e0001251807",
+        "label": "D",
+        "description": "数字化<br/> "
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8689",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fb2",
+    "courseIds": [
+      684,
+      700,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "根据《中共中央国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见》,到2030年,我国森林覆盖率达到( )。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 8,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e0001251800",
+        "label": "A",
+        "description": "25%"
+      },
+      {
+        "id": "62b04188cff47e0001251801",
+        "label": "B",
+        "description": "24%"
+      },
+      {
+        "id": "62b04188cff47e0001251802",
+        "label": "C",
+        "description": "30%     "
+      },
+      {
+        "id": "62b04188cff47e0001251803",
+        "label": "D",
+        "description": "50%"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8688",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fb1",
+    "courseIds": [
+      684,
+      700,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "我们坚持和加强党的全面领导,统筹推进( )、协调推进( ),坚持和完善中国特色社会主义制度、推进国家治理体系和治理能力现代化。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 9,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e00012517fc",
+        "label": "A",
+        "description": "“五位一体”总体布局,“四个全面”战略布局"
+      },
+      {
+        "id": "62b04188cff47e00012517fd",
+        "label": "B",
+        "description": "“十四个坚持”总体布局,“八个明确”战略布局"
+      },
+      {
+        "id": "62b04188cff47e00012517fe",
+        "label": "C",
+        "description": "“八个明确”总体布局,“十四个坚持”战略布局"
+      },
+      {
+        "id": "62b04188cff47e00012517ff",
+        "label": "D",
+        "description": "“四个全面”总体布局,“五位一体”战略布局"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8687",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fb0",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "5G网络是( )移动通信网络。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 10,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e00012517f8",
+        "label": "A",
+        "description": "第四代&nbsp;"
+      },
+      {
+        "id": "62b04188cff47e00012517f9",
+        "label": "B",
+        "description": "第六代&nbsp;"
+      },
+      {
+        "id": "62b04188cff47e00012517fa",
+        "label": "C",
+        "description": "第五代&nbsp;"
+      },
+      {
+        "id": "62b04188cff47e00012517fb",
+        "label": "D",
+        "description": "第三代"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8686",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9faf",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "中国经济发展的主义趋势是( )。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 11,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e00012517f4",
+        "label": "A",
+        "description": "高出口发展"
+      },
+      {
+        "id": "62b04188cff47e00012517f5",
+        "label": "B",
+        "description": "高进口发展"
+      },
+      {
+        "id": "62b04188cff47e00012517f6",
+        "label": "C",
+        "description": "高质量发展"
+      },
+      {
+        "id": "62b04188cff47e00012517f7",
+        "label": "D",
+        "description": "高产量发展"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8685",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fae",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "( )正式确立了社会主义市场经济的改革方向和基本内容。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 12,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e00012517f0",
+        "label": "A",
+        "description": "中共十二大"
+      },
+      {
+        "id": "62b04188cff47e00012517f1",
+        "label": "B",
+        "description": "中共十三大"
+      },
+      {
+        "id": "62b04188cff47e00012517f2",
+        "label": "C",
+        "description": "中共十四大"
+      },
+      {
+        "id": "62b04188cff47e00012517f3",
+        "label": "D",
+        "description": "中共十五大"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8684",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fad",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "20世纪70年代末,安徽( )县首先进行“分田到户”。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 13,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e00012517ec",
+        "label": "A",
+        "description": "合肥"
+      },
+      {
+        "id": "62b04188cff47e00012517ed",
+        "label": "B",
+        "description": "凤阳"
+      },
+      {
+        "id": "62b04188cff47e00012517ee",
+        "label": "C",
+        "description": "安庆"
+      },
+      {
+        "id": "62b04188cff47e00012517ef",
+        "label": "D",
+        "description": "亳州"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8683",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fac",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "党政军民学,东西南北中,( )是领导一切的。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 14,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e00012517e8",
+        "label": "A",
+        "description": "民"
+      },
+      {
+        "id": "62b04188cff47e00012517e9",
+        "label": "B",
+        "description": "军"
+      },
+      {
+        "id": "62b04188cff47e00012517ea",
+        "label": "C",
+        "description": "党"
+      },
+      {
+        "id": "62b04188cff47e00012517eb",
+        "label": "D",
+        "description": "法"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8682",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fab",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "要坚持基本经济制度,立足社会主义初级阶段,坚持“两个毫不动摇”,坚持公有制为主体、多种所有制经济共同发展,允许一部分人先富起来,先富带后富、帮后富,重点鼓励( )的致富带头人。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 15,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e00012517e4",
+        "label": "A",
+        "description": "辛勤劳动、合法经营、敢于创业、敢于吃苦"
+      },
+      {
+        "id": "62b04188cff47e00012517e5",
+        "label": "B",
+        "description": "积极劳动、合法经营、吃苦耐劳、全面发展"
+      },
+      {
+        "id": "62b04188cff47e00012517e6",
+        "label": "C",
+        "description": "积极劳动、合法经营、积极纳税、综合发展"
+      },
+      {
+        "id": "62b04188cff47e00012517e7",
+        "label": "D",
+        "description": "辛勤劳动、合法经营、敢于创业"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8681",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9faa",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "要鼓励勤劳创新致富,坚持在( )中保障和改善民生,为人民提高受教育程度、增强发展能力创造更加普惠公平的条件,畅通向上流动通道,给更多人创造致富机会,形成人人参与的发展环境。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 16,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e00012517e0",
+        "label": "A",
+        "description": "改革"
+      },
+      {
+        "id": "62b04188cff47e00012517e1",
+        "label": "B",
+        "description": "发展"
+      },
+      {
+        "id": "62b04188cff47e00012517e2",
+        "label": "C",
+        "description": "共同富裕"
+      },
+      {
+        "id": "62b04188cff47e00012517e3",
+        "label": "D",
+        "description": "创新"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed8680",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fa9",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "党的十八大以来,党中央把( )摆在更加重要的位置上,采取有力措施保障和改善民生,打赢脱贫攻坚战,全面建成小康社会,为促进共同富裕创造了良好条件。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 17,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e00012517dc",
+        "label": "A",
+        "description": "在高质量发展中促进共同富裕"
+      },
+      {
+        "id": "62b04188cff47e00012517dd",
+        "label": "B",
+        "description": "逐步实现全体人民共同富裕"
+      },
+      {
+        "id": "62b04188cff47e00012517de",
+        "label": "C",
+        "description": "促进全体人民共同富裕"
+      },
+      {
+        "id": "62b04188cff47e00012517df",
+        "label": "D",
+        "description": "推动解放和发展社会生产力"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed867f",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fa8",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "( )是现代经济的核心,关系发展和安全,要遵循市场法治化原则,统筹做好重大金融风险防范化解工作。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 18,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e00012517d8",
+        "label": "A",
+        "description": "发展"
+      },
+      {
+        "id": "62b04188cff47e00012517d9",
+        "label": "B",
+        "description": "资金"
+      },
+      {
+        "id": "62b04188cff47e00012517da",
+        "label": "C",
+        "description": "金融"
+      },
+      {
+        "id": "62b04188cff47e00012517db",
+        "label": "D",
+        "description": "共同富裕"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed867e",
+    "score": 2,
+    "sourceId": "62b123782f17615d108b9fa7",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "习近平同志主持召开中央财经委员会第十次会议发表重要讲话强调,( )是社会主义的本质要求,是中国式现代化的重要特征。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 19,
+    "comments": null,
+    "options": [
+      {
+        "id": "62b04188cff47e00012517d4",
+        "label": "A",
+        "description": "共同富裕"
+      },
+      {
+        "id": "62b04188cff47e00012517d5",
+        "label": "B",
+        "description": "做好金融稳定发展工作问题"
+      },
+      {
+        "id": "62b04188cff47e00012517d6",
+        "label": "C",
+        "description": "促进全体人民共同富裕"
+      },
+      {
+        "id": "62b04188cff47e00012517d7",
+        "label": "D",
+        "description": "防范化解重大金融风险"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544de",
+    "score": 2,
+    "sourceId": "64dc8035cff47e0001cca718",
+    "courseIds": [
+      684
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "( )是社会主义核心价值观的最大公约数。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 20,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c9484",
+        "label": "A",
+        "description": "诚信&nbsp;"
+      },
+      {
+        "id": "64dc8075cff47e00018c9485",
+        "label": "B",
+        "description": "爱国&nbsp;"
+      },
+      {
+        "id": "64dc8075cff47e00018c9486",
+        "label": "C",
+        "description": "富强"
+      },
+      {
+        "id": "64dc8075cff47e00018c9487",
+        "label": "D",
+        "description": "敬业"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544dd",
+    "score": 2,
+    "sourceId": "64dc8035cff47e0001cca717",
+    "courseIds": [
+      684
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "科技创新人才培养和人力资源开发的最重要的基础就是( )。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 21,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c9480",
+        "label": "A",
+        "description": "经济"
+      },
+      {
+        "id": "64dc8075cff47e00018c9481",
+        "label": "B",
+        "description": "创新"
+      },
+      {
+        "id": "64dc8075cff47e00018c9482",
+        "label": "C",
+        "description": "教育"
+      },
+      {
+        "id": "64dc8075cff47e00018c9483",
+        "label": "D",
+        "description": "知识"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544dc",
+    "score": 2,
+    "sourceId": "64dc8035cff47e0001cca716",
+    "courseIds": [
+      684
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "强化责任落实,把防止返贫摆到更加重要的位置,为( )年全面打赢脱贫攻坚战奠定坚实基础。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 22,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c947c",
+        "label": "A",
+        "description": " 2020"
+      },
+      {
+        "id": "64dc8075cff47e00018c947d",
+        "label": "B",
+        "description": "2021"
+      },
+      {
+        "id": "64dc8075cff47e00018c947e",
+        "label": "C",
+        "description": "2022"
+      },
+      {
+        "id": "64dc8075cff47e00018c947f",
+        "label": "D",
+        "description": "2023"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544db",
+    "score": 2,
+    "sourceId": "64dc8035cff47e0001cca715",
+    "courseIds": [
+      684
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "消除贫困、改善民生、逐步实现共同富裕,是社会主义的( )。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 23,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c9478",
+        "label": "A",
+        "description": "本质要求"
+      },
+      {
+        "id": "64dc8075cff47e00018c9479",
+        "label": "B",
+        "description": "建设前提"
+      },
+      {
+        "id": "64dc8075cff47e00018c947a",
+        "label": "C",
+        "description": "基础要求"
+      },
+      {
+        "id": "64dc8075cff47e00018c947b",
+        "label": "D",
+        "description": "最终目标"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544da",
+    "score": 2,
+    "sourceId": "64dc8035cff47e0001cca714",
+    "courseIds": [
+      684
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "增强自主创新能力,需要构建( )、产、学、研、用一体化的中国特色创新体系。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 24,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c9474",
+        "label": "A",
+        "description": "经"
+      },
+      {
+        "id": "64dc8075cff47e00018c9475",
+        "label": "B",
+        "description": "监"
+      },
+      {
+        "id": "64dc8075cff47e00018c9476",
+        "label": "C",
+        "description": "教"
+      },
+      {
+        "id": "64dc8075cff47e00018c9477",
+        "label": "D",
+        "description": "政"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544d9",
+    "score": 2,
+    "sourceId": "64dc8035cff47e0001cca713",
+    "courseIds": [
+      684
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "计算机工业革命是近代以来人类社会经历的第( )次科技革命。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 25,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c9470",
+        "label": "A",
+        "description": "一"
+      },
+      {
+        "id": "64dc8075cff47e00018c9471",
+        "label": "B",
+        "description": "二"
+      },
+      {
+        "id": "64dc8075cff47e00018c9472",
+        "label": "C",
+        "description": "三"
+      },
+      {
+        "id": "64dc8075cff47e00018c9473",
+        "label": "D",
+        "description": "四"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544d8",
+    "score": 2,
+    "sourceId": "64dc8035cff47e0001cca712",
+    "courseIds": [
+      684
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "全国纪检监察机关运用监督执纪( )种形态从严治党。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 26,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c946c",
+        "label": "A",
+        "description": "二"
+      },
+      {
+        "id": "64dc8075cff47e00018c946d",
+        "label": "B",
+        "description": "三"
+      },
+      {
+        "id": "64dc8075cff47e00018c946e",
+        "label": "C",
+        "description": "四"
+      },
+      {
+        "id": "64dc8075cff47e00018c946f",
+        "label": "D",
+        "description": "五"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544d7",
+    "score": 2,
+    "sourceId": "64dc8035cff47e0001cca711",
+    "courseIds": [
+      684
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "做好做实监察工作,需要创新纪检监察体制机制,加强( )制度。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 27,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c9468",
+        "label": "A",
+        "description": "巡视"
+      },
+      {
+        "id": "64dc8075cff47e00018c9469",
+        "label": "B",
+        "description": "反馈"
+      },
+      {
+        "id": "64dc8075cff47e00018c946a",
+        "label": "C",
+        "description": "调查"
+      },
+      {
+        "id": "64dc8075cff47e00018c946b",
+        "label": "D",
+        "description": "沟通"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544d6",
+    "score": 2,
+    "sourceId": "64dc8035cff47e0001cca710",
+    "courseIds": [
+      684
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "以下哪项不属于党的基层组织?( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 28,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c9464",
+        "label": "A",
+        "description": "街道社区"
+      },
+      {
+        "id": "64dc8075cff47e00018c9465",
+        "label": "B",
+        "description": "学校"
+      },
+      {
+        "id": "64dc8075cff47e00018c9466",
+        "label": "C",
+        "description": "农村"
+      },
+      {
+        "id": "64dc8075cff47e00018c9467",
+        "label": "D",
+        "description": "党组"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544d5",
+    "score": 2,
+    "sourceId": "64dc8035cff47e0001cca70f",
+    "courseIds": [
+      684
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "对党员干部的培养,要建立以德为先、任人唯贤、人事相宜的选拔任用体系,坚持好干部标准,把( )标准放在第一位。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 29,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c9460",
+        "label": "A",
+        "description": "政治"
+      },
+      {
+        "id": "64dc8075cff47e00018c9461",
+        "label": "B",
+        "description": "道德"
+      },
+      {
+        "id": "64dc8075cff47e00018c9462",
+        "label": "C",
+        "description": "知识"
+      },
+      {
+        "id": "64dc8075cff47e00018c9463",
+        "label": "D",
+        "description": "能力"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed85ea",
+    "score": 3,
+    "sourceId": "6167f551a881b549703cf897",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "学习贯彻党的十八届六中全会精神中央宣讲团动员会11月2日在京召开,习近平指示强调,由党中央组织开展集中宣讲,是推动我们党的理论和路线方针政策深入基层、深入群众、深入人心的重要工作方法,要坚持把这个方法用好。学习宣传贯彻六中全会精神,要突出全面从严治党这个主题,联系实际学深悟透,把握精髓要义,讲究宣讲艺术,回应广大党员、干部、群众关切,把新形势下加强和规范党内政治生活、加强党内监督的必要性和重要性讲清楚,把全会提出的重大理论观点和重大举措讲清楚,把全会对全党特别是领导干部提出的要求讲清楚。一言以蔽之,就是要把()讲清楚。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 30,
+    "comments": null,
+    "options": [
+      {
+        "id": "6108ad7ac9e77c0001442232",
+        "label": "A",
+        "description": " 怎么看   "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442233",
+        "label": "B",
+        "description": " 怎么学  "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442234",
+        "label": "C",
+        "description": "  怎么做    "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442235",
+        "label": "D",
+        "description": " 怎么想 "
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed85e9",
+    "score": 3,
+    "sourceId": "6167f551a881b549703cf896",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "11月1日7时,三峡水库水位达到175.0米、蓄水量393亿立方米,标志着2016年三峡水库试验性蓄水任务顺利完成,这也是三峡水库自2010年以来连续7年圆满实现175米试验性蓄水目标,为三峡工程全面发挥()等综合效益奠定了坚实基础。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 31,
+    "comments": null,
+    "options": [
+      {
+        "id": "6108ad7ac9e77c000144222d",
+        "label": "A",
+        "description": " 防洪    "
+      },
+      {
+        "id": "6108ad7ac9e77c000144222e",
+        "label": "B",
+        "description": " 供水  "
+      },
+      {
+        "id": "6108ad7ac9e77c000144222f",
+        "label": "C",
+        "description": "  发电    "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442230",
+        "label": "D",
+        "description": " 航运"
+      },
+      {
+        "id": "6108ad7ac9e77c0001442231",
+        "label": "E",
+        "description": " 生态"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed85e8",
+    "score": 3,
+    "sourceId": "6167f551a881b549703cf895",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "习近平9月3日出席2016年二十国集团工商峰会开幕式,并发表题为《中国发展新起点 全球增长新蓝图》的主旨演讲,强调中方希望同各方一道,建设()型世界经济,推动世界经济走上强劲、可持续、平衡、包容增长之路。 ",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 32,
+    "comments": null,
+    "options": [
+      {
+        "id": "6108ad7ac9e77c0001442229",
+        "label": "A",
+        "description": " 创新      "
+      },
+      {
+        "id": "6108ad7ac9e77c000144222a",
+        "label": "B",
+        "description": " 开放     "
+      },
+      {
+        "id": "6108ad7ac9e77c000144222b",
+        "label": "C",
+        "description": " 联动    "
+      },
+      {
+        "id": "6108ad7ac9e77c000144222c",
+        "label": "D",
+        "description": " 包容"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed85e7",
+    "score": 3,
+    "sourceId": "6167f551a881b549703cf894",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "北京时间10月4日17时45分,科学院常务秘书戈兰·汉森宣布:“将2016年诺贝尔物理学奖授予()以表彰他们发现了拓扑相变的理论。 ",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 33,
+    "comments": null,
+    "options": [
+      {
+        "id": "6108ad7ac9e77c0001442225",
+        "label": "A",
+        "description": " 戴维 ·索利斯      "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442226",
+        "label": "B",
+        "description": " 伯来·戴恩尔   "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442227",
+        "label": "C",
+        "description": " 邓肯 ·霍尔丹 "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442228",
+        "label": "D",
+        "description": " 米歇尔·克里特里兹"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed85e6",
+    "score": 3,
+    "sourceId": "6167f551a881b549703cf893",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "《关于完善农村土地所有权承包权经营权分置办法的意见》印发,实行()分置并行,着力推进农业现代化,是继家庭联产承包责任制后农村改革又一重大制度创新,有利于明晰土地产权关系,更好地维护农民集体、承包农户、经营主体的权益;有利于促进土地资源合理利用,构建新型农业经营体系,发展多种形式适度规模经营,提高土地产出率、劳动生产率和资源利用率,推动现代农业发展。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 34,
+    "comments": null,
+    "options": [
+      {
+        "id": "6108ad7ac9e77c0001442221",
+        "label": "A",
+        "description": " 财产权      "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442222",
+        "label": "B",
+        "description": " 所有权    "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442223",
+        "label": "C",
+        "description": " 承包权    "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442224",
+        "label": "D",
+        "description": " 经营权"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed85e5",
+    "score": 3,
+    "sourceId": "6167f551a881b549703cf892",
+    "courseIds": [
+      684,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "国家发改委日前批复同意长三角地区创建国家社会信用体系建设区域合作示范区,这是全国首个社会信用体系建设区域合作示范创建区。根据创建方案,()将坚持信息共享、监管共为、市场共育、规制共建、品牌共铸原则,深入推进“信用长三角”建设。 ",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 35,
+    "comments": null,
+    "options": [
+      {
+        "id": "6108ad7ac9e77c000144221c",
+        "label": "A",
+        "description": " 皖      "
+      },
+      {
+        "id": "6108ad7ac9e77c000144221d",
+        "label": "B",
+        "description": " 沪      "
+      },
+      {
+        "id": "6108ad7ac9e77c000144221e",
+        "label": "C",
+        "description": " 苏     "
+      },
+      {
+        "id": "6108ad7ac9e77c000144221f",
+        "label": "D",
+        "description": " 浙"
+      },
+      {
+        "id": "6108ad7ac9e77c0001442220",
+        "label": "E",
+        "description": " 闽"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "630f1f241b5b6f0ed8ed85e4",
+    "score": 3,
+    "sourceId": "6167f551a881b549703cf891",
+    "courseIds": [
+      684,
+      700,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "上海至2040年将建成卓越的全球城市,国际()中心和文化大都市。”近日召开的上海市第十届委员会第十三次全体会议审议了《上海市城市总体规划(2016—2040)(送审稿)》。这是上海首次明确上海“国际文化大都市”定位。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 36,
+    "comments": null,
+    "options": [
+      {
+        "id": "6108ad7ac9e77c0001442217",
+        "label": "A",
+        "description": " 经济   "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442218",
+        "label": "B",
+        "description": " 金融   "
+      },
+      {
+        "id": "6108ad7ac9e77c0001442219",
+        "label": "C",
+        "description": " 贸易   "
+      },
+      {
+        "id": "6108ad7ac9e77c000144221a",
+        "label": "D",
+        "description": " 航运"
+      },
+      {
+        "id": "6108ad7ac9e77c000144221b",
+        "label": "E",
+        "description": " 科技创新"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544f2",
+    "score": 3,
+    "sourceId": "64dc8035cff47e0001cca72c",
+    "courseIds": [
+      684
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "《中国共产党支部工作条例(试行)》制定实施的重大意义有( )。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 37,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c94d7",
+        "label": "A",
+        "description": "这是党的第一部关于党支部工作的基础主干法规"
+      },
+      {
+        "id": "64dc8075cff47e00018c94d8",
+        "label": "B",
+        "description": "助推了党支部组织力的提升、政治功能的发挥"
+      },
+      {
+        "id": "64dc8075cff47e00018c94d9",
+        "label": "C",
+        "description": "进一步加强党支部工作标准化、规范化建设"
+      },
+      {
+        "id": "64dc8075cff47e00018c94da",
+        "label": "D",
+        "description": "有力促进各级领导抓党的基层组织建设"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544f1",
+    "score": 3,
+    "sourceId": "64dc8035cff47e0001cca72b",
+    "courseIds": [
+      684
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "每个党员特别是领导干部都要强化党的意识和组织观念,自觉做到( )。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 38,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c94d3",
+        "label": "A",
+        "description": "思想上认同组织"
+      },
+      {
+        "id": "64dc8075cff47e00018c94d4",
+        "label": "B",
+        "description": "政治上依靠组织"
+      },
+      {
+        "id": "64dc8075cff47e00018c94d5",
+        "label": "C",
+        "description": "工作上服从组织"
+      },
+      {
+        "id": "64dc8075cff47e00018c94d6",
+        "label": "D",
+        "description": "感情上信赖组织"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b544f0",
+    "score": 3,
+    "sourceId": "64dc8035cff47e0001cca72a",
+    "courseIds": [
+      684
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "“不忘初心、牢记使命”主题教育的总要求有( )。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 39,
+    "comments": null,
+    "options": [
+      {
+        "id": "64dc8075cff47e00018c94cf",
+        "label": "A",
+        "description": "守初心"
+      },
+      {
+        "id": "64dc8075cff47e00018c94d0",
+        "label": "B",
+        "description": "担使命"
+      },
+      {
+        "id": "64dc8075cff47e00018c94d1",
+        "label": "C",
+        "description": "找差距"
+      },
+      {
+        "id": "64dc8075cff47e00018c94d2",
+        "label": "D",
+        "description": "抓落实"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64f6e5ccbe5a772072b54517",
+    "score": 10,
+    "sourceId": "64dc8035cff47e0001cca751",
+    "courseIds": [
+      684
+    ],
+    "typeId": 3,
+    "typeDesc": "问答题",
+    "typeAlias": "问答题",
+    "parentId": null,
+    "description": "什么是形势与政策?进行形势与政策教育的目的和任务?什么是形势?形势是指事物变化、发展的状态和趋势。什么是社会形势?",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 40,
+    "comments": null,
+    "options": null,
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  }
+]

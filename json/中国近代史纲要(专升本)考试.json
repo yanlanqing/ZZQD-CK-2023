@@ -1,0 +1,1830 @@
+[
+  {
+    "questionId": "63eb46ccbe5a772fcf58563c",
+    "score": 2,
+    "sourceId": "616d3e3b86725639294344e2",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": " 近代中国第一个领导资产阶级革命的全国性政党同盟会于( )年成立。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 0,
+    "comments": null,
+    "options": [
+      {
+        "id": "60f9197452faff0001dc349b",
+        "label": "A",
+        "description": " 1895"
+      },
+      {
+        "id": "60f9197452faff0001dc349c",
+        "label": "B",
+        "description": " 1898"
+      },
+      {
+        "id": "60f9197452faff0001dc349d",
+        "label": "C",
+        "description": " 1904"
+      },
+      {
+        "id": "60f9197452faff0001dc349e",
+        "label": "D",
+        "description": " 1905"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585631",
+    "score": 2,
+    "sourceId": "612c49e68672567a00317cd8",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "新民主主义政治、经济、文化都是由工人阶级领导的,因而都具有( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 1,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b038c",
+        "label": "A",
+        "description": " 民族主义因素"
+      },
+      {
+        "id": "609e286d46e0fb00019b038d",
+        "label": "B",
+        "description": " 资本主义因素"
+      },
+      {
+        "id": "609e286d46e0fb00019b038e",
+        "label": "C",
+        "description": " 社会主义因素"
+      },
+      {
+        "id": "609e286d46e0fb00019b038f",
+        "label": "D",
+        "description": " 民主主义因素"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585630",
+    "score": 2,
+    "sourceId": "612c49e68672567a00317cd7",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "中华人民共和国是工人阶级领导的、以工农联盟为基础的( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 2,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0388",
+        "label": "A",
+        "description": " 共和制国家"
+      },
+      {
+        "id": "609e286d46e0fb00019b0389",
+        "label": "B",
+        "description": " 民族国家"
+      },
+      {
+        "id": "609e286d46e0fb00019b038a",
+        "label": "C",
+        "description": " 人民民主专政的国家"
+      },
+      {
+        "id": "609e286d46e0fb00019b038b",
+        "label": "D",
+        "description": " 民主国家"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf58562f",
+    "score": 2,
+    "sourceId": "612c49e68672567a00317cd6",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "新中国的国体是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 3,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0384",
+        "label": "A",
+        "description": " 工人阶级领导"
+      },
+      {
+        "id": "609e286d46e0fb00019b0385",
+        "label": "B",
+        "description": " 无产阶级专政"
+      },
+      {
+        "id": "609e286d46e0fb00019b0386",
+        "label": "C",
+        "description": " 工农联盟"
+      },
+      {
+        "id": "609e286d46e0fb00019b0387",
+        "label": "D",
+        "description": " 人民民主专政"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf58562e",
+    "score": 2,
+    "sourceId": "612c49e68672567a00317cd5",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "世界上首先进行反法西斯战争的国家是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 4,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0364",
+        "label": "A",
+        "description": " 美国"
+      },
+      {
+        "id": "609e286d46e0fb00019b0365",
+        "label": "B",
+        "description": " 苏联"
+      },
+      {
+        "id": "609e286d46e0fb00019b0366",
+        "label": "C",
+        "description": " 法国"
+      },
+      {
+        "id": "609e286d46e0fb00019b0367",
+        "label": "D",
+        "description": " 中国"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf58562d",
+    "score": 2,
+    "sourceId": "612c49e68672567a00317cd4",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "习近平总书记所说的“深刻改变近代以后中华民族发展的方向和进程,深刻改变了中国人民和中华民族的前途和命运”的重大历史事件是指( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 5,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0360",
+        "label": "A",
+        "description": " 辛亥革命"
+      },
+      {
+        "id": "609e286d46e0fb00019b0361",
+        "label": "B",
+        "description": " 中国共产党的成立"
+      },
+      {
+        "id": "609e286d46e0fb00019b0362",
+        "label": "C",
+        "description": " 改革开放"
+      },
+      {
+        "id": "609e286d46e0fb00019b0363",
+        "label": "D",
+        "description": " 社会主义改造的完成"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf58562c",
+    "score": 2,
+    "sourceId": "612c49e68672567a00317cd3",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "1840年以来至今170多年中国近现代史的主题是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 6,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b035c",
+        "label": "A",
+        "description": " 国家独立"
+      },
+      {
+        "id": "609e286d46e0fb00019b035d",
+        "label": "B",
+        "description": " 现代化"
+      },
+      {
+        "id": "609e286d46e0fb00019b035e",
+        "label": "C",
+        "description": " 实现中华民族伟大复兴"
+      },
+      {
+        "id": "609e286d46e0fb00019b035f",
+        "label": "D",
+        "description": " 革命"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf58562b",
+    "score": 2,
+    "sourceId": "612c49e68672567a00317cd2",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "中国新民主主义革命必须实现的首要任务是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 7,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0354",
+        "label": "A",
+        "description": "反对官僚资本主义"
+      },
+      {
+        "id": "609e286d46e0fb00019b0355",
+        "label": "B",
+        "description": "打倒军阀"
+      },
+      {
+        "id": "609e286d46e0fb00019b0356",
+        "label": "C",
+        "description": "反对帝国主义"
+      },
+      {
+        "id": "609e286d46e0fb00019b0357",
+        "label": "D",
+        "description": "反对封建主义"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf58562a",
+    "score": 2,
+    "sourceId": "612c49e68672567a00317cd1",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "在全面建设社会主义时期,我们取得的最大建设成就是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 8,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b032c",
+        "label": "A",
+        "description": " 社会主义制度得到根本性巩固"
+      },
+      {
+        "id": "609e286d46e0fb00019b032d",
+        "label": "B",
+        "description": " 基本上解决了老百姓的吃饭问题"
+      },
+      {
+        "id": "609e286d46e0fb00019b032e",
+        "label": "C",
+        "description": " 人民的文化素质和健康水平得到极大提升"
+      },
+      {
+        "id": "609e286d46e0fb00019b032f",
+        "label": "D",
+        "description": " 基本建立起独立的、比较完整的工业体系和国民经济体系"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585629",
+    "score": 2,
+    "sourceId": "612c49e68672567a00317cd0",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "实现“四个现代化”,是党和国家在上世纪提出的宏伟目标。正式向全国人民提出这一目标的会议是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 9,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0328",
+        "label": "A",
+        "description": " 三届人大一次会议"
+      },
+      {
+        "id": "609e286d46e0fb00019b0329",
+        "label": "B",
+        "description": " 四届人大一次会议"
+      },
+      {
+        "id": "609e286d46e0fb00019b032a",
+        "label": "C",
+        "description": " 二届人大一次会议"
+      },
+      {
+        "id": "609e286d46e0fb00019b032b",
+        "label": "D",
+        "description": " 一届人大一次会议"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585628",
+    "score": 2,
+    "sourceId": "612c49e68672567a00317ccf",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "在对资本主义工商业实行改造中,当个别企业公私合营后,企业的利润实行( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 10,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0324",
+        "label": "A",
+        "description": " 四马分肥"
+      },
+      {
+        "id": "609e286d46e0fb00019b0325",
+        "label": "B",
+        "description": " 用于工人的工资"
+      },
+      {
+        "id": "609e286d46e0fb00019b0326",
+        "label": "C",
+        "description": " 归企业所有"
+      },
+      {
+        "id": "609e286d46e0fb00019b0327",
+        "label": "D",
+        "description": " 归国家所有"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585627",
+    "score": 2,
+    "sourceId": "612c49e68672567a00317cce",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "我国对农业社会主义改造采取的第一步骤是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 11,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0320",
+        "label": "A",
+        "description": " 高级合作社"
+      },
+      {
+        "id": "609e286d46e0fb00019b0321",
+        "label": "B",
+        "description": " 互助组"
+      },
+      {
+        "id": "609e286d46e0fb00019b0322",
+        "label": "C",
+        "description": " 人民公社"
+      },
+      {
+        "id": "609e286d46e0fb00019b0323",
+        "label": "D",
+        "description": " 初级合作社"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf5855ff",
+    "score": 2,
+    "sourceId": "60b4814e8672567ec32b69ff",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "将中国领土割让给日本的不平等条约是(  )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 12,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fd32b5fc9e77c00018f95d2",
+        "label": "A",
+        "description": "《南京条约》"
+      },
+      {
+        "id": "5fd32b5fc9e77c00018f95d3",
+        "label": "B",
+        "description": "《北京条约》"
+      },
+      {
+        "id": "5fd32b5fc9e77c00018f95d4",
+        "label": "C",
+        "description": "《马关条约》"
+      },
+      {
+        "id": "5fd32b5fc9e77c00018f95d5",
+        "label": "D",
+        "description": "《瑗珲条约》"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf5855ee",
+    "score": 2,
+    "sourceId": "60b47fdda881b54e22878245",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "全国抗日战争开始的事件是(  )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 13,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fd32b3bc9e77c00017c877d",
+        "label": "A",
+        "description": "“九·一八”事变"
+      },
+      {
+        "id": "5fd32b3bc9e77c00017c877e",
+        "label": "B",
+        "description": "“一·二八”事变"
+      },
+      {
+        "id": "5fd32b3bc9e77c00017c877f",
+        "label": "C",
+        "description": "“七·七”事变"
+      },
+      {
+        "id": "5fd32b3bc9e77c00017c8780",
+        "label": "D",
+        "description": "“八·一三”事变"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e55",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "1949年3月23日上午,中共中央离开西柏坡向北平进发。临行前,毛泽东把进北平比作进京赶考,说我们决不当李自成,我们都希望考个好成绩。3月25日,毛泽东等中共中央领导人与中央机关、人民解放军总部进驻北平香山,标志着(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 14,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25eb7",
+        "label": "A",
+        "description": "旧民主主义革命向新民主主义革命转变的标志"
+      },
+      {
+        "id": "64a1306c52faff0001f25eb8",
+        "label": "B",
+        "description": "新民主主义社会开始向社会主义社会过渡"
+      },
+      {
+        "id": "64a1306c52faff0001f25eb9",
+        "label": "C",
+        "description": "中国革命重心从农村转向城市"
+      },
+      {
+        "id": "64a1306c52faff0001f25eba",
+        "label": "D",
+        "description": "民族民主革命任务的完成"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e54",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "中国的民主党派,多数成立于抗日战争和解放战争时期。中国的民主党派是(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 15,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25eb3",
+        "label": "A",
+        "description": "民族资产阶级的政党"
+      },
+      {
+        "id": "64a1306c52faff0001f25eb4",
+        "label": "B",
+        "description": "知识分子的政党"
+      },
+      {
+        "id": "64a1306c52faff0001f25eb5",
+        "label": "C",
+        "description": "城市小资产阶级的政党"
+      },
+      {
+        "id": "64a1306c52faff0001f25eb6",
+        "label": "D",
+        "description": "阶级联盟性质的政党"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e53",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "1945年8月25日,中共中央在对时局的宣言中明确提出的口号是(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 16,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25eaf",
+        "label": "A",
+        "description": "抗战、团结、进步"
+      },
+      {
+        "id": "64a1306c52faff0001f25eb0",
+        "label": "B",
+        "description": "和平、民主、团结"
+      },
+      {
+        "id": "64a1306c52faff0001f25eb1",
+        "label": "C",
+        "description": "向北发展,向南防御"
+      },
+      {
+        "id": "64a1306c52faff0001f25eb2",
+        "label": "D",
+        "description": "打倒蒋介石,解放全中国"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e52",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "1936年10月,中国工农红军第一、二、四方面军胜利会师的地点是(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 17,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25eab",
+        "label": "A",
+        "description": "河南洛阳&nbsp;"
+      },
+      {
+        "id": "64a1306c52faff0001f25eac",
+        "label": "B",
+        "description": "江西吉安&nbsp;"
+      },
+      {
+        "id": "64a1306c52faff0001f25ead",
+        "label": "C",
+        "description": "陕北瓦窑堡"
+      },
+      {
+        "id": "64a1306c52faff0001f25eae",
+        "label": "D",
+        "description": "甘肃会宁"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e51",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "日本发动全面侵华战争的起点是(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 18,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25ea6",
+        "label": "A",
+        "description": " 二二八事变"
+      },
+      {
+        "id": "64a1306c52faff0001f25ea7",
+        "label": "B",
+        "description": " 七七事变"
+      },
+      {
+        "id": "64a1306c52faff0001f25ea8",
+        "label": "C",
+        "description": "江西吉安"
+      },
+      {
+        "id": "64a1306c52faff0001f25ea9",
+        "label": "D",
+        "description": "陕北瓦窑堡"
+      },
+      {
+        "id": "64a1306c52faff0001f25eaa",
+        "label": "E",
+        "description": " 华北事变<br/>正确答案: B<br/>17.1936年10月,中国工农红军第一、二、四方面军胜利会师的地点是(    )"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e50",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "1930年1月毛泽东在《星星之火可以燎原》一文中进一步阐明了中国革命只能走与资本主义国家不同的道路。毛泽东这里的“星星之火”指的是(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 19,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25ea2",
+        "label": "A",
+        "description": "秋收起义"
+      },
+      {
+        "id": "64a1306c52faff0001f25ea3",
+        "label": "B",
+        "description": "井冈山革命根据地的创立"
+      },
+      {
+        "id": "64a1306c52faff0001f25ea4",
+        "label": "C",
+        "description": "中国共产党的成立"
+      },
+      {
+        "id": "64a1306c52faff0001f25ea5",
+        "label": "D",
+        "description": "卢沟桥事变"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e4f",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "南昌起义打响了武装反抗国民党反动派的第一枪,这是中国共产党(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 20,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25e9e",
+        "label": "A",
+        "description": "实施土地革命和武装起义方针的开始"
+      },
+      {
+        "id": "64a1306c52faff0001f25e9f",
+        "label": "B",
+        "description": "建设无产阶级领导的新型人民军队的开端"
+      },
+      {
+        "id": "64a1306c52faff0001f25ea0",
+        "label": "C",
+        "description": "实行工农武装割据的开始"
+      },
+      {
+        "id": "64a1306c52faff0001f25ea1",
+        "label": "D",
+        "description": "独立领导革命战争、创建人民军队和武装夺取政权的开端"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e4e",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "中国共产党一经成立,中国革命就展现了新的面貌。不久中国共产党就开始采取民族资产阶级,小资产阶级的政党和政治派别没有采取过也不可能采取的路线,即(     )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 21,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25e9a",
+        "label": "A",
+        "description": "土地革命的方法"
+      },
+      {
+        "id": "64a1306c52faff0001f25e9b",
+        "label": "B",
+        "description": "群众路线的方法"
+      },
+      {
+        "id": "64a1306c52faff0001f25e9c",
+        "label": "C",
+        "description": "统一战线的方法"
+      },
+      {
+        "id": "64a1306c52faff0001f25e9d",
+        "label": "D",
+        "description": "武装斗争的方法"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e4d",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "中国共产党第一次代表大会,选举以下哪位领导人为中共中央局书记(  )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 22,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25e96",
+        "label": "A",
+        "description": "陈独秀"
+      },
+      {
+        "id": "64a1306c52faff0001f25e97",
+        "label": "B",
+        "description": "李大钊"
+      },
+      {
+        "id": "64a1306c52faff0001f25e98",
+        "label": "C",
+        "description": "毛泽东"
+      },
+      {
+        "id": "64a1306c52faff0001f25e99",
+        "label": "D",
+        "description": "王明"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e4c",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "五四运动孕育了以爱国、进步、民主、科学为主要内容的伟大五四精神,其核心是(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 23,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25e92",
+        "label": "A",
+        "description": "进步"
+      },
+      {
+        "id": "64a1306c52faff0001f25e93",
+        "label": "B",
+        "description": "民主"
+      },
+      {
+        "id": "64a1306c52faff0001f25e94",
+        "label": "C",
+        "description": "科学"
+      },
+      {
+        "id": "64a1306c52faff0001f25e95",
+        "label": "D",
+        "description": "爱国主义"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e4b",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "新文化运动提出的基本口号是民主和科学,陈独秀提倡民主和科学是为了(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 24,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25e8e",
+        "label": "A",
+        "description": "实现在中国建设西方式的资产阶级国家这个目标"
+      },
+      {
+        "id": "64a1306c52faff0001f25e8f",
+        "label": "B",
+        "description": "促进马克思主义在中国的传播及其与中国工人运动的结合"
+      },
+      {
+        "id": "64a1306c52faff0001f25e90",
+        "label": "C",
+        "description": "否定中国的全部传统文化"
+      },
+      {
+        "id": "64a1306c52faff0001f25e91",
+        "label": "D",
+        "description": "推翻清政府这个“洋人的朝廷”"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e4a",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "中国历史上第一部具有资产阶级共和国宪法性质的法典是(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 25,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25e8a",
+        "label": "A",
+        "description": "《钦定宪法大纲》"
+      },
+      {
+        "id": "64a1306c52faff0001f25e8b",
+        "label": "B",
+        "description": "《中华民国临时约法》"
+      },
+      {
+        "id": "64a1306c52faff0001f25e8c",
+        "label": "C",
+        "description": "《中华民国约法》"
+      },
+      {
+        "id": "64a1306c52faff0001f25e8d",
+        "label": "D",
+        "description": "《训政纲领》"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e49",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "中国近代史是一部充满磨难、落后挨打的悲惨屈辱史,更是一部中华民族反抗外来侵略、实现民族独立的伟大斗争史。率先发出“振兴中华”呐喊的是(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 26,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25e86",
+        "label": "A",
+        "description": "孙中山"
+      },
+      {
+        "id": "64a1306c52faff0001f25e87",
+        "label": "B",
+        "description": "严复"
+      },
+      {
+        "id": "64a1306c52faff0001f25e88",
+        "label": "C",
+        "description": "康有为"
+      },
+      {
+        "id": "64a1306c52faff0001f25e89",
+        "label": "D",
+        "description": "梁启超"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e48",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "戊戌维新时期,维新派在上海创办的影响较大的报刊是(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 27,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25e82",
+        "label": "A",
+        "description": "《国闻报》"
+      },
+      {
+        "id": "64a1306c52faff0001f25e83",
+        "label": "B",
+        "description": "《时务报》"
+      },
+      {
+        "id": "64a1306c52faff0001f25e84",
+        "label": "C",
+        "description": "《强学报》"
+      },
+      {
+        "id": "64a1306c52faff0001f25e85",
+        "label": "D",
+        "description": "《万国公报》"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e47",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "19世纪60-90年代,清朝统治阶级内部的洋务运动兴办近代企业,建立新式海陆军,创办新式学堂,派遣留学生。洋务派兴办新政的主要目的是(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 28,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25e7e",
+        "label": "A",
+        "description": "迎合帝国主义"
+      },
+      {
+        "id": "64a1306c52faff0001f25e7f",
+        "label": "B",
+        "description": "维护封建统治"
+      },
+      {
+        "id": "64a1306c52faff0001f25e80",
+        "label": "C",
+        "description": "对抗顽固派"
+      },
+      {
+        "id": "64a1306c52faff0001f25e81",
+        "label": "D",
+        "description": "发展资本主义"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e46",
+    "score": 2,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 1,
+    "typeDesc": "单选题",
+    "typeAlias": "单选题",
+    "parentId": null,
+    "description": "太平天国运动之所以是中国农民战争的最高峰,主要因为(    )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 29,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25e7a",
+        "label": "A",
+        "description": " 制定了比较完整的革命纲领"
+      },
+      {
+        "id": "64a1306c52faff0001f25e7b",
+        "label": "B",
+        "description": " 建立了与清政府对峙的政权"
+      },
+      {
+        "id": "64a1306c52faff0001f25e7c",
+        "label": "C",
+        "description": " 对封建王朝的打击空前严重"
+      },
+      {
+        "id": "64a1306c52faff0001f25e7d",
+        "label": "D",
+        "description": " 其规模和延续时间均属空前"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf58563b",
+    "score": 3,
+    "sourceId": "615fe6452f17614af87e821a",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "中共二大的历史意义是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 30,
+    "comments": null,
+    "options": [
+      {
+        "id": "612ed32952faff0001aaee7d",
+        "label": "A",
+        "description": "提出依靠群众的路线方法"
+      },
+      {
+        "id": "612ed32952faff0001aaee7e",
+        "label": "B",
+        "description": "规定了党的中心工作是开展工人运动"
+      },
+      {
+        "id": "612ed32952faff0001aaee7f",
+        "label": "C",
+        "description": "明确提出中国革命的性质、对象和动力"
+      },
+      {
+        "id": "612ed32952faff0001aaee80",
+        "label": "D",
+        "description": "提出了中国共产党的最高纲领和最低纲领"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585636",
+    "score": 3,
+    "sourceId": "612c49e68672567a00317cdd",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "  孙中山晚年确定的三大政策是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 31,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0394",
+        "label": "A",
+        "description": " 联共"
+      },
+      {
+        "id": "609e286d46e0fb00019b0395",
+        "label": "B",
+        "description": " 改组国民党"
+      },
+      {
+        "id": "609e286d46e0fb00019b0396",
+        "label": "C",
+        "description": " 联俄"
+      },
+      {
+        "id": "609e286d46e0fb00019b0397",
+        "label": "D",
+        "description": " 扶助农工"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585635",
+    "score": 3,
+    "sourceId": "612c49e68672567a00317cdc",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "  1979年3月,邓小平在中央理论工作务虚会上首次明确提出必须坚持( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 32,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b034c",
+        "label": "A",
+        "description": " 人民民主专政"
+      },
+      {
+        "id": "609e286d46e0fb00019b034d",
+        "label": "B",
+        "description": " 马克思列宁主义、毛泽东思想"
+      },
+      {
+        "id": "609e286d46e0fb00019b034e",
+        "label": "C",
+        "description": " 共产党的领导"
+      },
+      {
+        "id": "609e286d46e0fb00019b034f",
+        "label": "D",
+        "description": " 社会主义道路"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585634",
+    "score": 3,
+    "sourceId": "612c49e68672567a00317cdb",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "  下列选项中与中共十一届三中全会有关的内容有( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 33,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0348",
+        "label": "A",
+        "description": " 重新确立了马克思主义的思想路线、政治路线和组织路线"
+      },
+      {
+        "id": "609e286d46e0fb00019b0349",
+        "label": "B",
+        "description": " 高度评价了关于真理标准问题的讨论"
+      },
+      {
+        "id": "609e286d46e0fb00019b034a",
+        "label": "C",
+        "description": " 把工作重点转移到社会主义现代化建设上来"
+      },
+      {
+        "id": "609e286d46e0fb00019b034b",
+        "label": "D",
+        "description": " 断然否定“以阶级斗争为纲”的指导思想"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585633",
+    "score": 3,
+    "sourceId": "612c49e68672567a00317cda",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "  我国在对个体进行农业社会主义改造中存在的主要问题是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 34,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0344",
+        "label": "A",
+        "description": " 工作过粗"
+      },
+      {
+        "id": "609e286d46e0fb00019b0345",
+        "label": "B",
+        "description": " 改变过快"
+      },
+      {
+        "id": "609e286d46e0fb00019b0346",
+        "label": "C",
+        "description": " 要求过急"
+      },
+      {
+        "id": "609e286d46e0fb00019b0347",
+        "label": "D",
+        "description": " 形式过于简单划一"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585632",
+    "score": 3,
+    "sourceId": "612c49e68672567a00317cd9",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "  我国农业合作化运动的基本原则和方针包括( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 35,
+    "comments": null,
+    "options": [
+      {
+        "id": "609e286d46e0fb00019b0340",
+        "label": "A",
+        "description": " 积极发展、稳步前进、逐步过渡的方针"
+      },
+      {
+        "id": "609e286d46e0fb00019b0341",
+        "label": "B",
+        "description": " 始终把是否增产作为衡量合作社是否办好的标准"
+      },
+      {
+        "id": "609e286d46e0fb00019b0342",
+        "label": "C",
+        "description": " 坚持自愿和互利的原则"
+      },
+      {
+        "id": "609e286d46e0fb00019b0343",
+        "label": "D",
+        "description": " 社会改造同技术改造相结合"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585609",
+    "score": 3,
+    "sourceId": "60b4814e8672567ec32b6a09",
+    "courseIds": [
+      692,
+      698
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "太平天国农民起义的历史意义是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 36,
+    "comments": null,
+    "options": [
+      {
+        "id": "5fd32b5fc9e77c00018f9616",
+        "label": "A",
+        "description": "沉重打击了封建统治阶级"
+      },
+      {
+        "id": "5fd32b5fc9e77c00018f9617",
+        "label": "B",
+        "description": "  是中国旧式农民战争的最高峰"
+      },
+      {
+        "id": "5fd32b5fc9e77c00018f9618",
+        "label": "C",
+        "description": "  有力的打击了外国侵略势力"
+      },
+      {
+        "id": "5fd32b5fc9e77c00018f9619",
+        "label": "D",
+        "description": " 冲击了西方殖民地主义者在亚洲的统治"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e64",
+    "score": 3,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "中华人民共和国的成立,标志着( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 37,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25ef4",
+        "label": "A",
+        "description": "新民主主义革命取得基本的胜利"
+      },
+      {
+        "id": "64a1306c52faff0001f25ef5",
+        "label": "B",
+        "description": "新民主主义社会在全国范围内的建立"
+      },
+      {
+        "id": "64a1306c52faff0001f25ef6",
+        "label": "C",
+        "description": "半殖民地半封建社会的结束"
+      },
+      {
+        "id": "64a1306c52faff0001f25ef7",
+        "label": "D",
+        "description": "我国社会进入了从新民主主义到社会主义的过渡时期"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e63",
+    "score": 3,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "抗日战争胜利后的政治形势,总的来说,对中国人民实现建设新中国的目标是有利的,表现在( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 38,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25ef0",
+        "label": "A",
+        "description": "帝国主义遭到削弱"
+      },
+      {
+        "id": "64a1306c52faff0001f25ef1",
+        "label": "B",
+        "description": "社会主义国家民族解放运动的力量有了新的发展"
+      },
+      {
+        "id": "64a1306c52faff0001f25ef2",
+        "label": "C",
+        "description": "中国人民的觉悟程度、组织程度空前提高"
+      },
+      {
+        "id": "64a1306c52faff0001f25ef3",
+        "label": "D",
+        "description": "中国共产党在毛泽东思想的基础上达到了高度的团结"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "64a1306c52faff0001f25e62",
+    "score": 3,
+    "sourceId": null,
+    "courseIds": [
+      4,
+      692
+    ],
+    "typeId": 2,
+    "typeDesc": "多选题",
+    "typeAlias": "多选题",
+    "parentId": null,
+    "description": "以国共两党合作为基础的抗日民族统一战线正式形成的标志是( )",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 39,
+    "comments": null,
+    "options": [
+      {
+        "id": "64a1306c52faff0001f25eec",
+        "label": "A",
+        "description": "西安事变的和平解决"
+      },
+      {
+        "id": "64a1306c52faff0001f25eed",
+        "label": "B",
+        "description": "国民党中央通讯社正式发表《中共中央为公布国共合作宣言》"
+      },
+      {
+        "id": "64a1306c52faff0001f25eee",
+        "label": "C",
+        "description": "蒋介石在庐山发表谈话承认中国共产党的合法地位"
+      },
+      {
+        "id": "64a1306c52faff0001f25eef",
+        "label": "D",
+        "description": "国民党五届三中全会"
+      }
+    ],
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  },
+  {
+    "questionId": "63eb46ccbe5a772fcf585643",
+    "score": 10,
+    "sourceId": "616d3e3b86725639294344e1",
+    "courseIds": [
+      692
+    ],
+    "typeId": 3,
+    "typeDesc": "问答题",
+    "typeAlias": "问答题",
+    "parentId": null,
+    "description": "论述太平天国运动的性质、失败原因及其历史意义。",
+    "analysis": null,
+    "solution": null,
+    "userAnswer": null,
+    "userScore": null,
+    "sequence": 40,
+    "comments": null,
+    "options": null,
+    "subQuestions": null,
+    "scorePoints": [],
+    "required": false
+  }
+]
